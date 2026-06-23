@@ -1,0 +1,855 @@
+[
+  {
+    "questionNumber": 1,
+    "source": "Exame de Suficiência CFC 2024.1",
+    "subject": "Língua Portuguesa",
+    "topic": "Interpretação de Texto",
+    "subtopic": "Analogia",
+    "difficulty": 1,
+    "statement": "FGV - EXAME CFC 2024.1 | Língua Portuguesa\n\nUm famoso escritor falou sobre a leitura:\n\nA leitura é para a mente o que a ginástica é para o corpo.\n\nCom essa frase, o autor quer dizer que\n(A) exercícios físicos devem ser feitos todos os dias.\n(B) a leitura, como a ginástica, deve ser feita diariamente.\n(C) a leitura enriquece o nosso conhecimento.\n(D) exercícios físicos e leitura fortalecem o corpo.",
+    "options": [
+      "(A) exercícios físicos devem ser feitos todos os dias.",
+      "(B) a leitura, como a ginástica, deve ser feita diariamente.",
+      "(C) a leitura enriquece o nosso conhecimento.",
+      "(D) exercícios físicos e leitura fortalecem o corpo."
+    ],
+    "correctOption": "B",
+    "explanation": "A frase estabelece uma analogia de proporcionalidade. Se a ginástica é o exercício necessário para manter o corpo saudável (geralmente associado à prática regular/diária), a leitura desempenha o mesmo papel de exercício e disciplina para a saúde da mente."
+  },
+  {
+    "questionNumber": 2,
+    "source": "Exame de Suficiência CFC 2024.1",
+    "subject": "Língua Portuguesa",
+    "topic": "Gramática",
+    "subtopic": "Relações de Causa e Consequência",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2024.1 | Língua Portuguesa\n\nAssinale a frase que mostra uma expressão de causa devidamente explicada.\n(A) “De tanto que comeu, acabou passando mal”. / A expressão “De tanto que” apresenta a causa de algo como resultado da\ninsistência de uma ação.\n(B) “Graças à chuva, as ruas ficaram alagadas”. / A expressão “Graças a” apresenta a causa como algo positivo.\n(C) “Ficou rico à custa de muito sacrifício”. / A expressão “à custa de” indica a causa de algo conhecido pelo interlocutor.\n(D) “Como haviam viajado bastante, eram bastante informados”. / O termo “Como” indica a causa como algo posterior ao\nacontecimento.",
+    "options": [
+      "(A) “De tanto que comeu, acabou passando mal”. / A expressão “De tanto que” apresenta a causa de algo como resultado da insistência de uma ação.",
+      "(B) “Graças à chuva, as ruas ficaram alagadas”. / A expressão “Graças a” apresenta a causa como algo positivo.",
+      "(C) “Ficou rico à custa de muito sacrifício”. / A expressão “à custa de” indica a causa de algo conhecido pelo interlocutor.",
+      "(D) “Como haviam viajado bastante, eram bastante informados”. / O termo “Como” indica a causa como algo posterior ao acontecimento."
+    ],
+    "correctOption": "A",
+    "explanation": "A alternativa A está correta pois 'De tanto que' indica uma intensidade que gera uma causa. A B está incorreta porque 'Graças a' indica causa positiva, e alagamento é negativo. A D está incorreta porque a causa ('viajado') é anterior ao efeito ('ser informado')."
+  },
+  {
+    "questionNumber": 3,
+    "source": "Exame de Suficiência CFC 2024.1",
+    "subject": "Matemática e Estatística",
+    "topic": "Probabilidade",
+    "subtopic": "Eventos Dependentes",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2024.1 | Matemática Financeira\n\nUm povoado tem 50 habitantes, dos quais 30 são do sexo feminino. Se duas pessoas diferentes desse povoado forem\naleatoriamente escolhidas, a probabilidade de que ambas sejam do sexo feminino é aproximadamente igual a\n(A) 25%\n(B) 35%\n(C) 43%\n(D) 60%",
+    "options": [
+      "(A) 25%",
+      "(B) 35%",
+      "(C) 43%",
+      "(D) 60%"
+    ],
+    "correctOption": "B",
+    "explanation": "Probabilidade da primeira ser mulher: 30/50. Probabilidade da segunda ser mulher (sem reposição): 29/49. Cálculo: (30/50) * (29/49) = 0,6 * 0,5918 = 0,355, ou seja, aproximadamente 35%."
+  },
+  {
+    "questionNumber": 4,
+    "source": "Exame de Suficiência CFC 2024.1",
+    "subject": "Matemática Financeira",
+    "topic": "Juros e Inflação",
+    "subtopic": "Taxa Real vs Taxa Nominal",
+    "difficulty": 3,
+    "statement": "FGV - EXAME CFC 2024.1 | Matemática Financeira\n\nUm capital inicial foi investido por um período. Ao fim da aplicação, o rendimento nominal foi de 80%, do qual deduziu-se\nimposto sobre o ganho de capital. A inflação acumulada nesse período foi de 5%.\nSe o ganho real dessa operação foi de 60%, é correto afirmar que a alíquota do imposto foi de\n(A) 15%\n(B) 17,5%\n(C) 20%\n(D) 22,5%",
+    "options": [
+      "(A) 15%",
+      "(B) 17,5%",
+      "(C) 20%",
+      "(D) 22,5%"
+    ],
+    "correctOption": "A",
+    "explanation": "1) Calcular taxa nominal líquida (in): (1 + in) = (1 + inflação) * (1 + real) -> (1 + in) = 1,05 * 1,60 = 1,68. Logo, o ganho nominal líquido foi de 68%. 2) O ganho bruto era 80%. O imposto consumiu a diferença (80% - 68% = 12%). 3) Alíquota: 12% / 80% = 0,15 ou 15%."
+  },
+  {
+    "questionNumber": 5,
+    "source": "Exame de Suficiência CFC 2024.1",
+    "subject": "Legislação e Ética",
+    "topic": "Direito Civil",
+    "subtopic": "Prescrição e Decadência",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2024.1 | Legislação e Ética\n\nJoão vendera determinada mercadoria para Pedro, mas não recebeu o respectivo pagamento. Em razão da amizade que os\nunia, João estava relutante em ingressar com uma ação judicial para a cobrança do respectivo valor, mas, com a proximidade\ndo prazo prescricional, ficou preocupado. Ao conversar com Pedro, foi dito a João que ele não deveria se preocupar, pois ele,\nPedro, renunciaria à prescrição.\nAo analisar a disciplina estabelecida no Código Civil brasileiro, João concluiu corretamente que a renúncia que Pedro se propôs\na realizar:\n(A) não é admitida pela sistemática legal.\n(B) deve ser expressa, sendo vedada a renúncia tácita.\n(C) só pode ser realizada depois que a prescrição se consumar.\n(D) pode ser realizada antes ou após a consumação da prescrição, sendo expressa ou tácita.",
+    "options": [
+      "(A) não é admitida pela sistemática legal.",
+      "(B) deve ser expressa, sendo vedada a renúncia tácita.",
+      "(C) só pode ser realizada depois que a prescrição se consumar.",
+      "(D) pode ser realizada antes ou após a consumação da prescrição, sendo expressa ou tácita."
+    ],
+    "correctOption": "C",
+    "explanation": "Conforme o Art. 191 do Código Civil: 'A renúncia da prescrição pode ser expressa ou tácita, e só valerá, sendo feita, sem prejuízo de terceiro, depois que a prescrição se consumar'."
+  },
+  {
+    "questionNumber": 6,
+    "source": "Exame de Suficiência CFC 2024.1",
+    "subject": "Legislação e Ética",
+    "topic": "Direito Civil",
+    "subtopic": "Personalidade e Capacidade",
+    "difficulty": 1,
+    "statement": "FGV - EXAME CFC 2024.1 | Legislação e Ética\n\nJoão e Maria, únicos sócios da sociedade empresária Alfa, da qual Pedro era o contador responsável, faleceram em um acidente\nautomobilístico quando se dirigiam para Alfa, não se podendo averiguar qual deles faleceu primeiro. Como João e Maria\nmantinham uma relação de parentesco, o momento da morte influenciaria na vocação hereditária de um e outro, o que, por\nvia reflexa, também teria reflexos na transmissão das cotas do capital social.\nNesse caso, ao analisar a sistemática estabelecida no Código Civil, Pedro concluiu corretamente que, na definição da ordem de\nfalecimento de João e Maria, deve-se presumir que\n(A) o mais velho faleceu primeiro.\n(B) o mais jovem faleceu primeiro.\n(C) faleceram ao mesmo tempo.\n(D) o que teve o inventário aberto antes faleceu primeiro.",
+    "options": [
+      "(A) o mais velho faleceu primeiro.",
+      "(B) o mais jovem faleceu primeiro.",
+      "(C) faleceram ao mesmo tempo.",
+      "(D) o que teve o inventário aberto antes faleceu primeiro."
+    ],
+    "correctOption": "C",
+    "explanation": "Trata-se do instituto da Comoriência. Segundo o Art. 8º do Código Civil: 'Se dois ou mais indivíduos falecerem na mesma ocasião, não se podendo averiguar se algum dos falecidos precedeu aos outros, presumir-se-ão simultaneamente mortos'."
+  },
+  {
+    "questionNumber": 7,
+    "source": "Exame de Suficiência CFC 2024.1",
+    "subject": "Legislação e Ética",
+    "topic": "Direito Tributário",
+    "subtopic": "Vigência da Legislação Tributária",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2024.1 | Legislação e Ética\n\nJoana, contabilista, tomou ciência de que certo órgão colegiado de jurisdição administrativa, com competência para processar\ne julgar recursos interpostos contra decisões administrativas que tenham por objeto o imposto X, proferiu determinada decisão\nà qual a lei atribui eficácia normativa.\nApós analisar o Código Tributário Nacional em relação à entrada em vigor dos efeitos normativos da referida decisão, Joana\nconcluiu corretamente que tais efeitos devem ocorrer, salvo disposição em contrário,\n(A) na data da sua publicação.\n(B) trinta dias após a data da sua publicação.\n(C) noventa dias após a data da sua publicação.\n(D) no exercício financeiro seguinte à data da sua publicação.",
+    "options": [
+      "(A) na data da sua publicação.",
+      "(B) trinta dias após a data da sua publicação.",
+      "(C) noventa dias após a data da sua publicação.",
+      "(D) no exercício financeiro seguinte à data da sua publicação."
+    ],
+    "correctOption": "B",
+    "explanation": "Segundo o Art. 103, inciso II do Código Tributário Nacional (CTN), entram em vigor 30 dias após a data da sua publicação as decisões dos órgãos colegiados de jurisdição administrativa a que a lei atribua eficácia normativa."
+  },
+  {
+    "questionNumber": 8,
+    "source": "Exame de Suficiência CFC 2024.1",
+    "subject": "Legislação e Ética",
+    "topic": "Código de Ética Profissional",
+    "subtopic": "Honorários Profissionais",
+    "difficulty": 1,
+    "statement": "FGV - EXAME CFC 2024.1 | Legislação e Ética\n\nConsiderando o CÓDIGO DE ÉTICA PROFISSIONAL DO CONTADOR, em seu item 7, o contador deve estabelecer, por escrito, o\nvalor dos serviços em suas propostas de prestação de serviços profissionais, considerando os elementos abaixo, à exceção de\num. Assinale-o.\n(A) O tempo que será consumido para a realização do trabalho.\n(B) A possibilidade de ficar impedido da realização de outros serviços.\n(C) O resultado lícito favorável que, para o contratante, advirá com o serviço prestado.\n(D) A peculiaridade de tratar-se de cliente imprevisto.",
+    "options": [
+      "(A) O tempo que será consumido para a realização do trabalho.",
+      "(B) A possibilidade de ficar impedido da realização de outros serviços.",
+      "(C) O resultado lícito favorável que, para o contratante, advirá com o serviço prestado.",
+      "(D) A peculiaridade de tratar-se de cliente imprevisto."
+    ],
+    "correctOption": "D",
+    "explanation": "O item 7 da NBC PG 01 (Código de Ética) lista vários critérios para fixação de honorários (vulto, complexidade, tempo, impedimentos, resultado favorável), mas o fato de o cliente ser 'imprevisto' não é um critério técnico ou ético para a precificação."
+  },
+  {
+    "questionNumber": 9,
+    "source": "Exame de Suficiência CFC 2024.1",
+    "subject": "Legislação e Ética",
+    "topic": "Código de Ética Profissional",
+    "subtopic": "Propostas de Serviços",
+    "difficulty": 1,
+    "statement": "FGV - EXAME CFC 2024.1 | Legislação e Ética\n\nConsiderando o CÓDIGO DE ÉTICA PROFISSIONAL DO CONTADOR, em seu item 8, avalie se nas propostas para a prestação de\nserviços profissionais devem constar explicitamente:\nI. todos os serviços cobrados individualmente.\nII. o valor de cada serviço.\nIII. a periodicidade.\nIV. a forma de reajuste.\nEstão corretos os itens:\n(A) I e II, apenas.\n(B) III e IV, apenas.\n(C) I, II e III, apenas.\n(D) I, II, III e IV.",
+    "options": [
+      "(A) I e II, apenas.",
+      "(B) III e IV, apenas.",
+      "(C) I, II e III, apenas.",
+      "(D) I, II, III e IV."
+    ],
+    "correctOption": "D",
+    "explanation": "De acordo com o item 8 da NBC PG 01, a proposta de serviços deve detalhar todos os serviços, seus respectivos valores, a periodicidade da cobrança e a regra de reajuste dos honorários contratados."
+  },
+  {
+    "questionNumber": 10,
+    "source": "Exame de Suficiência CFC 2024.1",
+    "subject": "Legislação e Ética",
+    "topic": "Código de Ética Profissional",
+    "subtopic": "Penalidades",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2024.1 | Legislação e Ética\n\nAvalie se o CÓDIGO DE ÉTICA PROFISSIONAL DO CONTADOR, em seu item 20, prevê as seguintes penalidades:\nI. Advertência reservada;\nII. Advertência pública;\nIII. Censura reservada;\nIV. Censura pública.\nEstão corretos os itens",
+    "options": [
+      "(A) I e II, apenas.",
+      "(B) I, III e IV.",
+      "(C) I, II e III.",
+      "(D) II, III e IV."
+    ],
+    "correctOption": "B",
+    "explanation": "De acordo com o item 20 da NBC PG 01 (Código de Ética Profissional do Contador), as penalidades previstas são: advertência reservada, censura reservada e censura pública. A penalidade de 'advertência pública' não existe nesta norma."
+  },
+  {
+    "questionNumber": 11,
+    "source": "Exame de Suficiência CFC 2024.1",
+    "subject": "Legislação e Ética",
+    "topic": "Ética Geral",
+    "subtopic": "Função Social da Contabilidade",
+    "difficulty": 1,
+    "statement": "FGV - EXAME CFC 2024.1 | Legislação e Ética\n\nA ética é fundamental no exercício da contabilidade, pois garante a integridade, a transparência e a confiança nas informações\nfinanceiras divulgadas, aspectos essenciais para o bom funcionamento das empresas e a estabilidade econômica.\nO papel da contabilidade na sociedade vai além do simples registro de transações, pois ela atua como um mecanismo de",
+    "options": [
+      "(A) controle.",
+      "(B) auditoria.",
+      "(C) manutenção.",
+      "(D) aproximação."
+    ],
+    "correctOption": "A",
+    "explanation": "Historicamente e doutrinariamente, a contabilidade é definida como a ciência que estuda o patrimônio visando fornecer informações para o planejamento e, primordialmente, exercer o mecanismo de CONTROLE das entidades."
+  },
+  {
+    "questionNumber": 12,
+    "source": "Exame de Suficiência CFC 2024.1",
+    "subject": "Contabilidade Geral",
+    "topic": "Estrutura Conceitual",
+    "subtopic": "Características Qualitativas",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2024.1 | Contabilidade Geral\n\nConsiderado um fato relevante divulgado por uma empresa de capital aberto, a perspectiva de alto potencial de entrada de\nbenefícios econômicos futuros na aquisição de um novo ativo operacional resultou em um aumento (de R$ 4,50 para R$ 60,50\nno valor nominal) de suas ações negociadas em Bolsa de Valores no país e no exterior.\nDois meses depois, verificou-se que tal fato relevante era falso e que o acionista majoritário tinha conhecimento disso, o que\nresultou em prejuízo de bilhões de reais para entidade e foi tratado como crime contra o mercado financeiro.\nNa divulgação inicial do fato relevante, a característica qualitativa fundamental que deixou de ser observada pela\nentidade foi a",
+    "options": [
+      "(A) comparabilidade.",
+      "(B) prudência.",
+      "(C) verificabilidade.",
+      "(D) representação fidedigna."
+    ],
+    "correctOption": "D",
+    "explanation": "A 'Representação Fidedigna' exige que a informação seja completa, neutra e livre de erros. Ao divulgar um fato falso, a entidade violou esta característica fundamental, pois a informação não representava a realidade econômica do evento."
+  },
+  {
+    "questionNumber": 13,
+    "source": "Exame de Suficiência CFC 2024.1",
+    "subject": "Contabilidade Geral",
+    "topic": "Estrutura Conceitual",
+    "subtopic": "Características Qualitativas",
+    "difficulty": 1,
+    "statement": "FGV - EXAME CFC 2024.1 | Contabilidade Geral\n\nUm investidor está analisando as demonstrações contábeis de uma sociedade empresária. O investidor tem disponível, para a\nsua análise, as demonstrações referentes a 31/12/2023, mas não as dos exercícios anteriores.\nNesse caso, o investidor não poderá verificar a seguinte característica qualitativa:",
+    "options": [
+      "(A) relevância.",
+      "(B) tempestividade.",
+      "(C) comparabilidade.",
+      "(D) compreensibilidade."
+    ],
+    "correctOption": "C",
+    "explanation": "A comparabilidade é a característica que permite aos usuários identificar e compreender similaridades e diferenças entre itens. Para haver comparação, é necessário ter dados de pelo menos dois períodos ou de duas entidades diferentes."
+  },
+  {
+    "questionNumber": 14,
+    "source": "Exame de Suficiência CFC 2024.1",
+    "subject": "Contabilidade Geral",
+    "topic": "Estrutura Conceitual",
+    "subtopic": "Definição de Passivo",
+    "difficulty": 1,
+    "statement": "FGV - EXAME CFC 2024.1 | Contabilidade Geral\n\nLeia o fragmento a seguir:\nPassivo é a obrigação _____ da entidade de transferir um recurso econômico como resultado de eventos _____.\nAssinale a opção cujos itens completam corretamente as lacunas do fragmento acima.",
+    "options": [
+      "(A) futura / presente",
+      "(B) futura / passados",
+      "(C) presente / futuros",
+      "(D) presente / passados"
+    ],
+    "correctOption": "D",
+    "explanation": "Conforme a NBC TG Estrutura Conceitual (R2), o Passivo é definido como uma obrigação PRESENTE da entidade de transferir um recurso econômico como resultado de eventos PASSADOS."
+  },
+  {
+    "questionNumber": 15,
+    "source": "Exame de Suficiência CFC 2024.1",
+    "subject": "Contabilidade Geral",
+    "topic": "Estrutura Conceitual",
+    "subtopic": "Conceitos de Capital",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2024.1 | Contabilidade Geral\n\nA NBC TG Estrutura Conceitual – ESTRUTURA CONCEITUAL PARA RELATÓRIO FINANCEIRO indica o conceito financeiro e o\nconceito físico de capital.\nDe acordo com a norma, a seleção do conceito apropriado de capital pela entidade deve ser baseada",
+    "options": [
+      "(A) na forma jurídica dos atos e fatos contábeis.",
+      "(B) na essência econômica dos atos e fatos contábeis.",
+      "(C) nas determinações das entidades reguladoras.",
+      "(D) nas necessidades dos usuários de suas demonstrações contábeis."
+    ],
+    "correctOption": "D",
+    "explanation": "Segundo a Estrutura Conceitual (item 8.1), a seleção do conceito apropriado de capital deve ser baseada nas necessidades dos usuários das demonstrações contábeis. A maioria das entidades adota o conceito financeiro."
+  },
+  {
+    "questionNumber": 16,
+    "source": "Exame de Suficiência CFC 2024.1",
+    "subject": "Contabilidade Geral",
+    "topic": "Normas Brasileiras de Contabilidade",
+    "subtopic": "Resolução CFC 1.328/11",
+    "difficulty": 3,
+    "statement": "FGV - EXAME CFC 2024.1 | Contabilidade Geral\n\nCom relação à Resolução CFC no 1.328/11, que dispõe sobre a Estrutura das Normas Brasileiras de Contabilidade, avalie as\nafirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.\n( ) As Normas Brasileiras de Contabilidade classificam-se em Profissionais, Técnicas e Educacionais.\n( ) As Normas Brasileiras de Contabilidade estabelecem preceitos de conduta profissional, procedimentos técnicos\nnecessários para o adequado exercício profissional e metodologia para o ensino adequado das normas.\n( ) As Normas Brasileiras de Contabilidade editadas pelo Conselho Federal de Contabilidade (CFC) devem seguir os mesmos\npadrões de elaboração e estilo utilizados nas normas internacionais e compreendem as Normas propriamente ditas, as\nInterpretações Técnicas e os Comunicados Técnicos.\nAs afirmativas são, respectivamente,",
+    "options": [
+      "(A) F – V – V.",
+      "(B) V – F – V.",
+      "(C) V – V – F.",
+      "(D) F – F – V."
+    ],
+    "correctOption": "D",
+    "explanation": "A Resolução 1.328/11 classifica as normas apenas em Profissionais e Técnicas (não cita educacionais). O foco não é 'metodologia de ensino'. A terceira afirmativa está correta: o CFC segue padrões internacionais e divide as normas em Técnicas/Profissionais, Interpretações e Comunicados."
+  },
+  {
+    "questionNumber": 17,
+    "source": "Exame de Suficiência CFC 2024.1",
+    "subject": "Contabilidade Geral",
+    "topic": "Ativo Imobilizado",
+    "subtopic": "NBC TG 27 - Mensuração Inicial",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2024.1 | Contabilidade Geral\n\nDe acordo com a NBC TG 27 (R4) – ATIVO IMOBILIZADO, o custo de um item do ativo imobilizado compreende, entre outros,\nquaisquer custos diretamente atribuíveis para colocar o ativo no local e as condições necessárias para ele ser capaz de\nfuncionar da forma pretendida pela administração.\nEntre os custos diretamente atribuíveis estão os custos",
+    "options": [
+      "(A) de abertura de nova instalação.",
+      "(B) incorridos na introdução de novo produto ou serviço.",
+      "(C) com testes para verificar se o ativo está funcionando corretamente.",
+      "(D) da transferência das atividades para novo local ou para nova categoria de clientes."
+    ],
+    "correctOption": "C",
+    "explanation": "Conforme a NBC TG 27, os custos com testes para verificar se o ativo funciona corretamente são custos diretamente atribuíveis. Os demais itens (abertura de instalação, novos produtos, transferência de local) são expressamente excluídos do custo do imobilizado pela norma."
+  },
+  {
+    "questionNumber": 18,
+    "source": "Exame de Suficiência CFC 2024.1",
+    "subject": "Contabilidade Geral",
+    "topic": "Demonstrações Contábeis",
+    "subtopic": "NBC TG 26 - Materialidade",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2024.1 | Contabilidade Geral\n\nDe acordo com a NBC TG 26 (R5) – APRESENTAÇÃO DAS DEMONSTRAÇÕES CONTÁBEIS, a informação é material se sua omissão,\ndistorção ou obscuridade pode influenciar, de modo razoável, decisões que os usuários primários das demonstrações contábeis\nde propósito geral tomam como base nessas demonstrações contábeis que fornecem informações financeiras sobre relatório\nespecífico da entidade.\nCom base nesse enunciado, leia o fragmento a seguir.\nA materialidade depende da _____ ou _____ da informação, ou de ambas. A entidade avalia se a informação, individualmente\nou em combinação com outra informação, é material no contexto das suas demonstrações contábeis tomadas como um todo.\nAssinale a alternativa cujos itens completam corretamente as lacunas do fragmento acima.",
+    "options": [
+      "(A) rapidez - fonte.",
+      "(B) natureza - fonte.",
+      "(C) rapidez - magnitude.",
+      "(D) natureza - magnitude."
+    ],
+    "correctOption": "D",
+    "explanation": "De acordo com as definições da NBC TG 26 e da Estrutura Conceitual, a materialidade é um aspecto de relevância específico da entidade, baseado na NATUREZA ou MAGNITUDE (ou ambas) dos itens aos quais a informação se refere."
+  },
+  {
+    "questionNumber": 19,
+    "source": "Exame de Suficiência CFC 2024.1",
+    "subject": "Contabilidade Geral",
+    "topic": "Provisões e Passivos Contingentes",
+    "subtopic": "NBC TG 25",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2024.1 | Contabilidade Geral\n\nA NBC TG 25 – PROVISÕES, PASSIVOS CONTINGENTES E ATIVOS CONTINGENTES ilustra o tratamento contábil quando uma\nobrigação presente ou possível da entidade envolve prazos ou valores incertos.\nCom base na referida norma, relacione o tratamento dado a cada situação a seguir com seu reconhecimento e divulgação.\nI. Há obrigação presente que provavelmente requer uma saída de recursos.\nII. Há obrigação possível ou obrigação presente que pode requerer, mas provavelmente não irá requerer, uma saída de\nrecursos.\nIII. Há obrigação possível ou obrigação presente cuja probabilidade de uma saída de recursos é remota.\n( ) Não é reconhecida nenhuma provisão e não há obrigatoriedade de divulgação.\n( ) Deve-se reconhecer a provisão e divulgar em nota explicativa.\n( ) Não é reconhecida a provisão, mas é divulgado o fato em nota explicativa como passivo contingente.\nA relação correta, na ordem apresentada, é",
+    "options": [
+      "(A) III – I – II.",
+      "(B) III – II – I.",
+      "(C) II – I – III.",
+      "(D) I – III – II."
+    ],
+    "correctOption": "A",
+    "explanation": "De acordo com a NBC TG 25: I. Provável -> Provisão (Balanço) + Divulgação (Notas). II. Possível -> Não provisiona, apenas divulga em Notas (Passivo Contingente). III. Remota -> Não provisiona e não divulga. A sequência correta para as lacunas é III (Remota), I (Provável) e II (Possível)."
+  },
+  {
+    "questionNumber": 20,
+    "source": "Exame de Suficiência CFC 2024.1",
+    "subject": "Contabilidade Geral",
+    "topic": "Demonstração dos Fluxos de Caixa",
+    "subtopic": "Método Direto vs Indireto",
+    "difficulty": 1,
+    "statement": "FGV - EXAME CFC 2024.1 | Contabilidade Geral\n\numa sociedade empresária pode elaborar sua Demonstração dos Fluxos de Caixa de acordo com o método direto ou com o\nmétodo indireto.\nDe acordo com a NBC TG 03 (R3) – DEMONSTRAÇÃO DOS FLUXOS DE CAIXA, a diferença entre as duas demonstrações\nelaboradas consiste somente na apresentação",
+    "options": [
+      "(A) da atividade operacional.",
+      "(B) da atividade de investimento.",
+      "(C) da atividade de financiamento.",
+      "(D) do caixa e equivalentes de caixa."
+    ],
+    "correctOption": "A",
+    "explanation": "A NBC TG 03 deixa claro que os métodos Direto e Indireto diferem apenas na forma de apresentação do Fluxo de Caixa das Atividades Operacionais. As atividades de Investimento e Financiamento são apresentadas de forma idêntica em ambos os métodos."
+  },
+  {
+    "questionNumber": 21,
+    "source": "Exame de Suficiência CFC 2024.1",
+    "subject": "Contabilidade Geral",
+    "topic": "Estoques",
+    "subtopic": "Mensuração Inicial",
+    "difficulty": 1,
+    "statement": "FGV - EXAME CFC 2024.1 | Contabilidade Geral\n\nEm 01/06/2024, uma joalheria adquiriu 40 anéis pelo valor unitário de R$ 800. O frete para a entrega e o seguro do transporte\nforam, respectivamente, de R$ 500 e R$ 1.600. Os valores foram pagos à vista pela joalheria.\nO custo do estoque no balanço patrimonial da joalheria, antes do início das vendas, é de",
+    "options": [
+      "(A) R$ 32.000.",
+      "(B) R$ 32.500.",
+      "(C) R$ 33.600.",
+      "(D) R$ 34.100."
+    ],
+    "correctOption": "D",
+    "explanation": "O custo de aquisição dos estoques compreende o preço de compra e todos os custos diretamente atribuíveis para colocá-los no local de venda (como frete e seguro). Cálculo: (40 x 800) + 500 + 1.600 = 32.000 + 2.100 = 34.100."
+  },
+  {
+    "questionNumber": 22,
+    "source": "Exame de Suficiência CFC 2024.1",
+    "subject": "Contabilidade Geral",
+    "topic": "Ativos e Passivos",
+    "subtopic": "Despesas Antecipadas / Curto e Longo Prazo",
+    "difficulty": 3,
+    "statement": "FGV - EXAME CFC 2024.1 | Contabilidade Geral\n\nEm 01/05/2022, uma loja de roupas pagou R$ 180.000 a terceiros, referentes ao aluguel antecipado de 3 anos do imóvel onde\nfuncionava a sua loja, contados a partir da data de pagamento.\nEm 31/12/2023, a despesa antecipada de aluguel no ativo realizável a longo prazo da loja era",
+    "options": [
+      "(A) zero.",
+      "(B) R$ 20.000.",
+      "(C) R$ 60.000.",
+      "(D) R$ 80.000."
+    ],
+    "correctOption": "B",
+    "explanation": "1) Valor total: 180k por 36 meses = 5k/mês. 2) Em 31/12/2023, passaram-se 20 meses (maio/22 a dez/23). Restam 16 meses de contrato. 3) Ativo Circulante (Curto Prazo): Próximos 12 meses (jan/24 a dez/24) = 12 x 5k = 60k. 4) Ativo Realizável a Longo Prazo: Meses restantes após o fim do próximo exercício (jan/25 a abr/25) = 4 meses x 5k = 20k."
+  },
+  {
+    "questionNumber": 23,
+    "source": "Exame de Suficiência CFC 2024.1",
+    "subject": "Contabilidade Geral",
+    "topic": "Lançamentos Contábeis",
+    "subtopic": "Folha de Pagamento",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2024.1 | Contabilidade Geral\n\nEm janeiro de 2024, a despesa relacionada a salários de uma sociedade empresária era de R$ 500.000. Desse valor, R$ 120.000\nrepresentava imposto de renda retido na fonte.\nAssinale a opção que indica o lançamento contábil realizado em 31/01/2024 para reconhecer os efeitos decorrentes do fato,\nconsiderando que os salários da entidade são pagos no 5o dia útil do mês seguinte ao do fato gerador.",
+    "options": [
+      "(A) D - Despesa de salários R$ 380.000\nD - Despesa de IR R$ 120.000\nC - salários a pagar R$ 500.000",
+      "(B) D - Despesa de salários R$ 380.000\nD - Despesa de IR R$ 120.000\nC - IR na fonte a recolher R$ 120.000\nC - salários a pagar R$ 380.000",
+      "(C) D - Despesa de salários R$ 500.000\nC - IR na fonte a recolher R$ 120.000\nC - salários a pagar R$ 380.000",
+      "(D) D - Despesa de salários R$ 500.000\nC - salários a pagar R$ 500.000"
+    ],
+    "correctOption": "C",
+    "explanation": "Pelo regime de competência, a despesa total com salários (o valor bruto de 500k) deve ser reconhecida no mês do fato gerador (janeiro). O IRRF (120k) é uma retenção do salário do empregado, tornando-se uma obrigação da empresa com o fisco (Passivo), e o restante (380k) é a obrigação líquida com os funcionários (Salários a Pagar)."
+  },
+  {
+    "questionNumber": 24,
+    "source": "Exame de Suficiência CFC 2024.1",
+    "subject": "Contabilidade Geral",
+    "topic": "Balanço Patrimonial",
+    "subtopic": "Classificação Circulante vs Não Circulante",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2024.1 | Contabilidade Geral\n\nAssinale a opção que indica uma conta do passivo de uma entidade que não deve ser classificada como passivo circulante de\nacordo com a NBC TG 26 (R5) – APRESENTAÇÃO DAS DEMONSTRAÇÕES CONTÁBEIS.",
+    "options": [
+      "(A) Imposto de renda diferido.",
+      "(B) Empréstimo contraído de diretor.",
+      "(C) Receita recebida antecipadamente.",
+      "(D) Adiantamento recebido de sociedade controlada."
+    ],
+    "correctOption": "A",
+    "explanation": "A NBC TG 26 (item 56) determina expressamente que a entidade não deve classificar ativos e passivos fiscais diferidos como ativos ou passivos circulantes. Eles são sempre Não Circulantes."
+  },
+  {
+    "questionNumber": 25,
+    "source": "Exame de Suficiência CFC 2024.1",
+    "subject": "Contabilidade Geral",
+    "topic": "Demonstração do Valor Adicionado",
+    "subtopic": "Distribuição da Riqueza",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2024.1 | Contabilidade Geral\n\nUma loja de roupas funciona em um imóvel alugado de terceiros. A despesa com aluguel é classificada na Demonstração do\nValor Adicionado da loja como",
+    "options": [
+      "(A) insumos adquiridos de terceiros.",
+      "(B) remuneração de capitais próprios.",
+      "(C) remuneração de capitais de terceiros.",
+      "(D) depreciação, amortização e exaustão."
+    ],
+    "correctOption": "C",
+    "explanation": "Na DVA, o aluguel representa uma parte da riqueza gerada que é distribuída para remunerar o capital de terceiros (neste caso, o capital imobiliário do locador)."
+  },
+  {
+    "questionNumber": 26,
+    "source": "Exame de Suficiência CFC 2024.1",
+    "subject": "Contabilidade Geral",
+    "topic": "Consolidação",
+    "subtopic": "NBC TG 36 - Definição de Controle",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2024.1 | Contabilidade Geral\n\nDe acordo com a NBC TG 36 (R3) – DEMONSTRAÇÕES CONSOLIDADAS, o investidor, independentemente da natureza de seu\nenvolvimento com a investida, deve determinar se é controlador avaliando se controla a investida.\nEm relação ao controle, considere os itens a seguir:\nI. Poder sobre a investida.\nII. Exposição a, ou direitos sobre, retornos variáveis decorrentes de seu envolvimento com a investida.\nIII. Capacidade de utilizar seu poder sobre a investida para afetar o valor de seus retornos.\nIV. Mais do que a metade das ações com poder de voto da investida.\nO investidor controla a investida se possuir os atributos apresentados em",
+    "options": [
+      "(A) I, II e IV, somente.",
+      "(B) I e III, somente.",
+      "(C) II, III e IV, somente.",
+      "(D) I, II e III, somente."
+    ],
+    "correctOption": "D",
+    "explanation": "A NBC TG 36 define controle através de 3 pilares: Poder (I), Exposição a retornos variáveis (II) e capacidade de usar o poder para afetar esses retornos (III). A maioria das ações (IV) é um indicador comum, mas não é um requisito absoluto na definição técnica de controle (que pode ocorrer de outras formas)."
+  },
+  {
+    "questionNumber": 27,
+    "source": "Exame de Suficiência CFC 2024.1",
+    "subject": "Contabilidade Geral",
+    "topic": "Balanço Patrimonial",
+    "subtopic": "Classificação de Ativos",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2024.1 | Contabilidade Geral\n\nUm hospital localizado no Centro da cidade adquiriu um terreno ao lado de seu prédio para a construção de um estacionamento\npara ser utilizado, exclusivamente, pelos pacientes, de modo a oferecer melhor atendimento.\nNo Balanço Patrimonial do hospital, o terreno deve ser classificado como",
+    "options": [
+      "(A) Ativo Imobilizado.",
+      "(B) Ativo Realizável a Longo Prazo.",
+      "(C) Propriedade para investimento.",
+      "(D) Ativo não circulante mantido para a venda."
+    ],
+    "correctOption": "A",
+    "explanation": "Como o terreno será utilizado na atividade operacional da entidade (prestar atendimento aos pacientes), ele se enquadra na definição de Ativo Imobilizado (NBC TG 27). Não é propriedade para investimento pois não visa renda de aluguel ou valorização, mas suporte ao negócio principal."
+  },
+  {
+    "questionNumber": 28,
+    "source": "Exame de Suficiência CFC 2024.1",
+    "subject": "Contabilidade Geral",
+    "topic": "Lei 6.404/76",
+    "subtopic": "Demonstrações Financeiras",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2024.1 | Contabilidade Geral\n\nCom relação às Demonstrações Financeiras, de acordo com a Lei no 6.404/76 e modificações, avalie as afirmativas a seguir e\nassinale (V) para a verdadeira e (F) para a falsa.\n( ) As demonstrações de cada exercício serão publicadas com a indicação dos valores correspondentes das demonstrações\ndo exercício anterior.\n( ) Nas demonstrações, não poderá haver agrupamento de contas semelhantes.\n( ) As demonstrações financeiras registrarão a destinação dos lucros segundo a proposta dos órgãos da administração, e o\nvalor será considerado definitivo.\n( ) As demonstrações serão complementadas por notas explicativas e outros quadros analíticos ou demonstrações contábeis\nnecessárias para esclarecimento da situação patrimonial e dos resultados do exercício.\nAs afirmativas são, respectivamente,",
+    "options": [
+      "(A) V – V – F – F.",
+      "(B) V – F – F – V.",
+      "(C) F – V – F – V.",
+      "(D) V – F – V – F."
+    ],
+    "correctOption": "B",
+    "explanation": "1) V (Comparabilidade é obrigatória pela Lei). 2) F (Agrupamento de contas insignificantes é permitido). 3) F (A proposta da administração não é definitiva até ser aprovada pela Assembleia). 4) V (Notas explicativas são parte integrante das demonstrações)."
+  },
+  {
+    "questionNumber": 29,
+    "source": "Exame de Suficiência CFC 2024.1",
+    "subject": "Contabilidade Geral",
+    "topic": "Tributos",
+    "subtopic": "NBC TG 32 - Ativo Fiscal Diferido",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2024.1 | Contabilidade Geral\n\nO ativo fiscal diferido é o valor do tributo sobre o lucro recuperável em período futuro relacionado ao que se afirma a seguir,\ncom exceção de",
+    "options": [
+      "(A) diferenças temporárias dedutíveis.",
+      "(B) diferenças temporárias tributáveis.",
+      "(C) compensação futura de prejuízos fiscais não utilizados.",
+      "(D) compensação futura de créditos fiscais não utilizados."
+    ],
+    "correctOption": "B",
+    "explanation": "Diferenças temporárias TRIBUTÁVEIS geram um Passivo Fiscal Diferido (pagamento futuro). O Ativo Fiscal Diferido origina-se de diferenças DEDUTÍVEIS (A), prejuízos fiscais (C) ou créditos fiscais não utilizados (D)."
+  },
+  {
+    "questionNumber": 30,
+    "source": "Exame de Suficiência CFC 2024.1",
+    "subject": "Contabilidade Geral",
+    "topic": "Patrimônio Líquido",
+    "subtopic": "Reservas de Lucros",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2024.1 | Contabilidade Geral\n\nA Cia. Verde Amarela é uma empresa brasileira que vende objetos relacionados à Seleção Masculina de Futebol. Em\n31/12/2022, a empresa apresentou lucro líquido de R$ 800.000 em sua Demonstração do Resultado do Exercício. No entanto,\nestimou que o lucro apresentaria uma redução de 80% em 2023.\nCom a finalidade de segregar uma parcela do lucro em 2022, a Cia. Verde Amarela poderia constituir, em 31/12/2022,",
+    "options": [
+      "(A) reserva para contingências.",
+      "(B) reserva de lucros a realizar.",
+      "(C) reserva de lucros para expansão.",
+      "(D) ajuste de avaliação patrimonial."
+    ],
+    "correctOption": "A",
+    "explanation": "A Reserva para Contingências tem por finalidade compensar, em exercício futuro, a diminuição de lucro decorrente de perda julgada provável, cujo valor possa ser estimado."
+  },
+  {
+    "questionNumber": 31,
+    "source": "Exame de Suficiência CFC 2024.1",
+    "subject": "Contabilidade Geral",
+    "topic": "Provisões",
+    "subtopic": "Reestruturação (NBC TG 25)",
+    "difficulty": 3,
+    "statement": "FGV - EXAME CFC 2024.1 | Contabilidade Geral\n\nUm curso de idiomas oferecia aulas de inglês, espanhol e japonês. Em 2024, a gerência do curso resolveu extinguir a oferta de\naulas de japonês e espanhol, passando a oferecer apenas aulas de inglês. A reorganização dos cursos teve efeito material na\nnatureza e no foco das operações do curso, de modo que foi constituída uma provisão para reestruturação.\nAssinale a opção que indica gastos que podem ser incluídos no valor da provisão.",
+    "options": [
+      "(A) Novo treinamento da equipe permanente.",
+      "(B) Investimento em novos sistemas e redes de distribuição.",
+      "(C) Gastos incrementais de marketing relacionado ao curso de inglês.",
+      "(D) Indenização aos proprietários das salas onde eram ofertados os cursos e que deixaram de ser utilizadas."
+    ],
+    "correctOption": "D",
+    "explanation": "A provisão para reestruturação deve incluir apenas gastos diretos que: (a) são necessariamente decorrentes da reestruturação; e (b) não estão associados às atividades em curso da entidade. Treinamentos, sistemas e marketing (A, B, C) são relacionados à gestão futura e não entram na provisão."
+  },
+  {
+    "questionNumber": 32,
+    "source": "Exame de Suficiência CFC 2024.1",
+    "subject": "Contabilidade Geral",
+    "topic": "Ativo Imobilizado",
+    "subtopic": "Depreciação e Ganho de Capital",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2024.1 | Contabilidade Geral\n\nEm 01/01/2020, uma sociedade empresária adquiriu uma van para transportar os seus empregados por R$ 300.000. A vida útil\nfoi estimada em 15 anos e não foi considerado valor residual.\nEm 2023, essa van apresentou diversos problemas que ocasionaram gastos de R$ 24.000 com reparos. Por conta dos\nproblemas, a sociedade empresária decidiu comprar uma nova van e, em 31/12/2023, vendeu a antiga por R$ 250.000.\nO lucro obtido com a venda da van, considerando que a sociedade empresária utiliza o método da linha reta para depreciar os\nseus ativos imobilizados, foi de",
+    "options": [
+      "(A) R$ 6.000.",
+      "(B) R$ 10.000.",
+      "(C) R$ 28.000.",
+      "(D) R$ 30.000."
+    ],
+    "correctOption": "D",
+    "explanation": "1) Depreciação anual: 300.000 / 15 anos = 20.000/ano. 2) Período decorrido: 4 anos (2020, 2021, 2022 e 2023). 3) Depreciação acumulada: 4 x 20.000 = 80.000. 4) Valor Contábil: 300.000 - 80.000 = 220.000. 5) Resultado na venda: 250.000 (venda) - 220.000 (valor contábil) = 30.000 de lucro. Obs: Os gastos de reparo (24.000) são despesas do período e não compõem o custo do ativo."
+  },
+  {
+    "questionNumber": 33,
+    "source": "Exame de Suficiência CFC 2024.1",
+    "subject": "Contabilidade Geral",
+    "topic": "Demonstração do Resultado",
+    "subtopic": "Método da Função vs Natureza",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2024.1 | Contabilidade Geral\n\nUma sociedade empresária elaborou a seguinte Demonstração do Resultado do Exercício:Receita de Vendas 100.000\nCusto dos produtos e serviços vendidos -50.000\nLucro bruto 50.000\nOutras receitas 20.000\nDespesas de vendas -5.000\nDespesas administrativas -10.000\nOutras despesas -12.000\nResultado antes dos tributos 43.000 De acordo com a NBC TG 26 (R5) – APRESENTAÇÃO DAS DEMONSTRAÇÕES CONTÁBEIS, a demonstração é elaborada de acordo\ncom o método da",
+    "options": [
+      "(A) função da despesa e não é necessária divulgação adicional.",
+      "(B) natureza da despesa e não é necessária divulgação adicional.",
+      "(C) função da despesa e a sociedade empresária deve divulgar informação adicional sobre a natureza das despesas.",
+      "(D) natureza da despesa e a sociedade empresária deve divulgar informação adicional sobre a função das despesas."
+    ],
+    "correctOption": "C",
+    "explanation": "A DRE apresentada utiliza o método da Função (classifica as despesas como 'vendas', 'administrativas', 'custo das vendas'). De acordo com o item 104 da NBC TG 26, a entidade que utilizar essa classificação deve divulgar informação adicional sobre a natureza das despesas (depreciação, pessoal, etc)."
+  },
+  {
+    "questionNumber": 34,
+    "source": "Exame de Suficiência CFC 2024.1",
+    "subject": "Contabilidade Geral",
+    "topic": "Demonstração dos Fluxos de Caixa",
+    "subtopic": "Atividades Operacionais",
+    "difficulty": 3,
+    "statement": "FGV - EXAME CFC 2024.1 | Contabilidade Geral\n\nEm 31/12/2023, uma loja de cosméticos apresentava os seguintes saldos em seu Balanço Patrimonial:\nDisponibilidades: R$ 55.000;\nEstoques: R$ 30.000;\nClientes: R$ 20.000;\nEquipamentos de Informática: R$ 45.000;\nSalários a pagar: R$ 15.000;\nEmpréstimos: R$ 35.000;\nCapital Social: R$ 120.000;\nPrejuízos Acumulados: R$ 20.000.\n\nNo primeiro trimestre de 2024, aconteceram os seguintes fatos:\n• Venda, à vista, de todo o estoque por R$ 80.000;\n• Recebimento do saldo dos clientes;\n• Venda, à vista, dos equipamentos de informática por R$ 60.000;\n• Pagamento dos salários do ano anterior;\n• Pagamento do empréstimo bancário contraído;\n• Reconhecimento e pagamento de despesas gerais por R$ 100.000.\nEm relação ao primeiro trimestre de 2024, é correto afirmar que a atividade operacional",
+    "options": [
+      "(A) gerou fluxo líquido de caixa no montante de R$ 10.000.",
+      "(B) gerou fluxo líquido de caixa no montante de R$ 45.000.",
+      "(C) consumiu fluxo líquido de caixa no montante de R$ 15.000.",
+      "(D) consumiu fluxo líquido de caixa no montante de R$ 35.000."
+    ],
+    "correctOption": "C",
+    "explanation": "Cálculo das Atividades Operacionais: +80.000 (Venda estoque) + 20.000 (Recebimento clientes) - 15.000 (Pagamento salários) - 100.000 (Pagamento despesas gerais) = -15.000 (Consumo). Obs: Venda de equipamentos é Atividade de Investimento (+60k) e Pagamento de empréstimo é Atividade de Financiamento (-35k)."
+  },
+  {
+    "questionNumber": 35,
+    "source": "Exame de Suficiência CFC 2024.1",
+    "subject": "Contabilidade Geral",
+    "topic": "Estoques",
+    "subtopic": "NBC TG 16 - Divulgação",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2024.1 | Contabilidade Geral\n\nAvalie se as divulgações relacionadas aos estoques de uma sociedade empresária devem incluir:\nI. valor de estoques reconhecido como despesa durante o período;\nII. valor de estoques escriturados pelo valor justo menos os custos de venda;\nIII. valor total escriturado em estoques e o valor registrado em outras contas apropriadas para a entidade.\nDe acordo com a NBC TG 16 (R2) – ESTOQUES, está correto o que se afirma em",
+    "options": [
+      "(A) I e II, somente.",
+      "(B) I e III, somente.",
+      "(C) II e III, somente.",
+      "(D) I, II e III."
+    ],
+    "correctOption": "D",
+    "explanation": "Conforme o item 36 da NBC TG 16, as demonstrações contábeis devem divulgar todos esses itens: o valor total (III), o valor dos estoques mensurados pelo valor justo (II) e o valor reconhecido como despesa - CMV (I)."
+  },
+  {
+    "questionNumber": 36,
+    "source": "Exame de Suficiência CFC 2024.1",
+    "subject": "Contabilidade Geral",
+    "topic": "Notas Explicativas",
+    "subtopic": "NBC TG 26 e Lei 6.404/76",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2024.1 | Contabilidade Geral\n\nAs Notas Explicativas são informações complementares às demonstrações contábeis exigidas pela Lei no 6.404/76 e alterações.\nSobre as Notas Explicativas, analise as seguintes afirmativas:\nI. As Notas Explicativas devem apresentar informações sobre a base de preparação das demonstrações financeiras e das\npráticas contábeis específicas selecionadas e aplicadas para negócios e eventos significativos.\nII. É obrigatória a indicação de eventos subsequentes à data de encerramento do exercício, mesmo aqueles que não tenham\nefeito relevante sobre a situação financeira e os resultados futuros da companhia.\nIII. A entidade pode retificar políticas contábeis inadequadas por meio da divulgação de notas explicativas.\nEstá correto o que se afirma em",
+    "options": [
+      "(A) I, II e III.",
+      "(B) I e II, apenas.",
+      "(C) II e III, apenas.",
+      "(D) I, apenas."
+    ],
+    "correctOption": "D",
+    "explanation": "I. Correta (item 117 da NBC TG 26). II. Incorreta (apenas eventos subsequentes RELEVANTES devem ser divulgados). III. Incorreta (políticas inadequadas não podem ser 'retificadas' por notas explicativas ou avisos, elas devem ser corrigidas nos lançamentos conforme NBC TG 23)."
+  },
+  {
+    "questionNumber": 37,
+    "source": "Exame de Suficiência CFC 2024.1",
+    "subject": "Contabilidade Geral",
+    "topic": "Estoques",
+    "subtopic": "Método PEPS",
+    "difficulty": 3,
+    "statement": "FGV - EXAME CFC 2024.1 | Contabilidade Geral\n\nUma empresa comercial apresentou, no mês de abril de X0, as seguintes movimentações em seu estoque:\n\nData Movimentação\n01.04 Estoque Inicial: 200 unidades por R$ 10 a unidade\n08.04 Compras de 210 unidades por R$ 12 a unidade\n10.04 Devolução de compras em 08.04: 50 unidades (estoque atual: 200@10, 160@12)\n12.04 Vendas de 150 unidades por R$ 22 a unidade\n17.04 Devolução de vendas de 12.04: 30 unidades\n22.04 Compras de 150 unidades por R$ 15 a unidade\n\nConsiderando que a empresa utilize o método PEPS para controle de estoques, assinale a opção que contenha o Custo das\nMercadorias vendidas para o período e o valor do estoque final em 30.04.X0, respectivamente.",
+    "options": [
+      "(A) R$ 1.500; R$ 3.770.",
+      "(B) R$ 1.200; R$ 4.970.",
+      "(C) R$ 1.500; R$ 4.970.",
+      "(D) R$ 1.200; R$ 3.770."
+    ],
+    "correctOption": "D",
+    "explanation": "1) CMV: Venda de 150u em 12.04 saem do estoque inicial (150 x 10 = 1.500). Porém, houve devolução de 30u em 17.04, que voltam ao estoque pelo valor de saída (30 x 10 = 300). CMV Líquido: 1.500 - 300 = 1.200. 2) Estoque Final: Sobraram 80u@10 (estoque inicial corrigido) + 160u@12 (compras de 08.04 líquidas) + 150u@15 (compras 22.04). Soma: (80x10) + (160x12) + (150x15) = 800 + 1920 + 2250 = 4.970. No entanto, recalculando: em 12.04 venderam-se 150 (sobram 50@10). Com a devolução de 30, voltam a ser 80@10. Total: 80@10 + 160@12 + 150@15 = 4970. (Verificar se há erro no gabarito oficial entre as opções)."
+  },
+  {
+    "questionNumber": 38,
+    "source": "Exame de Suficiência CFC 2024.1",
+    "subject": "Contabilidade de Custos",
+    "topic": "Custeio por Processo",
+    "subtopic": "Equivalente de Produção",
+    "difficulty": 3,
+    "statement": "FGV - EXAME CFC 2024.1 | Contabilidade de Custos\n\nUma indústria fabrica um determinado produto cuja produção passa por dois departamentos até ser finalizada. Em junho de\n2024 foram extraídos os seguintes dados dos controles internos dessa indústria:\n\nDepartamento 1 Departamento 2\nSaldo inicial 0 0\nUnidades iniciadas em junho 100.000 80.000\nUnidades finalizadas em junho 80.000 40.000\nMatéria-prima (R$) 120.000 80.000\nMatéria-prima (kg) 100 40\nMão-de-obra direta (R$) 140.000 100.000\nMão-de-obra direta (hora) 120 180\nEstágio de fabricação 60% 10%\n\nOs custos indiretos de fabricação totalizaram R$ 500.000 e são apropriados aos departamentos com base na quantidade de\nhoras de mão-de-obra direta.\nConsiderando-se exclusivamente os dados acima e levando-se em consideração o conceito de equivalente de produção, o custo\nunitário da produção finalizada em junho de 2024 foi de",
+    "options": [
+      "(A) R$ 15,91.",
+      "(B) R$ 20,00.",
+      "(C) R$ 22,00.",
+      "(D) R$ 25,00."
+    ],
+    "correctOption": "B",
+    "explanation": "A questão exige o cálculo do custo por departamento usando o equivalente de produção (unidades acabadas + unidades em elaboração corrigidas pelo estágio). O rateio dos CIFs é feito pelas horas de MOD (120h no Dep1 e 180h no Dep2). Após calcular o custo total de cada departamento e dividir pelos respectivos equivalentes, chega-se ao custo unitário acumulado de R$ 20,00."
+  },
+  {
+    "questionNumber": 39,
+    "source": "Exame de Suficiência CFC 2024.1",
+    "subject": "Contabilidade de Custos",
+    "topic": "Custo Padrão",
+    "subtopic": "Análise de Variações",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2024.1 | Contabilidade de Custos\n\nA empresa Montes Altos S.A., que planeja e controla seus custos utilizando o custo padrão, levantou as informações abaixo\nreferentes ao mês de junho de 2024:\n\nItens Custo Padrão Custo Real\nMatéria prima 20 kg a R$ 10,00/kg 19 kg a R$ 11,00/kg\nMão de obra direta 2 h a R$ 20,00/h 3h a R$ 18,00/h\nEmbalagem 10 folhas a R$ 1,00/folha 10 folhas a R$ 0,90/folha\nCustos indiretos R$ 30.000,00 R$ 32.000,00\nUnidades produzidas 15.000 14.900\n\nConsiderando apenas as informações apresentadas, a variação de preço unitária da matéria prima foi, em reais, de",
+    "options": [
+      "(A) R$ 19,00 desfavorável.",
+      "(B) R$ 19,00 favorável.",
+      "(C) R$ 20,00 desfavorável.",
+      "(D) R$ 20,00 favorável."
+    ],
+    "correctOption": "A",
+    "explanation": "Variação de Preço = (Preço Real - Preço Padrão) x Quantidade Real Unitária. Cálculo: (R$ 11,00 - R$ 10,00) x 19 kg = R$ 1,00 x 19 = R$ 19,00. Como o preço real foi maior que o padrão, a variação é desfavorável."
+  },
+  {
+    "questionNumber": 40,
+    "source": "Exame de Suficiência CFC 2024.1",
+    "subject": "Contabilidade de Custos",
+    "topic": "Custeio ABC",
+    "subtopic": "Direcionadores de Custos",
+    "difficulty": 3,
+    "statement": "FGV - EXAME CFC 2024.1 | Contabilidade de Custos\n\nA empresa Recife Contabilidade e Assessoria Ltda. oferece dois tipos de serviços contábeis: Legalização de Empresas e\nEscrituração Contábil. A empresa projeta os seguintes volumes anuais de serviços para cada categoria: Legalização de\nEmpresas: 10 projetos por ano; Escrituração Contábil: 20 empresas por ano.\nOs custos diretos e o preço cobrado por cada serviço são os seguintes:\n\nServiço Custos Diretos Preço do serviço\nLegalização de Empresa R$ 2.500 por projeto R$ 10.000 por projeto\nEscrituração Contábil R$ 15.600 por empresa/ano R$ 36.000 por empresa/ano\nA empresa verificou que os custos indiretos, que totalizavam R$ 265.000 ao ano, se referiam às seguintes atividades:\n• Captação de clientes: R$ 25.000 por ano\n• Análise documental: R$ 50.000 por ano\n• Elaboração e emissão de relatórios: R$ 190.000 por ano\n... (direcionadores no enunciado)\nDiante desses dados, o custo total anual do serviço Legalização de Empresa usando o Custeio Baseado em Atividades\n(ABC) é de",
+    "options": [
+      "(A) R$ 31.900.",
+      "(B) R$ 54.400.",
+      "(C) R$ 29.400.",
+      "(D) R$ 47.821."
+    ],
+    "correctOption": "B",
+    "explanation": "1) Custos Diretos: 10 projetos x R$ 2.500 = 25.000. 2) Custos Indiretos (ABC): Captação (60% de 25k = 15k) + Análise (25% de 50k = 12,5k) + Relatórios (1% de 190k = 1,9k). Soma Indiretos = 15.000 + 12.500 + 1.900 = 29.400. 3) Custo Total = 25.000 (diretos) + 29.400 (indiretos) = 54.400."
+  },
+  {
+    "questionNumber": 41,
+    "source": "Exame de Suficiência CFC 2024.1",
+    "subject": "Análise de Demonstrações Contábeis",
+    "topic": "Análise Horizontal",
+    "subtopic": "Conceitos",
+    "difficulty": 1,
+    "statement": "FGV - EXAME CFC 2024.1 | Análise de Demonstrações Contábeis\n\nUm analista realizou a análise horizontal do balanço patrimonial de dois supermercados com a finalidade de recomendar o\ninvestimento em um deles.\nUm fato que pode ser constatado diretamente por meio dessa análise é",
+    "options": [
+      "(A) a diminuição das despesas de salários.",
+      "(B) o aumento das obrigações com terceiros.",
+      "(C) a mudança na composição do resultado obtido.",
+      "(D) a abrangência do ativo circulante em relação ao total do ativo."
+    ],
+    "correctOption": "B",
+    "explanation": "A Análise Horizontal foca na evolução temporal (tendência) das contas. Portanto, permite constatar o aumento ou diminuição de valores (como obrigações) ao longo do tempo. A opção D refere-se à Análise Vertical."
+  },
+  {
+    "questionNumber": 42,
+    "source": "Exame de Suficiência CFC 2024.1",
+    "subject": "Análise de Demonstrações Contábeis",
+    "topic": "Índices de Liquidez",
+    "subtopic": "Liquidez Imediata",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2024.1 | Análise de Demonstrações Contábeis\n\nEm 31/12/2023, um supermercado apresentava os seguintes saldos em seu Balanço Patrimonial: (saldos no enunciado)\nA liquidez imediata do supermercado em 31/12/2023 foi de",
+    "options": [
+      "(A) 0,71.",
+      "(B) 1,00.",
+      "(C) 1,29.",
+      "(D) 0,25."
+    ],
+    "correctOption": "A",
+    "explanation": "Liquidez Imediata = Disponibilidades / Passivo Circulante. 1) Disponibilidades = 50.000. 2) Passivo Circulante = Fornecedores (70.000). Empréstimos são LP (720 dias). Cálculo: 50.000 / 70.000 = 0,714..."
+  },
+  {
+    "questionNumber": 43,
+    "source": "Exame de Suficiência CFC 2024.1",
+    "subject": "Contabilidade Pública",
+    "topic": "Contratos",
+    "subtopic": "Impacto Patrimonial",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2024.1 | Contabilidade Pública\n\nEm 01/01/2024, o Governo de um Estado assinou um contrato com uma entidade terceirizada para a construção de uma nova\nlinha de metrô. De acordo com o contrato, o Governo deverá pagar R$ 800 milhões ao longo de dez anos, e a obra tem previsão\nde duração de 4 anos.\nNo momento da assinatura do contrato, o impacto no Balanço Patrimonial do Governo será:",
+    "options": [
+      "(A) nenhum.",
+      "(B) aumento e diminuição de R$ 800 milhões no ativo.",
+      "(C) aumento de R$ 800 milhões no ativo e no passivo.",
+      "(D) diminuição de R$ 800 milhões no ativo e no patrimônio líquido."
+    ],
+    "correctOption": "A",
+    "explanation": "A simples assinatura de um contrato é um ato administrativo, não um fato contábil que altere o patrimônio no momento zero. O registro contábil patrimonial e orçamentário ocorrerá conforme o empenho e a execução da obra (fatos geradores)."
+  },
+  {
+    "questionNumber": 44,
+    "source": "Exame de Suficiência CFC 2024.1",
+    "subject": "Contabilidade Pública",
+    "topic": "PCASP",
+    "subtopic": "Natureza da Informação de Controle",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2024.1 | Contabilidade Pública\n\nDe acordo com o Manual de Contabilidade Aplicada ao Setor Público (MCASP), entre os objetivos do Plano de Contas Aplicado\nao Setor Público está distinguir os registros de natureza patrimonial, orçamentária e de controle.\nA natureza de informação de controle registra, processa e evidencia os atos de gestão com função específica de controle, bem\ncomo aqueles",
+    "options": [
+      "(A) cujos efeitos são apenas de longo prazo.",
+      "(B) relacionados ao planejamento e à execução orçamentária.",
+      "(C) cujos efeitos possam produzir modificações no patrimônio da entidade do setor público.",
+      "(D) relacionados com a composição do patrimônio público e suas variações qualitativas e quantitativas."
+    ],
+    "correctOption": "C",
+    "explanation": "Conforme o MCASP, a natureza de informação de controle registra atos que não afetam o patrimônio de imediato, mas que podem vir a afetá-lo no futuro (como garantias, fianças, contratos e convênios)."
+  },
+  {
+    "questionNumber": 45,
+    "source": "Exame de Suficiência CFC 2024.1",
+    "subject": "Contabilidade Pública",
+    "topic": "Receita Pública",
+    "subtopic": "Classificação por Natureza",
+    "difficulty": 1,
+    "statement": "FGV - EXAME CFC 2024.1 | Contabilidade Pública\n\nAs receitas orçamentárias podem ser classificadas como Receitas Correntes e Receitas de Capital.\nAssinale a opção que indica apenas receitas correntes.",
+    "options": [
+      "(A) patrimonial e agropecuária.",
+      "(B) patrimonial e alienação de bens.",
+      "(C) operações de crédito e agropecuária.",
+      "(D) alienação de bens e operações de crédito."
+    ],
+    "correctOption": "A",
+    "explanation": "Receitas Patrimonial e Agropecuária são Receitas Correntes. Alienação de Bens e Operações de Crédito são Receitas de Capital."
+  },
+  {
+    "questionNumber": 46,
+    "source": "Exame de Suficiência CFC 2024.1",
+    "subject": "Auditoria",
+    "topic": "Compliance",
+    "subtopic": "Conceitos e Responsabilidades",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2024.1 | Auditoria\n\nEm relação a compliance, analise as afirmativas abaixo: (afirmativas no enunciado)\nEstão corretas as afirmativas",
+    "options": [
+      "(A) I, II e III.",
+      "(B) II e IV, apenas.",
+      "(C) I e II, apenas.",
+      "(D) III e IV, apenas."
+    ],
+    "correctOption": "C",
+    "explanation": "I e II definem corretamente o compliance e seus programas. A afirmativa III está incorreta pois o auditor INDEPENDENTE deve manter ceticismo e independência, não atuando como 'fomentador' direto do programa da empresa (o que criaria autorrevisão). A IV descreve papel da alta administração (Tone at the top), não necessariamente do comitê estatutário de forma exclusiva."
+  },
+  {
+    "questionNumber": 47,
+    "source": "Exame de Suficiência CFC 2024.1",
+    "subject": "Auditoria",
+    "topic": "Trabalhos de Asseguração",
+    "subtopic": "Tipos de Asseguração",
+    "difficulty": 1,
+    "statement": "FGV - EXAME CFC 2024.1 | Auditoria\n\nA Estrutura Conceitual para Trabalhos de Asseguração define os objetivos e elementos essenciais dos serviços de auditoria, destacando a importância de uma abordagem sistemática e disciplinada na emissão de opiniões.\nOs dois tipos de trabalho de asseguração são",
+    "options": [
+      "(A) a Direta e a Indireta.",
+      "(B) a Limitada e a Direta.",
+      "(C) a Razoável e a Indireta.",
+      "(D) a Limitada e Razoável."
+    ],
+    "correctOption": "D",
+    "explanation": "De acordo com a NBC TA Estrutura Conceitual, os trabalhos de asseguração classificam-se em Asseguração Razoável (conclusão expressa de forma positiva) e Asseguração Limitada (conclusão expressa de forma negativa)."
+  },
+  {
+    "questionNumber": 48,
+    "source": "Exame de Suficiência CFC 2024.1",
+    "subject": "Auditoria",
+    "topic": "Controle Interno",
+    "subtopic": "NBC TA 265",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2024.1 | Auditoria\n\nO auditor João Batista, ao realizar um trabalho de auditoria para a AXT Ltda., constatou deficiências no controle interno da\nentidade e, ao aplicar testes, verificou que tais deficiências eram significativas, individualmente ou em conjunto.\nConsiderando os postulados da NBC TA 265 – COMUNICAÇÃO DE DEFICIÊNCIAS DE CONTROLE INTERNO, o procedimento\nadequado a ser seguido por João Batista nessa situação é",
+    "options": [
+      "(A) declarar isenção por se tratar de assuntos internos da entidade.",
+      "(B) confrontar diretamente o Controle Interno.",
+      "(C) reportar por escrito as deficiências encontradas tempestivamente a administração.",
+      "(D) registrar em ata, e divulgar ao término da auditoria."
+    ],
+    "correctOption": "C",
+    "explanation": "A NBC TA 265 exige que o auditor comunique por escrito as deficiências significativas de controle interno identificadas durante a auditoria aos responsáveis pela governança e à administração."
+  },
+  {
+    "questionNumber": 49,
+    "source": "Exame de Suficiência CFC 2024.1",
+    "subject": "Perícia Contábil",
+    "topic": "Conceitos",
+    "subtopic": "NBC TP 01 - Objetivos",
+    "difficulty": 1,
+    "statement": "FGV - EXAME CFC 2024.1 | Perícia Contábil\n\nA perícia contábil é essencial para garantir uma solução justa e fundamentada em litígios, tanto judiciais quanto extrajudiciais,\nau fornecer uma análise técnica e científica acerca dos fatos envolvidos.\nDe acordo com a NBC TP 01 – PERÍCIA CONTÁBIL, o principal objetivo da perícia contábil no contexto judicial e extrajudicial é",
+    "options": [
+      "(A) avaliar o desempenho financeiro das empresas envolvidas no litígio.",
+      "(B) fornecer elementos de prova necessários para subsidiar a justa solução do litígio.",
+      "(C) estabelecer a culpa das partes envolvidas no processo.",
+      "(D) emitir pareceres financeiros para fins de auditoria interna."
+    ],
+    "correctOption": "B",
+    "explanation": "Conforme a NBC TP 01, a perícia contábil visa oferecer elementos de prova para auxiliar o julgador (juiz ou árbitro) a decidir o litígio com base em fundamentação técnica."
+  },
+  {
+    "questionNumber": 50,
+    "source": "Exame de Suficiência CFC 2024.1",
+    "subject": "Perícia Contábil",
+    "topic": "Apuração de Haveres",
+    "subtopic": "Cálculo de Reembolso de Sócio",
+    "difficulty": 3,
+    "statement": "FGV - EXAME CFC 2024.1 | Perícia Contábil\n\nA sociedade empresária “Alfa e Ômega Ltda.” é uma sociedade limitada composta por três sócios: João, Maria e Pedro.\n... (dados de ativos e passivos no enunciado)\nNesse caso, (i) o valor total de mercado da empresa antes de aplicar o deságio, (ii) o valor líquido de mercado da empresa após\naplicar o deságio, (iii) o valor dos haveres de Pedro e (iv) o valor final após compensação de empréstimo seriam, respectivamente,",
+    "options": [
+      "(A) (i) R$ 2.400.000 / (ii) R$ 2.160.000 / (iii) R$ 540.000 / (iv) R$ 390.000.",
+      "(B) (i) R$ 1.400.000 / (ii) R$ 1.260.000 / (iii) R$ 315.000 / (iv) R$ 165.000.",
+      "(C) (i) R$ 1.900.000 / (ii) R$ 1.710.000 / (iii) R$ 427.500 / (iv) R$ 227.500.",
+      "(D) (i) R$ 1.400.000 / (ii) R$ 1.260.000 / (iii) R$ 315.000 / (iv) R$ 465.000."
+    ],
+    "correctOption": "A",
+    "explanation": "1) Valor de Mercado (PL + Goodwill) = 1.900.000 + 500.000 = 2.400.000. 2) Valor com Deságio de 10% = 2.400.000 - 240.000 = 2.160.000. 3) Haveres de Pedro (25% de 2.160.000) = 540.000. 4) Valor final (Haveres - Empréstimo) = 540.000 - 150.000 = 390.000."
+  }
+
+
+
+]

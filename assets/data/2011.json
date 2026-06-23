@@ -1,0 +1,682 @@
+[
+  {
+    "questionNumber": 1,
+    "source": "Exame de Suficiência CFC 2011",
+    "subject": "Contabilidade Geral",
+    "topic": "Demonstrações Contábeis",
+    "subtopic": "Demonstração do Valor Adicionado (DVA)",
+    "difficulty": 3,
+    "statement": "FGV - EXAME CFC 2011 | Contabilidade Geral\n\n Uma sociedade empresária adquiriu mercadorias para revenda por R$5.000,00,\nneste valor incluído ICMS de R$1.000,00. No mesmo período, revendeu toda a\nmercadoria adquirida por R$9.000,00, neste valor incluído ICMS de R$1.800,00. A\nsociedade empresária registrou, no período, despesas com representação\ncomercial no montante de R$1.200,00 e depreciação de veículos de R$200,00.\nNa Demonstração do Valor Adicionado - DVA, elaborada a partir dos dados\nfornecidos, o valor adicionado a distribuir é igual a:",
+    "options": [
+      "a) R$1.800,00.",
+      "b) R$2.600,00.",
+      "c) R$3.200,00.",
+      "d) R$4.000,00."
+    ],
+    "correctOption": "B",
+    "explanation": "Pela NBC TG 09, a DVA é estruturada da seguinte forma: 1. Receitas: Vendas = 9.000,00 (o ICMS está incluso). 2. Insumos adquiridos de terceiros: Custo das Mercadorias = 5.000,00 (impostos inclusos) + Despesas com representação comercial = 1.200,00. Total de Insumos = 6.200,00. 3. Valor Adicionado Bruto = 9.000,00 - 6.200,00 = 2.800,00. 4. Retenções: Depreciação = 200,00. 5. Valor Adicionado Líquido = 2.800,00 - 200,00 = 2.600,00. Como não há valor recebido em transferência, o Valor Adicionado a Distribuir é R$ 2.600,00."
+  },
+  {
+    "questionNumber": 2,
+    "source": "Exame de Suficiência CFC 2011",
+    "subject": "Contabilidade Geral",
+    "topic": "Operações Comerciais e Financeiras",
+    "subtopic": "Ajuste a Valor Presente (AVP)",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2011 | Contabilidade Geral\n\n Uma companhia efetuou, em dezembro de 2010, a venda de mercadorias para\nrecebimento com prazo de 13 meses, considerando uma taxa de juros de 10% no\nperíodo. O valor da nota fiscal foi de R$110.000,00.\nO registro contábil CORRETO no ato da transação é:",
+    "options": [
+      "a) Débito: Contas a Receber (Ativo Não Circulante) R$110.000,00\nCrédito: Receita Bruta de Vendas R$110.000,00",
+      "b) Débito: Contas a Receber (Ativo Não Circulante) R$110.000,00\nCrédito: Receita Bruta de Vendas R$100.000,00\nCrédito: Receita Financeira R$10.000,00",
+      "c) Débito: Contas a Receber (Ativo Não Circulante) R$100.000,00\nCrédito: Receita Bruta de Vendas R$100.000,00",
+      "d) Débito: Contas a Receber (Ativo Não Circulante) R$110.000,00\nCrédito: Receita Bruta de Vendas R$100.000,00\nCrédito: Receita Financeira a Apropriar (Ativo Não Circulante) R$10.000,00"
+    ],
+    "correctOption": "D",
+    "explanation": "Como a venda é de longo prazo (13 meses), deve-se reconhecer o Ajuste a Valor Presente (AVP). O valor futuro na nota fiscal é R$ 110.000,00, com juros embutidos de 10%. Logo, o valor presente da receita é 110.000 / 1,10 = R$ 100.000,00. A diferença (R$ 10.000,00) representa juros a apropriar. O lançamento correto registra o direito total no Ativo, a receita pelo valor presente e a conta retificadora de juros a apropriar (que será reconhecida como receita financeira ao longo do tempo pelo regime de competência)."
+  },
+  {
+    "questionNumber": 3,
+    "source": "Exame de Suficiência CFC 2011",
+    "subject": "Contabilidade Geral",
+    "topic": "Estoques",
+    "subtopic": "Ficha de Controle de Estoque (PEPS)",
+    "difficulty": 3,
+    "statement": "FGV - EXAME CFC 2011 | Contabilidade Geral\n\n Uma sociedade empresária realizou as seguintes aquisições de produtos no\nprimeiro bimestre de 2011:\n\n3.1.2011 40 unidades a R$30,00\n24.1.2011 50 unidades a R$24,00\n1.2.2011 50 unidades a R$20,00\n15.2.2011 60 unidades a R$20,00\n\nSabe-se que:\nA empresa não apresentava estoque inicial.\nNo dia 10.2.2011, foram vendidas 120 unidades de produtos ao preço de\nR$40,00 cada uma.\nNão será considerada a incidência de ICMS nas operações de compra e\nvenda.\nO critério de avaliação adotado para as mercadorias vendidas é o PEPS.\nO Lucro Bruto com Mercadorias, a quantidade final de unidades em estoque e o\nvalor unitário de custo em estoques de produtos, no dia 28.2.2011, são de:",
+    "options": [
+      "a) R$1.800,00 e 80 unidades a R$20,00 cada.",
+      "b) R$1.885,71 e 80 unidades a R$24,29 cada.",
+      "c) R$1.980,00 e 80 unidades a R$23,50 cada.",
+      "d) R$2.040,00 e 80 unidades a R$23,00 cada."
+    ],
+    "correctOption": "A",
+    "explanation": "No PEPS (Primeiro a Entrar, Primeiro a Sair), a venda de 120 unidades em 10/02 baixa os estoques mais antigos: 40 un x R$30 (R$1.200) + 50 un x R$24 (R$1.200) + 30 un x R$20 (R$600). Total do CMV = R$ 3.000,00. Sobram do lote de 01/02: 20 un a R$20,00. Após isso, há a compra em 15/02 de 60 un a R$20. Estoque final: 20 + 60 = 80 unidades, todas ao custo de R$20,00. Receita de Vendas = 120 x R$40,00 = R$ 4.800,00. Lucro Bruto = Receita (4.800) - CMV (3.000) = R$ 1.800,00."
+  },
+  {
+    "questionNumber": 4,
+    "source": "Exame de Suficiência CFC 2011",
+    "subject": "Contabilidade Geral",
+    "topic": "Estrutura e Análise de Balanços",
+    "subtopic": "Apuração do Resultado e Fechamento do Balanço",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2011 | Contabilidade Geral\n\n Uma determinada sociedade empresária, em 31.12.2010, apresentou os\nseguintes saldos:\nCaixa R$ 6.500,00\nBancos Conta Movimento R$ 14.000,00\nCapital Social R$ 20.000,00\nCusto das Mercadorias Vendidas R$ 56.000,00\nDepreciação Acumulada R$ 1.500,00\nDespesas Gerais R$ 23.600,00\nFornecedores R$ 9.300,00\nDuplicatas a Receber em 60 dias R$ 20.900,00\nEquipamentos R$ 10.000,00\nReserva de Lucros R$ 3.000,00\nEstoque de Mercadorias R$ 4.000,00\nReceitas de Vendas R$ 97.700,00\nSalários a Pagar R$ 3.500,00\nApós a apuração do Resultado do Período e antes da sua destinação, o total do\nPatrimônio Líquido e o total do Ativo Circulante são, respectivamente:",
+    "options": [
+      "a) R$37.100,00 e R$41.400,00.",
+      "b) R$37.100,00 e R$46.100,00.",
+      "c) R$41.100,00 e R$45.400,00.",
+      "d) R$41.100,00 e R$50.400,00."
+    ],
+    "correctOption": "C",
+    "explanation": "1) Apuração do Resultado (DRE): Lucro = Receitas de Vendas (97.700) - CMV (56.000) - Despesas Gerais (23.600) = R$ 18.100. 2) Patrimônio Líquido = Capital Social (20.000) + Reserva de Lucros (3.000) + Lucro do Período (18.100) = R$ 41.100. 3) Ativo Circulante = Caixa (6.500) + Bancos (14.000) + Duplicatas a Receber em 60 dias (20.900) + Estoque (4.000) = R$ 45.400."
+  },
+  {
+    "questionNumber": 5,
+    "source": "Exame de Suficiência CFC 2011",
+    "subject": "Contabilidade Geral",
+    "topic": "Demonstrações Contábeis",
+    "subtopic": "Demonstração das Mutações do Patrimônio Líquido (DMPL)",
+    "difficulty": 1,
+    "statement": "FGV - EXAME CFC 2011 | Contabilidade Geral\n\n A movimentação ocorrida nas contas de Reservas de Lucros em um determinado\nperíodo é evidenciada na seguinte demonstração contábil:",
+    "options": [
+      "a) Balanço Patrimonial",
+      "b) Demonstração das Mutações do Patrimônio Líquido",
+      "c) Demonstração dos Fluxos de Caixa",
+      "d) Demonstração dos Lucros ou Prejuízos Acumulados"
+    ],
+    "correctOption": "B",
+    "explanation": "A Demonstração das Mutações do Patrimônio Líquido (DMPL) é a demonstração contábil que evidencia de forma abrangente todas as alterações ocorridas nas contas do Patrimônio Líquido ao longo do exercício, o que inclui a formação, reversão e utilização de todas as contas de Reservas de Lucros e Reservas de Capital."
+  },
+  {
+    "questionNumber": 6,
+    "source": "Exame de Suficiência CFC 2011",
+    "subject": "Contabilidade Geral",
+    "topic": "Folha de Pagamento",
+    "subtopic": "Provisão de Férias e 13º Salário",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2011 | Contabilidade Geral\n\n Uma determinada sociedade empresária apresentou os seguintes dados\nextraídos da folha de pagamento:\n\nEmpregados Salário mensal\nEmpregado A R$1.500,00\nEmpregado B R$1.200,00\n\nFoi solicitado que a empresa elaborasse as demonstrações contábeis para\njaneiro de 2011.\nConsiderando os dados da folha de pagamento e a premissa de que o percentual\ntotal dos Encargos Sociais é de 20%, em janeiro de 2011, a empresa deverá\nregistrar um gasto total com o 13o Salário e Encargos Sociais no montante de:",
+    "options": [
+      "a) R$112,50.",
+      "b) R$225,00.",
+      "c) R$270,00.",
+      "d) R$540,00."
+    ],
+    "correctOption": "C",
+    "explanation": "1) Soma dos salários: R$ 1.500,00 + R$ 1.200,00 = R$ 2.700,00. 2) Apropriação mensal do 13º Salário (1/12 avos): R$ 2.700,00 / 12 = R$ 225,00. 3) Encargos Sociais sobre o 13º provencionado: 20% de R$ 225,00 = R$ 45,00. 4) Total do gasto a ser registrado em janeiro (13º + Encargos): R$ 225,00 + R$ 45,00 = R$ 270,00."
+  },
+  {
+    "questionNumber": 7,
+    "source": "Exame de Suficiência CFC 2011",
+    "subject": "Contabilidade Avançada",
+    "topic": "Avaliação de Investimentos",
+    "subtopic": "Equivalência Patrimonial e Lucros Não Realizados",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2011 | Contabilidade Avançada\n\n Uma determinada sociedade empresária vendeu mercadorias para sua\ncontroladora por R$300.000,00, auferindo um lucro de R$50.000,00. No final do\nexercício, remanescia no estoque da controladora 50% das mercadorias\nadquiridas da controlada. O valor do ajuste referente ao lucro não realizado, para\nfins de cálculo da equivalência patrimonial, é de:",
+    "options": [
+      "a) R$25.000,00.",
+      "b) R$50.000,00.",
+      "c) R$150.000,00.",
+      "d) R$300.000,00."
+    ],
+    "correctOption": "A",
+    "explanation": "O lucro total na operação intercompanhias foi de R$ 50.000,00. O lucro não realizado corresponde à parcela do lucro contida nos estoques que ainda não foram vendidos para terceiros (fora do grupo econômico). Como 50% das mercadorias continuam no estoque, 50% do lucro é considerado não realizado. Cálculo: R$ 50.000,00 x 50% = R$ 25.000,00."
+  },
+  {
+    "questionNumber": 8,
+    "source": "Exame de Suficiência CFC 2011",
+    "subject": "Contabilidade Geral",
+    "topic": "Ativo Imobilizado",
+    "subtopic": "Depreciação e Valor Contábil",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2011 | Contabilidade Geral\n\n Uma empresa adquiriu um ativo em 1o de janeiro de 2009, o qual foi registrado\ncontabilmente por R$15.000,00. A vida útil do ativo foi estimada em cinco anos.\nEspera-se que o ativo, ao final dos cinco anos, possa ser vendido por R$3.000,00.\nUtilizando-se o método linear para cálculo da depreciação e supondo-se que não\nhouve modificação na vida útil estimada e nem no valor residual, ao final do ano\nde 2010, o valor contábil do ativo líquido será de:",
+    "options": [
+      "a) R$7.200,00.",
+      "b) R$9.000,00.",
+      "c) R$10.200,00.",
+      "d) R$12.000,00."
+    ],
+    "correctOption": "C",
+    "explanation": "1) Valor Depreciável = Custo de Aquisição - Valor Residual = 15.000,00 - 3.000,00 = 12.000,00. 2) Depreciação anual (método linear): 12.000,00 / 5 anos = 2.400,00 por ano. 3) Tempo decorrido (1º de janeiro de 2009 ao final de 2010): 2 anos completos. 4) Depreciação Acumulada: 2 x 2.400,00 = 4.800,00. 5) Valor Contábil Líquido = Custo de Aquisição - Depreciação Acumulada = 15.000,00 - 4.800,00 = R$ 10.200,00."
+  },
+  {
+    "questionNumber": 9,
+    "source": "Exame de Suficiência CFC 2011",
+    "subject": "Contabilidade Geral",
+    "topic": "Balanço Patrimonial",
+    "subtopic": "Ativo Circulante",
+    "difficulty": 3,
+    "statement": "FGV - EXAME CFC 2011 | Contabilidade Geral\n\n Uma entidade apresenta, em 31.12.2010, os seguintes saldos de contas:\nCONTAS Saldos (R$)\nAções de Outras Empresas - Para Negociação Imediata 400,00\nAções em Tesouraria 300,00\nAjustes de Avaliação Patrimonial (saldo devedor) 900,00\nAplicações em Fundos de Investimento com Liquidez Diária 2.600,00\nBancos Conta Movimento 6.000,00\nCaixa 700,00\nCapital Social 40.000,00\nClientes - Vencimento em março/2011 12.000,00\nClientes - Vencimento em março/2012 6.600,00\nClientes - Vencimento em março/2013 4.000,00\nDepreciação Acumulada 8.800,00\nDespesas Pagas Antecipadamente (prêmio de seguro com\nvigência até dezembro/2011) 300,00\nEstoque de Matéria-Prima 5.000,00\nFinanciamento Bancário (a ser pago em 12 parcelas mensais\nde igual valor, vencendo a primeira em janeiro de 2011) 30.000,00\nFornecedores 19.000,00\nICMS a Recuperar 600,00\nImóveis de Uso 26.000,00\nImpostos a Pagar (Vencimento em janeiro/2011) 6.400,00\nMáquinas 18.000,00\nObras de Arte 4.000,00\nParticipação Societária em Empresas Controladas 14.000,00\nParticipações Permanentes no Capital de Outras Empresas 1.000,00\nReserva Legal 4.000,00\nReservas de Capital 2.200,00\nVeículos 8.000,00\n\nNo Balanço Patrimonial, o saldo do Ativo Circulante é igual a:",
+    "options": [
+      "a) R$24.300,00.",
+      "b) R$25.000,00.",
+      "c) R$27.200,00.",
+      "d) R$27.600,00."
+    ],
+    "correctOption": "D",
+    "explanation": "Para classificar no Ativo Circulante, consideramos os bens e direitos realizáveis até o término do exercício seguinte (31/12/2011). Contas do Ativo Circulante: Ações de Outras Empresas para Negociação Imediata (R$ 400), Aplicações em Fundo com Liquidez Diária (R$ 2.600), Bancos Conta Movimento (R$ 6.000), Caixa (R$ 700), Clientes vencimento em mar/2011 (R$ 12.000), Despesas Pagas Antecipadamente até dez/2011 (R$ 300), Estoque de Matéria-Prima (R$ 5.000) e ICMS a Recuperar (R$ 600). O total é: 400 + 2.600 + 6.000 + 700 + 12.000 + 300 + 5.000 + 600 = R$ 27.600,00. (As contas de clientes para 2012 e 2013 vão para o Ativo Não Circulante - Realizável a Longo Prazo)."
+  },
+  {
+    "questionNumber": 10,
+    "source": "Exame de Suficiência CFC 2011",
+    "subject": "Contabilidade Geral",
+    "topic": "Demonstração dos Fluxos de Caixa (DFC)",
+    "subtopic": "Atividades de Financiamento",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2011 | Contabilidade Geral\n\n Uma sociedade empresária apresentou, no exercício de 2010, uma variação\npositiva no saldo de caixa e equivalentes de caixa no valor de R$18.000,00.\nSabendo-se que o caixa gerado pelas atividades operacionais foi de\nR$28.000,00 e o caixa consumido pelas atividades de investimento foi de\nR$25.000,00, as atividades de financiamento:",
+    "options": [
+      "a) geraram um caixa de R$21.0000,00.",
+      "b) consumiram um caixa de R$15.000,00.",
+      "c) consumiram um caixa de R$21.000,00.",
+      "d) geraram um caixa de R$15.000,00."
+    ],
+    "correctOption": "D",
+    "explanation": "A variação total do caixa na DFC é a soma dos fluxos das três atividades: Operacional, Investimento e Financiamento. Temos a equação: Variação de Caixa = FCO + FCI + FCF. Substituindo os valores: 18.000 = 28.000 + (-25.000) + FCF. Logo, 18.000 = 3.000 + FCF. Isolando o FCF, temos: FCF = 18.000 - 3.000 = 15.000. Como o resultado é positivo, as atividades de financiamento geraram caixa no valor de R$ 15.000,00."
+  },
+  {
+    "questionNumber": 11,
+    "source": "Exame de Suficiência CFC 2011",
+    "subject": "Contabilidade Geral",
+    "topic": "Mecânica Contábil",
+    "subtopic": "Regime de Competência e Pagamentos",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2011 | Contabilidade Geral\n\n Uma empresa pagou, em janeiro de 2010, o aluguel do galpão destinado à área\nde produção, relativo ao mês de dezembro de 2009. O lançamento\ncorrespondente ao pagamento do aluguel irá provocar:",
+    "options": [
+      "a) um aumento nas Despesas e uma redução de igual valor no Ativo.",
+      "b) um aumento nos Custos e uma redução de igual valor no Ativo.",
+      "c) uma redução no Ativo e uma redução de igual valor no Passivo.",
+      "d) uma redução no Ativo e uma redução de igual valor no Patrimônio Líquido."
+    ],
+    "correctOption": "C",
+    "explanation": "Pelo regime de competência, o aluguel referente a dezembro de 2009 já foi apropriado como custo ou despesa naquele mês, gerando uma obrigação (passivo) de 'Aluguéis a Pagar'. Quando o pagamento é efetuado em janeiro de 2010, não há mais reconhecimento de custo/despesa, apenas a baixa da obrigação. O lançamento será: Débito em Aluguéis a Pagar (redução de Passivo) e Crédito em Caixa/Bancos (redução de Ativo)."
+  },
+  {
+    "questionNumber": 12,
+    "source": "Exame de Suficiência CFC 2011",
+    "subject": "Contabilidade Geral",
+    "topic": "Demonstração do Resultado do Exercício (DRE)",
+    "subtopic": "Apuração do Resultado e CMV",
+    "difficulty": 3,
+    "statement": "FGV - EXAME CFC 2011 | Contabilidade Geral\n\n De acordo com os dados abaixo e sabendo-se que o Estoque Final de\nMercadorias totaliza R$350.000,00, em 31.12.2010, o Resultado Líquido é de:\n\nContas Valor\nCaixa R$ 80.000,00\nCapital Social R$ 50.000,00\nCompras de Mercadorias R$ 800.000,00\nDepreciação Acumulada R$ 65.000,00\nDespesas com Juros R$ 110.000,00\nDespesas Gerais R$ 150.000,00\nDuplicatas a Pagar R$ 355.000,00\nDuplicatas a Receber R$ 140.000,00\nEstoque Inicial de Mercadorias R$ 200.000,00\nMóveis e Utensílios R$ 70.000,00\nReceita com Juros R$ 80.000,00\nReceitas com Vendas R$ 1.000.000,00",
+    "options": [
+      "a) R$170.000,00.",
+      "b) R$240.000,00.",
+      "c) R$350.000,00.",
+      "d) R$390.000,00."
+    ],
+    "correctOption": "A",
+    "explanation": "Primeiro, calcula-se o Custo das Mercadorias Vendidas (CMV) utilizando a fórmula: CMV = Estoque Inicial + Compras - Estoque Final. CMV = 200.000 + 800.000 - 350.000 = 650.000. Depois, elabora-se a DRE apenas com as contas de resultado: Receitas com Vendas (1.000.000) (-) CMV (650.000) = Lucro Bruto de 350.000. Deste valor, deduzimos as Despesas Gerais (150.000) e Despesas com Juros (110.000), e somamos a Receita com Juros (80.000). Resultado Líquido = 350.000 - 150.000 - 110.000 + 80.000 = R$ 170.000,00."
+  },
+  {
+    "questionNumber": 13,
+    "source": "Exame de Suficiência CFC 2011",
+    "subject": "Contabilidade de Custos",
+    "topic": "Terminologia e Classificação de Custos",
+    "subtopic": "Custos Primários e de Transformação",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2011 | Contabilidade de Custos\n\n Uma indústria apresenta os seguintes dados:\n\nAluguel de setor administrativo R$ 80.000,00\nAluguel do setor de produção R$ 56.000,00\nDepreciação da área de produção R$ 38.000,00\nMão de Obra Direta de produção R$ 100.000,00\nMão de Obra Direta de vendas R$ 26.000,00\nMaterial requisitado: diretos R$ 82.000,00\nMaterial requisitado: indiretos R$ 70.000,00\nSalários da diretoria de vendas R$ 34.000,00\nSeguro da área de produção R$ 38.000,00\n\nAnalisando-se os dados acima, assinale a opção CORRETA.",
+    "options": [
+      "a) O custo de transformação da indústria totalizou R$302.000,00, pois o custo de transformação é a soma da mão de obra direta e custos Indiretos de fabricação.",
+      "b) O custo do período da indústria totalizou R$444.000,00, pois o custo da empresa é a soma de todos os itens de sua atividade.",
+      "c) O custo do período da indústria totalizou R$524.000,00, pois o custo da empresa é a soma de todos os itens apresentados.",
+      "d) O custo primário da indústria totalizou R$208.000,00, pois o custo primário leva em consideração a soma da mão de obra e do material direto."
+    ],
+    "correctOption": "A",
+    "explanation": "1) Custos de Transformação = Mão de Obra Direta (MOD) + Custos Indiretos de Fabricação (CIF). 2) MOD = R$ 100.000,00. 3) CIF = Aluguel do setor de produção (R$ 56.000) + Depreciação da área de produção (R$ 38.000) + Material indireto (R$ 70.000) + Seguro da área de produção (R$ 38.000) = R$ 202.000,00. 4) Custo de Transformação = 100.000 + 202.000 = R$ 302.000,00. (A alternativa D é incorreta pois o Custo Primário seria MOD 100.000 + MD 82.000 = 182.000)."
+  },
+  {
+    "questionNumber": 14,
+    "source": "Exame de Suficiência CFC 2011",
+    "subject": "Contabilidade de Custos",
+    "topic": "Custeio por Processo",
+    "subtopic": "Equivalente de Produção",
+    "difficulty": 3,
+    "statement": "FGV - EXAME CFC 2011 | Contabilidade de Custos\n\n No mês de setembro de 2010, foi iniciada a produção de 1.500 unidades de um\ndeterminado produto. Ao final do mês, 1.200 unidades estavam totalmente\nconcluídas e restaram 300 unidades em processo. O percentual de conclusão\ndas unidades em processo é de 65%. O custo total de produção do período foi\nde R$558.000,00. O Custo de Produção dos Produtos Acabados e o Custo de\nProdução dos Produtos em Processo são, respectivamente:",
+    "options": [
+      "a) R$446.400,00 e R$111.600,00.",
+      "b) R$480.000,00 e R$78.000,00.",
+      "c) R$558.000,00 e R$0,00.",
+      "d) R$558.000,00 e R$64.194,00."
+    ],
+    "correctOption": "B",
+    "explanation": "1) Cálculo da Produção Equivalente: Unidades Acabadas (1.200) + Equivalente das Unidades em Processo (300 x 65% = 195). Total Equivalente = 1.200 + 195 = 1.395 unidades. 2) Custo Unitário Equivalente = Custo Total / Produção Equivalente = R$ 558.000 / 1.395 = R$ 400,00. 3) Custo dos Produtos Acabados = 1.200 u x R$ 400 = R$ 480.000,00. 4) Custo dos Produtos em Processo = 195 u equivalentes x R$ 400 = R$ 78.000,00."
+  },
+  {
+    "questionNumber": 15,
+    "source": "Exame de Suficiência CFC 2011",
+    "subject": "Contabilidade de Custos",
+    "topic": "Avaliação de Estoques",
+    "subtopic": "Custo de Aquisição e Tributos Recuperáveis",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2011 | Contabilidade de Custos\n\n Uma matéria-prima foi adquirida por R$3.000,00, incluídos nesse valor R$150,00\nreferentes a IPI e R$342,00 relativos a ICMS. O frete de R$306,00 foi pago pelo\nvendedor, que enviou o material via aérea, mas a empresa compradora teve que\narcar com o transporte entre o aeroporto e a fábrica, que custou R$204,00.\nConsiderando-se que os impostos são recuperáveis, o valor registrado em\nestoques será:",
+    "options": [
+      "a) R$2.508,00.",
+      "b) R$2.712,00.",
+      "c) R$3.018,00.",
+      "d) R$3.204,00."
+    ],
+    "correctOption": "B",
+    "explanation": "O custo de aquisição do estoque compreende o preço de compra, impostos não recuperáveis, fretes e seguros suportados pelo comprador, deduzidos os impostos recuperáveis. 1) Valor total da Nota (Preço de Aquisição com IPI incluso) = R$ 3.000,00. 2) Dedução dos impostos recuperáveis: IPI (R$ 150,00) e ICMS (R$ 342,00). 3) Adição do frete suportado pelo comprador (aeroporto até a fábrica): R$ 204,00. O frete pago pelo vendedor não entra no custo do comprador. 4) Custo do Estoque = 3.000 - 150 - 342 + 204 = R$ 2.712,00."
+  },
+  {
+    "questionNumber": 16,
+    "source": "Exame de Suficiência CFC 2011",
+    "subject": "Contabilidade de Custos",
+    "topic": "Gestão de Custos e Análise de Investimentos",
+    "subtopic": "Ajuste a Valor Presente (AVP) com Tributos",
+    "difficulty": 3,
+    "statement": "FGV - EXAME CFC 2011 | Contabilidade de Custos\n\n O comprador de uma indústria tem a opção de compra de 5.000kg de matéria-prima por R$2,00 o quilo, à vista, ou R$2,20 o quilo, para pagamento em dois meses. Em ambos os casos, incidirá IPI à alíquota de 10% e ICMS à alíquota de 12%, recuperáveis em 1 (um) mês. Considerando uma taxa de juros de 10% ao mês, a melhor opção de compra para a empresa é:",
+    "options": [
+      "a) à vista, pois resulta em valor presente de R$9.000,00, enquanto a compra a prazo resulta em valor presente de R$9.900,00.",
+      "b) à vista, pois resulta em valor presente de R$8.800,00, enquanto a compra a prazo resulta em valor presente de R$9.680,00.",
+      "c) a prazo, pois resulta em valor presente de R$8.000,00, enquanto a compra à vista resulta em valor presente de R$9.000,00.",
+      "d) a prazo, pois resulta em valor presente de R$7.800,00, enquanto a compra à vista resulta em valor presente de R$9.000,00."
+    ],
+    "correctOption": "D",
+    "explanation": "Calculando a opção à vista: Custo de aquisição ($5.000 \\times R\\$ 2,00 = R\\$ 10.000,00$). Desembolso hoje (momento 0) = R$ 10.000,00 + 10% IPI ($1.000,00) = R$ 11.000,00$. Tributos a recuperar em 1 mês = IPI ($1.000,00) + ICMS ($12\\% \\times 10.000 = 1.200,00$) = R$ 2.200,00$. Valor Presente (VP) = Desembolso - VP da Recuperação = $11.000 - \\frac{2.200}{1,10} = 11.000 - 2.000 = R\\$ 9.000,00$. Calculando a opção a prazo: Custo de aquisição ($5.000 \\times R\\$ 2,20 = R\\$ 11.000,00$). Desembolso em 2 meses = R$ 11.000,00 + 10% IPI ($1.100,00) = R$ 12.100,00$. VP do Desembolso = $\\frac{12.100}{1,10^2} = R\\$ 10.000,00$. Tributos a recuperar em 1 mês = IPI ($1.100,00) + ICMS ($12\\% \\times 11.000 = 1.320,00$) = R$ 2.420,00$. VP da Recuperação = $\\frac{2.420}{1,10} = R\\$ 2.200,00$. VP líquido da opção a prazo = $10.000 - 2.200 = R\\$ 7.800,00$. Logo, a prazo é mais vantajoso."
+  },
+  {
+    "questionNumber": 17,
+    "source": "Exame de Suficiência CFC 2011",
+    "subject": "Contabilidade de Custos",
+    "topic": "Métodos de Custeio",
+    "subtopic": "Custeio por Absorção e Apuração de Resultado",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2011 | Contabilidade de Custos\n\n Uma determinada empresa apresentou os seguintes dados referentes ao ano de 2010:\n- Estoque inicial igual a zero.\n- Produção anual de 500 unidades com venda de 400 unidades.\n- Custo Variável unitário de R$15,00.\n- Preço de Venda unitário de R$20,00.\n- Custo Fixo anual de R$2.000,00.\n- Despesas Fixas anuais de R$350,00.\n- Despesa Variável unitária de R$1,50 para cada unidade vendida.\n\nSabendo-se que a empresa utiliza o Custeio por Absorção, seu Lucro Bruto e o Resultado Líquido em 2010, são, respectivamente:",
+    "options": [
+      "a) Lucro Bruto de R$2.000,00 e Lucro Líquido de R$1.050,00.",
+      "b) Lucro Bruto de R$2.000,00 e Prejuízo de R$950,00.",
+      "c) Lucro Bruto de R$400,00 e Lucro Líquido de R$50,00.",
+      "d) Lucro Bruto de R$400,00 e Prejuízo de R$550,00."
+    ],
+    "correctOption": "D",
+    "explanation": "No custeio por absorção, o custo do produto engloba custos fixos e variáveis. Custo Fixo Unitário = $\\frac{2.000}{500} = R\\$ 4,00$. Custo Unitário de Produção = $15,00 + 4,00 = R\\$ 19,00$. CMV = $400 \\text{ unidades vendidas} \\times 19,00 = R\\$ 7.600,00$. Receita de Vendas = $400 \\times 20,00 = R\\$ 8.000,00$. Lucro Bruto = $8.000,00 - 7.600,00 = R\\$ 400,00$. Despesas do período: Despesas Fixas ($350,00) + Despesas Variáveis ($400 \\times 1,50 = 600,00$) = R$ 950,00$. Resultado Líquido = Lucro Bruto - Despesas = $400,00 - 950,00 = -R\\$ 550,00$ (Prejuízo)."
+  },
+  {
+    "questionNumber": 18,
+    "source": "Exame de Suficiência CFC 2011",
+    "subject": "Contabilidade de Custos",
+    "topic": "Métodos de Custeio",
+    "subtopic": "Custeio por Absorção vs. Custeio Variável",
+    "difficulty": 1,
+    "statement": "FGV - EXAME CFC 2011 | Contabilidade de Custos\n\n Uma determinada empresa, no mês de agosto de 2010, apresentou custos com materiais diretos no valor de R$30,00 por unidade e custos com mão de obra direta no valor de R$28,00 por unidade. Os custos fixos totais do período foram de R$160.000,00. Sabendo-se que a empresa produziu no mês 10.000 unidades totalmente acabadas, o custo unitário de produção pelo Método do Custeio por Absorção e Custeio Variável é, respectivamente:",
+    "options": [
+      "a) R$46,00 e R$44,00.",
+      "b) R$58,00 e R$46,00.",
+      "c) R$74,00 e R$58,00.",
+      "d) R$74,00 e R$74,00."
+    ],
+    "correctOption": "C",
+    "explanation": "No Custeio por Absorção, apropriam-se todos os custos (fixos e variáveis) aos produtos: Custo Variável Unitário ($30,00 + 28,00 = 58,00$) + Custo Fixo Unitário ($\\frac{160.000}{10.000} = 16,00$). Custo unitário por absorção = $58,00 + 16,00 = R\\$ 74,00$. No Custeio Variável, apenas os custos variam são alocados aos produtos, enquanto os fixos vão para o resultado. Logo, o custo unitário variável é R$ 58,00."
+  },
+  {
+    "questionNumber": 19,
+    "source": "Exame de Suficiência CFC 2011",
+    "subject": "Contabilidade de Custos",
+    "topic": "Ciclo de Produção",
+    "subtopic": "Custo dos Produtos Fabricados e Vendidos (CPV)",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2011 | Contabilidade de Custos\n\n Uma empresa industrial aplicou no processo produtivo, no mês de agosto de 2010, R$50.000,00 de matéria-prima, R$40.000,00 de mão de obra direta e R$30.000,00 de gastos gerais de fabricação. O saldo dos Estoques de Produtos em Elaboração, em 31.7.2010, era no valor de R$15.000,00 e, em 31.8.2010, de R$20.000,00.\nO Custo dos Produtos Vendidos, no mês de agosto, foi de R$80.000,00 e não havia Estoque de Produtos Acabados em 31.7.2010. Com base nas informações, assinale a opção que apresenta o saldo final, em 31.8.2010, dos Estoques de Produtos Acabados.",
+    "options": [
+      "a) R$35.000,00.",
+      "b) R$55.000,00.",
+      "c) R$120.000,00.",
+      "d) R$135.000,00."
+    ],
+    "correctOption": "A",
+    "explanation": "Custo de Produção do Período (CPP) = Matéria-Prima + Mão de Obra + GGF = $50.000 + 40.000 + 30.000 = 120.000$. Custo dos Produtos Acabados (CPA) = Estoque Inicial de Produtos em Elaboração + CPP - Estoque Final de Produtos em Elaboração = $15.000 + 120.000 - 20.000 = R\\$ 115.000,00$. Utilizando a fórmula do CPV: $CPV = EIPA + CPA - EFPA$. Temos: $80.000 = 0 + 115.000 - EFPA \\implies EFPA = 115.000 - 80.000 = R\\$ 35.000,00$."
+  },
+  {
+    "questionNumber": 20,
+    "source": "Exame de Suficiência CFC 2011",
+    "subject": "Contabilidade Aplicada ao Setor Público",
+    "topic": "Princípios Contábeis",
+    "subtopic": "Regime de Competência",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2011 | Contabilidade Aplicada ao Setor Público\n\n Uma instituição social recebe recursos públicos e, portanto, está dentro do campo de aplicação da Contabilidade Aplicada ao Setor Público, devendo seguir o Princípio da Competência. A referida instituição tem ainda como fonte de receita a contribuição mensal de seus associados, que se reuniram e resolveram pagar de uma só vez o valor de R$30.000,00 correspondente a três exercícios, com o objetivo de formar um fundo financeiro. Nos três exercícios, essa organização tem custos de impressão de folhetos informativos da ordem de R$5.000,00 em cada ano e, no segundo ano, resolveu fazer um seguro cujo prêmio foi pago em dinheiro no valor de R$3.000,00 com cobertura para o segundo e o terceiro anos. Com base nos valores informados e nos conceitos relativos ao Princípio de Competência, é CORRETO afirmar que a instituição irá apurar:",
+    "options": [
+      "a) déficit de R$8.000,00 em todos os exercícios.",
+      "b) déficit de R$8.000,00 no segundo e de R$5.000,00 no terceiro ano; superávit de R$25.000,00 no primeiro ano.",
+      "c) superávit de R$5.000,00 no primeiro ano e de R$3.500,00 no segundo e no terceiro anos.",
+      "d) superávit de R$8.000,00 em todos os exercícios."
+    ],
+    "correctOption": "C",
+    "explanation": "Segundo o Princípio da Competência, as receitas e despesas são reconhecidas no período a que se referem. Receita anual a ser reconhecida: $30.000 / 3 = 10.000$. Despesa anual de impressão: 5.000. Despesa do seguro de 3.000 cobre 2 anos (2º e 3º), logo $3.000 / 2 = 1.500$ para cada um desses anos. Apuração do 1º ano: Receita (10.000) - Despesas (5.000) = Superávit de 5.000. Apuração do 2º e 3º ano: Receita (10.000) - Despesas (5.000 + 1.500) = Superávit de 3.500."
+  },
+  {
+    "questionNumber": 21,
+    "source": "Exame de Suficiência CFC 2011",
+    "subject": "Contabilidade Aplicada ao Setor Público",
+    "topic": "Orçamento Público",
+    "subtopic": "Contabilização da Receita Orçamentária",
+    "difficulty": 1,
+    "statement": "FGV - EXAME CFC 2011 | Contabilidade Aplicada ao Setor Público\n\n Indique o registro contábil CORRETO, considerando as informações disponíveis, para registrar a Previsão Inicial da Receita Orçamentária:",
+    "options": [
+      "a) Débito: Previsão Inicial da Receita Orçamentária\nCrédito: Receita Orçamentária a Realizar",
+      "b) Débito: Receita a Realizar\nCrédito: Receita Fixada",
+      "c) Débito: Variação Patrimonial Diminutiva\nCrédito: Variação Patrimonial Aumentativa",
+      "d) Débito: Receita a Realizar\nCrédito: Variação Patrimonial Aumentativa"
+    ],
+    "correctOption": "A",
+    "explanation": "No Plano de Contas Aplicado ao Setor Público (PCASP), a aprovação da Lei Orçamentária Anual (LOA) referente à receita é registrada nas contas de natureza de informação orçamentária (Controles da Aprovação e Execução do Planejamento e Orçamento). O lançamento debita a conta 'Previsão Inicial da Receita Orçamentária' (classe 5 - controle da aprovação) e credita a conta 'Receita Orçamentária a Realizar' (classe 6 - controle da execução), representando a previsão formal da arrecadação a ser buscada no exercício."
+  },
+  {
+    "questionNumber": 28,
+    "source": "Exame de Suficiência CFC 2011",
+    "subject": "Noções de Direito e Legislação Aplicada",
+    "topic": "Direito do Trabalho",
+    "subtopic": "Relação de Emprego e Grupo Econômico",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2011 | Noções de Direito e Legislação Aplicada\n\n De acordo com a legislação trabalhista, julgue os itens abaixo como Verdadeiros (V) ou Falsos (F) e, em seguida, assinale a opção CORRETA.\nI. Sempre que uma ou mais empresas, tendo, embora, cada uma delas, personalidade jurídica própria, estiver sob a direção, controle ou administração de outra, constituindo grupo industrial, comercial ou de qualquer outra atividade econômica, serão, para os efeitos da relação de emprego, solidariamente responsáveis a empresa principal e cada uma das subordinadas.\nII. Não se distingue entre o trabalho realizado no estabelecimento do empregador e o executado no domicílio do empregado, desde que esteja caracterizada a relação de emprego.\nIII. Considera-se como \"de serviço efetivo\" o período em que o empregado esteja à disposição do empregador, aguardando ou executando ordens, salvo disposição especial expressamente consignada.",
+    "options": [
+      "a) F, F, F.",
+      "b) F, F, V.",
+      "c) V, F, F.",
+      "d) V, V, V."
+    ],
+    "correctOption": "D",
+    "explanation": "Item I: Verdadeiro. Conforme o Art. 2º, parágrafo 2º da CLT, caracteriza-se o grupo econômico, gerando responsabilidade solidária entre as empresas. Item II: Verdadeiro. Conforme o Art. 6º da CLT, não há distinção entre o trabalho realizado no estabelecimento do empregador, o executado no domicílio do empregado e o realizado a distância. Item III: Verdadeiro. É o que dispõe o Art. 4º da CLT sobre o tempo de serviço efetivo."
+  },
+  {
+    "questionNumber": 29,
+    "source": "Exame de Suficiência CFC 2011",
+    "subject": "Noções de Direito e Legislação Aplicada",
+    "topic": "Direito Tributário",
+    "subtopic": "Suspensão do Crédito Tributário",
+    "difficulty": 1,
+    "statement": "FGV - EXAME CFC 2011 | Noções de Direito e Legislação Aplicada\n\n No que diz respeito ao parcelamento disposto no Código Tributário Nacional, assinale a opção CORRETA.",
+    "options": [
+      "a) O parcelamento afasta o cumprimento da obrigação acessória.",
+      "b) O parcelamento constitui uma das modalidades de extinção dos créditos tributários prescritas pelo Código Tributário Nacional.",
+      "c) O parcelamento é uma modalidade de suspensão da exigibilidade do crédito tributário.",
+      "d) O parcelamento extingue o crédito tributário de forma fracionada e continuada, quando a legislação tributária não dispuser a respeito."
+    ],
+    "correctOption": "C",
+    "explanation": "De acordo com o Art. 151, inciso VI, do Código Tributário Nacional (CTN), o parcelamento é uma das causas que suspendem a exigibilidade do crédito tributário, e não de extinção."
+  },
+  {
+    "questionNumber": 30,
+    "source": "Exame de Suficiência CFC 2011",
+    "subject": "Matemática Financeira",
+    "topic": "Juros Compostos",
+    "subtopic": "Taxas Proporcionais e Capitalização",
+    "difficulty": 3,
+    "statement": "FGV - EXAME CFC 2011 | Matemática Financeira\n\n Um investidor fez uma aplicação financeira a juros compostos com capitalização mensal a uma taxa de juros nominal de 8,7% ao semestre. Ao fim de dois anos e meio, o aumento percentual de seu capital inicial foi de:",
+    "options": [
+      "a) 43,50%.",
+      "b) 49,34%.",
+      "c) 51,76%.",
+      "d) 54,01%."
+    ],
+    "correctOption": "D",
+    "explanation": "1) Como a taxa é nominal (8,7% ao semestre com capitalização mensal), devemos encontrar a taxa efetiva mensal dividindo pelo número de meses no semestre (6): 8,7% / 6 = 1,45% ao mês (0,0145). 2) O período é de 2 anos e meio, o que equivale a 30 meses. 3) Calculamos o fator de montante: (1 + 0,0145)^30. Ao resolver a exponenciação, obtemos aproximadamente 1,5401. 4) O aumento percentual é (1,5401 - 1) * 100 = 54,01%."
+  },
+  {
+    "questionNumber": 31,
+    "source": "Exame de Suficiência CFC 2011",
+    "subject": "Matemática Financeira",
+    "topic": "Análise de Alternativas de Investimento",
+    "subtopic": "Valor Presente (VP)",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2011 | Matemática Financeira\n\n Um gestor de empresa tem três cotações de preços de fornecedores diferentes, da mesma quantidade de uma determinada matéria-prima, nas seguintes condições de pagamento:\nFornecedor A R$3.180,00 para pagamento à vista\nFornecedor B R$3.200,00 para pagamento em 1 (um) mês\nFornecedor C R$3.300,00 para pagamento em 2 meses\nConsiderando as condições de pagamento e um custo de oportunidade de 1% (um) ao mês, é mais vantajoso adquirir a matéria-prima:",
+    "options": [
+      "a) do Fornecedor A.",
+      "b) do Fornecedor B.",
+      "c) dos Fornecedores A ou C.",
+      "d) dos Fornecedores B ou C."
+    ],
+    "correctOption": "B",
+    "explanation": "Devemos descapitalizar os valores para encontrar o Valor Presente (VP) de cada opção, usando a taxa de 1% a.m. (0,01). VP Fornecedor A = R$ 3.180,00 (já está à vista). VP Fornecedor B = 3.200 / (1,01)^1 = R$ 3.168,31. VP Fornecedor C = 3.300 / (1,01)^2 = R$ 3.234,97. A opção mais vantajosa para o comprador é a que apresenta o menor custo em Valor Presente, que é o Fornecedor B (R$ 3.168,31)."
+  },
+  {
+    "questionNumber": 33,
+    "source": "Exame de Suficiência CFC 2011",
+    "subject": "Estatística",
+    "topic": "Medidas de Tendência Central",
+    "subtopic": "Mediana",
+    "difficulty": 1,
+    "statement": "FGV - EXAME CFC 2011 | Estatística\n\n Os preços em reais (R$) para uma amostra de equipamentos de som estão indicados na tabela abaixo.\nEquipamento. 1 2 3 4 5 6 7\nPreço (R$) 500,00 834,00 470,00 480,00 420,00 440,00 440,00\nCom base na amostra, o valor CORRETO da mediana é igual a:",
+    "options": [
+      "a) R$440,00.",
+      "b) R$470,00.",
+      "c) R$512,00.",
+      "d) R$627,00."
+    ],
+    "correctOption": "B",
+    "explanation": "A mediana é o valor central de um conjunto de dados ordenado. 1) Colocando os preços em ordem crescente: 420, 440, 440, 470, 480, 500, 834. 2) Como há 7 elementos (número ímpar), o valor central é o 4º termo. 3) O 4º termo é R$ 470,00."
+  },
+  {
+    "questionNumber": 34,
+    "source": "Exame de Suficiência CFC 2011",
+    "subject": "Teoria da Contabilidade",
+    "topic": "Avaliação Patrimonial",
+    "subtopic": "Critérios de Mensuração de Ativos",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2011 | Teoria da Contabilidade\n\n Classifique os métodos de avaliação do Ativo a seguir enumerados, como valor de entrada ou saída:\n- Custo Histórico\n- Valor de Liquidação\n- Valor Realizável Líquido\n- Custo Corrente de Reposição\nA sequência CORRETA é:",
+    "options": [
+      "a) entrada, saída, entrada, entrada.",
+      "b) entrada, saída, saída, entrada.",
+      "c) saída, entrada, saída, entrada.",
+      "d) saída, saída, saída, entrada."
+    ],
+    "correctOption": "B",
+    "explanation": "Valores de Entrada representam o custo de aquisição ou reposição (o que entra na empresa), enquanto Valores de Saída representam o quanto a empresa obteria se vendesse ou liquidasse o ativo. Custo Histórico (aquisição) = Entrada. Valor de Liquidação (venda forçada) = Saída. Valor Realizável Líquido (venda normal menos despesas) = Saída. Custo Corrente de Reposição (recompra hoje) = Entrada."
+  },
+  {
+    "questionNumber": 35,
+    "source": "Exame de Suficiência CFC 2011",
+    "subject": "Teoria da Contabilidade",
+    "topic": "Princípios de Contabilidade",
+    "subtopic": "Continuidade",
+    "difficulty": 1,
+    "statement": "FGV - EXAME CFC 2011 | Teoria da Contabilidade\n\n Presume-se que a entidade não tem a intenção nem a necessidade de entrar em liquidação, nem reduzir materialmente a escala das suas operações; se tal intenção ou necessidade existir, as demonstrações contábeis têm que ser preparadas numa base diferente e, nesse caso, tal base deverá ser divulgada.\nA afirmação acima tem por base o Princípio da:",
+    "options": [
+      "a) Continuidade.",
+      "b) Oportunidade.",
+      "c) Prudência.",
+      "d) Relevância."
+    ],
+    "correctOption": "A",
+    "explanation": "O pressuposto básico de que a entidade continuará operando no futuro previsível, não havendo intenção ou necessidade de liquidação, é a essência do Princípio da Continuidade (e pressuposto básico da Estrutura Conceitual Básica da Contabilidade)."
+  },
+  {
+    "questionNumber": 36,
+    "source": "Exame de Suficiência CFC 2011",
+    "subject": "Teoria da Contabilidade",
+    "topic": "Elementos das Demonstrações Contábeis",
+    "subtopic": "Passivo Exigível",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2011 | Teoria da Contabilidade\n\n Em relação ao Passivo, julgue os itens abaixo e, em seguida, assinale a opção CORRETA.\nI. Passivos podem decorrer de obrigações formais ou legalmente exigíveis.\nII. Existem obrigações que atendem ao conceito de passivo, mas não são reconhecidas por não ser possível mensurá-las de forma confiável.\nIII. A extinção de um passivo pode ocorrer mediante a prestação de serviços.",
+    "options": [
+      "a) I, II e III.",
+      "b) I e II, apenas.",
+      "c) II e III, apenas.",
+      "d) III, apenas."
+    ],
+    "correctOption": "A",
+    "explanation": "Item I: Verdadeiro, passivos derivam de contratos ou leis. Item II: Verdadeiro, é o caso dos passivos contingentes que não possuem estimativa confiável, sendo apenas divulgados em notas explicativas. Item III: Verdadeiro, um passivo (como um adiantamento de clientes) pode ser liquidado através da prestação do serviço acordado. Todos os itens estão de acordo com o Pronunciamento Técnico CPC 00."
+  },
+  {
+    "questionNumber": 37,
+    "source": "Exame de Suficiência CFC 2011",
+    "subject": "Ética Profissional",
+    "topic": "Penalidades Ético-Disciplinares",
+    "subtopic": "Decreto-Lei nº 9.295/46",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2011 | Ética Profissional\n\n Conforme a legislação vigente que regula o exercício profissional, o contabilista poderá ser penalizado por infração legal ao exercício da profissão. Assinale a opção que NÃO corresponde à penalidade ético-disciplinar aplicável.",
+    "options": [
+      "a) Advertência pública.",
+      "b) Advertência reservada.",
+      "c) Cassação do exercício profissional.",
+      "d) Suspensão temporária do exercício da profissão."
+    ],
+    "correctOption": "A",
+    "explanation": "As penalidades previstas no Decreto-Lei nº 9.295/46 incluem: Multa, Advertência Reservada, Censura Reservada, Censura Pública, Suspensão Temporária e Cassação. A figura jurídica da 'Advertência' é apenas reservada. Não existe 'Advertência Pública' (a modalidade pública é a Censura)."
+  },
+  {
+    "questionNumber": 38,
+    "source": "Exame de Suficiência CFC 2011",
+    "subject": "Ética Profissional",
+    "topic": "Responsabilidades Profissionais",
+    "subtopic": "Regime de Competência e Legislação",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2011 | Ética Profissional\n\n Um contabilista, em razão do enquadramento de empresa cliente em regime de tributação simplificado, resolve elaborar a escrituração contábil em regime de caixa.\nA atitude do contabilista:",
+    "options": [
+      "a) está em desacordo com os Princípios de Contabilidade e consiste em infração ao disposto no Código de Ética Profissional do Contabilista, qualquer que seja o porte da empresa.",
+      "b) está em desacordo com os Princípios de Contabilidade, mas não consiste em infração ao disposto no Código de Ética Profissional do Contabilista, qualquer que seja o porte da empresa.",
+      "c) não consiste em infração ao disposto no Código de Ética Profissional do Contabilista e está em conformidade com os Princípios de Contabilidade, caso a empresa em questão seja uma microempresa.",
+      "d) não consiste em infração ao disposto no Código de Ética Profissional do Contabilista, mas está em desacordo com os Princípios de Contabilidade, caso a empresa em questão seja uma microempresa."
+    ],
+    "correctOption": "A",
+    "explanation": "A escrituração contábil deve seguir estritamente o Princípio da Competência, independentemente do regime tributário (como Simples Nacional) ou do porte da empresa (ME/EPP). Adotar o regime de caixa para a Contabilidade (ao invés de fins exclusivamente fiscais permitidos em certas apurações) fere as Normas Brasileiras de Contabilidade e os Princípios, configurando infração ética profissional."
+  },
+  {
+    "questionNumber": 39,
+    "source": "Exame de Suficiência CFC 2011",
+    "subject": "Ética Profissional",
+    "topic": "Código de Ética Profissional do Contabilista",
+    "subtopic": "Deveres e Vedações",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2011 | Ética Profissional\n\n Com relação ao comportamento dos profissionais da Contabilidade, analise as\nsituações hipotéticas apresentadas nos itens abaixo e, em seguida, assinale a\nopção CORRETA.\nI. Um contabilista iniciante contratou um agenciador de serviços para atuar\nna captação de clientes. Para cada cliente captado, o agenciador irá\nreceber 1% dos honorários acertados.\nII. Em razão de sua aposentadoria, o contabilista transferiu seus contratos de\nserviço para seu genro, também contabilista. Os clientes foram contatados\num a um, por telefone, e se manifestaram de acordo com a mudança.\nIII. Um perito-contador, indicado pelo juiz para atuar em uma questão relativa\na uma dissolução de sociedade, recusou-se a assumir o trabalho por não\nse achar capacitado.\nDe acordo com as três situações acima descritas, o comportamento do\nprofissional da Contabilidade está em DESACORDO com os deveres descritos\nno Código de Ética Profissional do Contabilista nos itens:",
+    "options": [
+      "a) I, II e III.",
+      "b) I e II, apenas.",
+      "c) I, apenas.",
+      "d) II e III, apenas."
+    ],
+    "correctOption": "C",
+    "explanation": "Apenas a situação I está em desacordo. É vedado ao profissional da contabilidade angariar, direta ou indiretamente, serviços contábeis com prejuízo moral ou desprestígio para a classe (como contratar agenciadores). A situação II está correta, pois houve a anuência prévia dos clientes para a transferência dos serviços. A situação III também está correta, pois é dever do perito recusar o trabalho quando não se achar capacitado (ou impedido) para a sua execução."
+  },
+  {
+    "questionNumber": 40,
+    "source": "Exame de Suficiência CFC 2011",
+    "subject": "Teoria da Contabilidade",
+    "topic": "Princípios de Contabilidade e Estrutura Conceitual",
+    "subtopic": "Características Qualitativas e Postulados",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2011 | Teoria da Contabilidade\n\n A respeito dos Princípios de Contabilidade, julgue os itens abaixo e, em seguida,\nassinale a opção CORRETA.\nI. A observância dos Princípios de Contabilidade é obrigatória no exercício da\nprofissão e constitui condição de legitimidade das Normas Brasileiras de\nContabilidade.\nII. Os ativos avaliados pelo seu valor de liquidação baseiam-se no Princípio da\nContinuidade, pressupondo que a Entidade continuará em operação no\nfuturo.\nIII. A falta de integridade e tempestividade na produção e na divulgação da\ninformação contábil pode ocasionar a perda de sua relevância, por isso é\nnecessário ponderar a relação entre a oportunidade e a confiabilidade da\ninformação.\nEstá(ao) CERTO(S) apenas o(s) item(ns):",
+    "options": [
+      "a) I e II.",
+      "b) I e III.",
+      "c) II.",
+      "d) III."
+    ],
+    "correctOption": "B",
+    "explanation": "O item I está correto (segundo o regramento vigente à época do exame, a observância dos princípios era obrigatória). O item II está incorreto, pois a avaliação de ativos a valor de liquidação ocorre exatamente quando a entidade NÃO tem a premissa de continuidade em operação (descontinuidade). O item III está correto, pois a informação perde relevância se não for íntegra e tempestiva, exigindo ponderação entre oportunidade e confiabilidade."
+  },
+  {
+    "questionNumber": 41,
+    "source": "Exame de Suficiência CFC 2011",
+    "subject": "Contabilidade Geral",
+    "topic": "Passivo Exigível",
+    "subtopic": "Provisões, Passivos Contingentes e Ativos Contingentes (NBC TG 25)",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2011 | Contabilidade Geral\n\n Relacione a situação descrita na primeira coluna com o procedimento a ser\nadotado na segunda coluna e, em seguida, assinale a opção CORRETA.\n(1) Há obrigação presente que, provavelmente, requer uma saída de recursos.\n(2) Há obrigação possível ou obrigação presente que pode requerer, mas provavelmente não irá requerer uma saída de recursos.\n(3) Há obrigação possível ou obrigação presente cuja probabilidade de uma saída de recursos é remota.\n\n( ) Nenhuma provisão é reconhecida, mas é exigida divulgação para o passivo contingente.\n( ) Nenhuma provisão é reconhecida e nenhuma divulgação é exigida.\n( ) A provisão é reconhecida e é exigida divulgação para a provisão.\n\nA sequência CORRETA é:",
+    "options": [
+      "a) 2, 3, 1.",
+      "b) 1, 3, 2.",
+      "c) 2, 1, 3.",
+      "d) 1, 2, 3."
+    ],
+    "correctOption": "A",
+    "explanation": "1ª lacuna: Se a saída não é provável (apenas possível), trata-se de um passivo contingente; não se contabiliza a provisão, apenas se divulga em notas explicativas (situação 2). 2ª lacuna: Se a probabilidade de saída de recursos for remota, nenhuma provisão é reconhecida e não há exigência de divulgação (situação 3). 3ª lacuna: Se há obrigação presente e a saída de recursos é provável, a provisão deve ser reconhecida (contabilizada) e divulgada (situação 1). A sequência é 2, 3, 1."
+  },
+  {
+    "questionNumber": 42,
+    "source": "Exame de Suficiência CFC 2011",
+    "subject": "Teoria da Contabilidade",
+    "topic": "Estrutura Conceitual Básica",
+    "subtopic": "Demonstrações Contábeis",
+    "difficulty": 3,
+    "statement": "FGV - EXAME CFC 2011 | Teoria da Contabilidade\n\n A Estrutura Conceitual para Elaboração e Apresentação das Demonstrações\nContábeis estabelece os conceitos que fundamentam a preparação e a\napresentação de demonstrações contábeis destinadas a usuários externos.\nCom base nessa observação, julgue os itens a seguir como Verdadeiros (V) ou\nFalsos (F) e, em seguida, assinale a opção CORRETA.\n\n( ) Estão fora do alcance da Estrutura Conceitual informações financeiras\nelaboradas para fins exclusivamente fiscais.\n( ) Uma qualidade essencial das informações apresentadas nas\ndemonstrações contábeis é que elas sejam prontamente entendidas pelos\nusuários. Por esta razão, informações sobre assuntos complexos devem\nser excluídas por serem de difícil entendimento para usuários que não\nconheçam as particularidades do negócio.\n( ) Regime de Competência e Continuidade são apresentados na Estrutura\nConceitual para Elaboração e Apresentação das Demonstrações\nContábeis como pressupostos básicos.\n( ) Compreensibilidade, relevância, confiabilidade e comparabilidade são\napresentadas na Estrutura Conceitual para Elaboração e Apresentação\ndas Demonstrações Contábeis como pressupostos básicos.\nA sequência CORRETA é:",
+    "options": [
+      "a) F, F, F, F.",
+      "b) F, F, V, F.",
+      "c) V, F, V, F.",
+      "d) V, V, V, F."
+    ],
+    "correctOption": "C",
+    "explanation": "1º (V) A Estrutura Conceitual refere-se a demonstrações de propósito geral. Demonstrações exclusivas para fins fiscais são de propósito especial, fora desse alcance. 2º (F) Assuntos complexos que sejam relevantes NÃO devem ser excluídos das demonstrações apenas porque podem ser de difícil entendimento. 3º (V) Na versão aplicável da época, o Regime de Competência e a Continuidade eram elencados como pressupostos básicos. 4º (F) Compreensibilidade, relevância, confiabilidade e comparabilidade são 'Características Qualitativas' (e não pressupostos básicos)."
+  },
+  {
+    "questionNumber": 43,
+    "source": "Exame de Suficiência CFC 2011",
+    "subject": "Auditoria",
+    "topic": "Responsabilidade do Auditor",
+    "subtopic": "Fraude e Erro (NBC TA 240)",
+    "difficulty": 1,
+    "statement": "FGV - EXAME CFC 2011 | Auditoria\n\n De acordo com a NBC TA 240 – Responsabilidade do Auditor em Relação a\nFraude no Contexto da Auditoria de Demonstrações Contábeis, a fraude é\nconsiderada o ato intencional de um ou mais indivíduos da administração, dos\nresponsáveis pela governança, empregados ou terceiros que envolva:",
+    "options": [
+      "a) a obtenção de vantagem justa ou legal.",
+      "b) culpa para obtenção de vantagens.",
+      "c) dolo ou culpa para obtenção de vantagem injusta ou ilegal.",
+      "d) dolo para obtenção de vantagem injusta ou ilegal."
+    ],
+    "correctOption": "D",
+    "explanation": "A fraude difere do erro pela intencionalidade. O termo 'dolo' significa a intenção deliberada de cometer o ato. De acordo com as normas de auditoria, a fraude é um ato intencional (dolo) para obtenção de vantagem injusta ou ilegal, opondo-se à 'culpa' (que está ligada a atos não intencionais, imperícia, imprudência ou negligência - característicos do erro)."
+  },
+  {
+    "questionNumber": 44,
+    "source": "Exame de Suficiência CFC 2011",
+    "subject": "Auditoria",
+    "topic": "Planejamento e Avaliação de Riscos",
+    "subtopic": "Risco de Auditoria",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2011 | Auditoria\n\n De acordo com as Normas Brasileiras de Auditoria convergentes com as Normas\nInternacionais de Auditoria, o risco de que uma distorção relevante possa ocorrer\ne não ser evitada, ou detectada e corrigida em tempo hábil por controles internos\nrelacionados é considerado um risco:",
+    "options": [
+      "a) de controle.",
+      "b) de detecção.",
+      "c) inerente.",
+      "d) inevitável."
+    ],
+    "correctOption": "A",
+    "explanation": "O 'Risco de Controle' é exatamente o risco de que uma distorção não seja prevenida, detectada ou corrigida tempestivamente pelo sistema de controle interno da entidade. O 'Risco Inerente' seria a suscetibilidade a distorções antes de considerar os controles, e o 'Risco de Detecção' é o risco de os procedimentos do auditor não detectarem uma distorção."
+  },
+  {
+    "questionNumber": 45,
+    "source": "Exame de Suficiência CFC 2011",
+    "subject": "Perícia Contábil",
+    "topic": "Apuração de Haveres",
+    "subtopic": "Ajuste de Balanço de Determinação",
+    "difficulty": 3,
+    "statement": "FGV - EXAME CFC 2011 | Perícia Contábil\n\n O sócio D (com 20% do capital) ajuizou ação de apuração de haveres. O juiz nomeou dois peritos. O Balanço Patrimonial Especial registrava Passivo a Descoberto de R$ 389.219,93 (portanto, um PL negativo nesse valor). A perícia de engenharia avaliou os seguintes bens do Ativo Não Circulante, resultando nos seguintes novos valores em comparação aos originais do balanço:\n- Propriedades para Investimento: passou de R$ 13.769,98 para R$ 713.900,00.\n- Participações em Sociedade de Crédito: mantida em R$ 1.044,89.\n- Máquinas e Equipamentos (Imobilizado): passou de R$ 1.884.292,23 para R$ 1.740.930,50.\n- Marcas e Patentes (Intangível): mantida em R$ 826,51.\nO perito-contador realizou os ajustes necessários a um novo Balanço Patrimonial, no qual os haveres do sócio excluído ficaram apurados em:",
+    "options": [
+      "a) R$33.509,67.",
+      "b) R$167.548.36.",
+      "c) R$491.340,38.",
+      "d) R$639.833,49."
+    ],
+    "correctOption": "A",
+    "explanation": "1) PL Inicial = R$ -389.219,93 (Passivo a Descoberto). 2) Ajustes no Patrimônio: Ganho nas Propriedades para Investimento = R$ 713.900,00 - 13.769,98 = +R$ 700.130,02. Perda no Imobilizado = R$ 1.740.930,50 - 1.884.292,23 = -R$ 143.361,73. Ajuste Líquido = R$ 700.130,02 - 143.361,73 = +R$ 556.768,29. 3) Novo PL (Balanço de Determinação) = R$ -389.219,93 + R$ 556.768,29 = R$ +167.548,36. 4) Apuração de Haveres do Sócio D (20%): 20% de R$ 167.548,36 = R$ 33.509,67."
+  },
+  {
+    "questionNumber": 46,
+    "source": "Exame de Suficiência CFC 2011",
+    "subject": "Perícia Contábil",
+    "topic": "Laudo Pericial Contábil",
+    "subtopic": "Conceito e Formalidade",
+    "difficulty": 1,
+    "statement": "FGV - EXAME CFC 2011 | Perícia Contábil\n\n De acordo com as Normas Brasileiras de Contabilidade aplicáveis aos trabalhos\nde Perícia Contábil, o Laudo Pericial Contábil é:",
+    "options": [
+      "a) a indagação e a busca de informações, mediante conhecimento do objeto da\nperícia solicitada nos autos.",
+      "b) a investigação e a pesquisa sobre o que está oculto por quaisquer\ncircunstâncias nos autos.",
+      "c) a peça escrita elaborada pelo perito assistente, na qual ele deve registrar, de\nforma abrangente, o conteúdo da perícia e particularizar os aspectos e as\nminudências que envolvam o seu objeto e as buscas de elementos de prova\nnecessários para a conclusão do seu trabalho.",
+      "d) o documento escrito no qual o perito deve registrar, de forma abrangente, o\nconteúdo da perícia e particularizar os aspectos e as minudências que\nenvolvam o seu objeto e as buscas de elementos de prova necessários para a\nconclusão do seu trabalho."
+    ],
+    "correctOption": "D",
+    "explanation": "O Laudo Pericial Contábil é a peça escrita (documento formal) na qual o perito-contador (nomeado pelo juiz) expressa de forma minuciosa e fundamentada o resultado do seu trabalho, com a demonstração da prova pericial. A alternativa 'c' está incorreta pois atribui a emissão do 'Laudo' ao 'perito assistente' (que na verdade emite o 'Parecer Pericial Contábil'). As alternativas 'a' e 'b' descrevem os procedimentos de diligência e investigação pericial, e não o documento (Laudo) em si."
+  },
+  {
+    "questionNumber": 47,
+    "source": "Exame de Suficiência CFC 2011",
+    "subject": "Auditoria",
+    "topic": "Auditoria de Ativos",
+    "subtopic": "Disponibilidades e Contagem de Caixa",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2011 | Auditoria\n\n O auditor realizou uma contagem física no caixa da empresa auditada.\nConsiderando que nessa data o saldo anterior existente era de R$100.000,00 e,\nlevando em consideração os eventos após a contagem, o CORRETO valor do\nsaldo final do caixa da empresa é de:\n\nEventos:\n\n- Pagamento de duplicata de um determinado fornecedor, efetuado por meio\nde cheque no valor de R$57.000,00.\n- Recebimento de duplicatas em carteira no valor de R$72.000,00, acrescido\nde juros por atraso de 2%.\n- Pagamento em dinheiro de despesas diversas no valor de R$21.900,00.\n- Pagamento em dinheiro de serviços terceirizados no valor de R$51.000,00.",
+    "options": [
+      "a) R$27.100,00.",
+      "b) R$43.540,00.",
+      "c) R$100.540,00.",
+      "d) R$173.440,00."
+    ],
+    "correctOption": "C",
+    "explanation": "A contagem refere-se ao Caixa (numerário físico), logo os movimentos realizados via Banco (como cheques) não afetam este saldo. 1) Saldo Inicial do Caixa: R$ 100.000,00. 2) Pagamento em cheque: R$ 57.000,00 afeta conta Bancos, não o Caixa (ignorar). 3) Recebimento de duplicatas em carteira (em dinheiro): R$ 72.000,00 + 2% de juros (R$ 1.440,00) = R$ 73.440,00 (Entrada no Caixa). 4) Pagamentos em dinheiro: Despesas de R$ 21.900,00 e Serviços de R$ 51.000,00 (Saídas do Caixa). 5) Saldo Final: 100.000,00 + 73.440,00 - 21.900,00 - 51.000,00 = R$ 100.540,00."
+  }
+]

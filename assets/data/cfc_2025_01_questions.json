@@ -1,0 +1,864 @@
+[
+  {
+    "questionNumber": 1,
+    "source": "FGV - Exame CFC 2025",
+    "subject": "Língua Portuguesa Aplicada",
+    "topic": "Interpretação de texto",
+    "subtopic": "Sentido persuasivo",
+    "difficulty": 1,
+    "statement": "FGV - EXAME CFC 2025 | LÍNGUA PORTUGUESA\n\nUm cartaz, na porta de um supermercado, dizia: “Compre hoje! Amanhã pode estar mais caro!” Esse cartaz",
+    "options": [
+      "aconselha o cliente a economizar.",
+      "dá ordem ao cliente para ganhar tempo.",
+      "chama a atenção do cliente para a possível falta de produtos.",
+      "pretende ensinar o cliente a controlar seu orçamento."
+    ],
+    "correctOption": "B",
+    "explanation": "O uso do imperativo 'Compre' aliado à sugestão de urgência ('hoje', 'amanhã pode estar mais caro') configura uma estratégia de pressão para que o consumidor tome uma decisão imediata."
+  },
+  {
+    "questionNumber": 2,
+    "source": "FGV - Exame CFC 2025",
+    "subject": "Língua Portuguesa Aplicada",
+    "topic": "Interpretação de texto",
+    "subtopic": "Analogia",
+    "difficulty": 1,
+    "statement": "FGV - EXAME CFC 2025 | LÍNGUA PORTUGUESA\n\nUm famoso escritor falou sobre a leitura: “A leitura é para a mente o que a ginástica é para o corpo.” Com essa frase, o autor quer dizer que",
+    "options": [
+      "exercícios físicos devem ser feitos todos os dias.",
+      "a leitura, como a ginástica, deve ser feita diariamente.",
+      "a leitura enriquece o nosso conhecimento.",
+      "exercícios físicos e leitura fortalecem o corpo."
+    ],
+    "correctOption": "C",
+    "explanation": "A analogia estabelece que, assim como a ginástica desenvolve a musculatura e a saúde física, a leitura desenvolve as capacidades intelectuais e o conhecimento."
+  },
+  {
+    "questionNumber": 3,
+    "source": "FGV - Exame CFC 2025",
+    "subject": "Matemática Financeira e Estatística",
+    "topic": "Probabilidade",
+    "subtopic": "Eventos dependentes (sem reposição)",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2025 | MATEMÁTICA FINANCEIRA E ESTATÍSTICA\n\nUma caixa contém seis bolas brancas e quatro bolas azuis, todas de mesmo tamanho. Se sortearmos ao acaso 3 dessas bolas, sem reposição, a probabilidade de que todas sejam brancas é igual a",
+    "options": [
+      "1/3.",
+      "1/4.",
+      "1/5.",
+      "1/6."
+    ],
+    "correctOption": "D",
+    "explanation": "Cálculo: (6/10) * (5/9) * (4/8). Simplificando: (3/5) * (5/9) * (1/2) = 15/90 = 1/6."
+  },
+  {
+    "questionNumber": 4,
+    "source": "FGV - Exame CFC 2025",
+    "subject": "Matemática Financeira e Estatística",
+    "topic": "Payback simples",
+    "subtopic": "Recuperação de investimento",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2025 | MATEMÁTICA FINANCEIRA E ESTATÍSTICA\n\nEm 2023, uma universidade investiu R$ 100.000,00 para a estruturação de seu primeiro curso 100% à distância. Foram estimadas as seguintes receitas e despesas anuais:\n2024: R$ 50.000,00 (Rec) / R$ 35.000,00 (Desp)\n2025: R$ 65.000,00 (Rec) / R$ 30.000,00 (Desp)\n2026: R$ 80.000,00 (Rec) / R$ 30.000,00 (Desp)\n2027: R$ 90.000,00 (Rec) / R$ 20.000,00 (Desp)\n2028: R$ 90.000,00 (Rec) / R$ 20.000,00 (Desp)\nConsiderando as informações apresentadas, o payback simples ocorreu em",
+    "options": [
+      "2025.",
+      "2026.",
+      "2027.",
+      "2028."
+    ],
+    "correctOption": "B",
+    "explanation": "Fluxos líquidos: 2024 = 15k; 2025 = 35k (acumulado 50k); 2026 = 50k (acumulado 100k). O investimento de 100k é recuperado em 2026."
+  },
+  {
+    "questionNumber": 5,
+    "source": "FGV - Exame CFC 2025",
+    "subject": "Noções de Direito e Legislação Aplicada",
+    "topic": "Direito Administrativo",
+    "subtopic": "Princípios da Administração Pública",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2025 | DIREITO E LEGISLAÇÃO\n\nAvalie se os princípios da Administração Pública incluem: \nI. a legalidade; \nII. a moralidade; \nIII. a livre concorrência; \nIV. a publicidade. \n São de fato princípios da Administração Pública os itens",
+    "options": [
+      "I e II, apenas.",
+      "II, III e IV, apenas.",
+      "I, II e IV, apenas.",
+      "I, II, III e IV."
+    ],
+    "correctOption": "C",
+    "explanation": "Os princípios expressos no Art. 37 da CF são LIMPE (Legalidade, Impessoalidade, Moralidade, Publicidade e Eficiência). Livre concorrência é um princípio da ordem econômica."
+  },
+  {
+    "questionNumber": 6,
+    "source": "FGV - Exame CFC 2025",
+    "subject": "Noções de Direito e Legislação Aplicada",
+    "topic": "Direito Tributário",
+    "subtopic": "Princípios Constitucionais Tributários",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2025 | DIREITO TRIBUTÁRIO\n\nSobre as limitações ao poder de tributar previstas na Constituição Federal de 1988, assinale a afirmativa correta.",
+    "options": [
+      "O princípio da anterioridade nonagesimal permite que as contribuições sociais sejam exigidas imediatamente.",
+      "O princípio da legalidade determina que nenhum tributo pode ser instituído ou majorado sem lei complementar.",
+      "O princípio da isonomia garante tratamento igualitário a todos que se encontram em situação equivalente, sendo proibida distinção em razão de ocupação profissional.",
+      "O princípio da irretroatividade veda a aplicação da lei a fato pretérito, ainda que a lei seja expressamente interpretativa."
+    ],
+    "correctOption": "C",
+    "explanation": "A alternativa C reflete o Art. 150, II, da CF. A anterioridade para contribuições sociais é de 90 dias (Art. 195, §6º), e a maioria dos tributos exige lei ordinária, não complementar."
+  },
+  {
+    "questionNumber": 7,
+    "source": "FGV - Exame CFC 2025",
+    "subject": "Noções de Direito e Legislação Aplicada",
+    "topic": "Obrigações Tributárias",
+    "subtopic": "Conceitos de Obrigação Principal e Acessória",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2025 | DIREITO TRIBUTÁRIO\n\nA empresa Alfa verificou os seguintes tributos devidos: ICMS, ISS e IRPJ. De acordo com os conceitos de obrigação tributária e tributo, assinale a afirmativa correta.",
+    "options": [
+      "O ISS e o ICMS são impostos de mesma competência tributária, pois ambos são devidos aos Estados.",
+      "A obrigação tributária principal consiste no pagamento do tributo devido, enquanto a obrigação tributária acessória está relacionada a deveres instrumentais.",
+      "O IRPJ é classificado como um tributo indireto, pois seu ônus pode ser repassado ao consumidor.",
+      "O fato gerador do ICMS ocorre quando a empresa apura seus lucros ao final do exercício."
+    ],
+    "correctOption": "B",
+    "explanation": "Conforme o CTN, a obrigação principal surge com o fato gerador e tem por objeto o pagamento de tributo ou penalidade; a acessória decorre da legislação e visa a fiscalização."
+  },
+  {
+    "questionNumber": 8,
+    "source": "FGV - Exame CFC 2025",
+    "subject": "Legislação e Ética Profissional",
+    "topic": "Código de Ética Profissional do Contador",
+    "subtopic": "Abrangência da Norma",
+    "difficulty": 1,
+    "statement": "FGV - EXAME CFC 2025 | ÉTICA PROFISSIONAL\n\nDe acordo com o CÓDIGO DE ÉTICA PROFISSIONAL DO CONTADOR em seu item 3: “Este código de ética profissional do contador se aplica também ao _____, no exercício de suas prerrogativas profissionais.” A lacuna fica corretamente preenchida por",
+    "options": [
+      "empresário contábil.",
+      "técnico em contabilidade.",
+      "administrador de empresas.",
+      "gestor financeiro."
+    ],
+    "correctOption": "B",
+    "explanation": "O item 3 da NBC PG 01 estabelece explicitamente que o código se aplica também aos Técnicos em Contabilidade."
+  },
+  {
+    "questionNumber": 9,
+    "source": "FGV - Exame CFC 2025",
+    "subject": "Legislação e Ética Profissional",
+    "topic": "NBC PG 01",
+    "subtopic": "Deveres e Proibições",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2025 | ÉTICA PROFISSIONAL\n\nA NBC PG 01 fixa a conduta do contador. Com base nessa norma, é correto afirmar que o contador pode",
+    "options": [
+      "se utilizar de posição ocupada em entidades de classe para benefício próprio.",
+      "fazer afirmações desproporcionais sobre os serviços que oferece.",
+      "se apropriar de trabalhos ou soluções encontradas por colegas dos quais não tenha participado.",
+      "indicar, em qualquer veículo de comunicação, os títulos, especializações e relação de clientes, quando autorizada por eles."
+    ],
+    "correctOption": "D",
+    "explanation": "É permitido ao contador divulgar seus serviços e clientes, desde que não seja de forma enganosa e haja autorização para a divulgação da carteira de clientes."
+  },
+  {
+    "questionNumber": 10,
+    "source": "FGV - Exame CFC 2025",
+    "subject": "Teoria da Contabilidade",
+    "topic": "NBC TG 25",
+    "subtopic": "Passivos Contingentes",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2025 | TEORIA DA CONTABILIDADE\n\nEm relação ao reconhecimento de um PASSIVO CONTINGENTE, de acordo com a NBC TG 25 (R2), é correto afirmar que",
+    "options": [
+      "não é reconhecido e nem divulgado em notas explicativas.",
+      "não é reconhecido, mas é divulgado em notas explicativas.",
+      "é reconhecido e divulgado em notas explicativas.",
+      "é reconhecido, mas não é divulgado em notas explicativas."
+    ],
+    "correctOption": "B",
+    "explanation": "Passivos contingentes não atendem aos critérios de reconhecimento no balanço, mas devem ser divulgados em Notas Explicativas (exceto se a saída de recursos for remota)."
+  },
+  {
+    "questionNumber": 11,
+    "source": "FGV - Exame CFC 2025",
+    "subject": "Teoria da Contabilidade",
+    "topic": "Estrutura Conceitual",
+    "subtopic": "Características Qualitativas",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2025 | TEORIA DA CONTABILIDADE\n\nUm supermercado perdeu todo o estoque em maio de 2024 devido a chuvas e optou por baixar o estoque imediatamente nas demonstrações mensais para torná-las mais úteis. A informação apresenta a característica qualitativa:",
+    "options": [
+      "neutralidade.",
+      "materialidade.",
+      "verificabilidade.",
+      "tempestividade."
+    ],
+    "correctOption": "D",
+    "explanation": "Tempestividade significa ter a informação disponível para os tomadores de decisão a tempo de poder influenciá-los em suas decisões."
+  },
+  {
+    "questionNumber": 12,
+    "source": "FGV - Exame CFC 2025",
+    "subject": "Teoria da Contabilidade",
+    "topic": "Estrutura Conceitual",
+    "subtopic": "Demonstrações Consolidadas",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2025 | TEORIA DA CONTABILIDADE\n\nDe acordo com a NBC TG Estrutura Conceitual, as demonstrações contábeis consolidadas fornecem informações sobre os ativos, passivos, patrimônio líquido, receitas e despesas",
+    "options": [
+      "apenas das controladas.",
+      "apenas da controladora.",
+      "da controladora e de suas controladas, como entidades independentes.",
+      "da controladora e de suas controladas, como uma única entidade que reporta."
+    ],
+    "correctOption": "D",
+    "explanation": "Conforme o item 3.12 da Estrutura Conceitual, as demonstrações consolidadas visam apresentar o grupo econômico como uma única unidade econômica."
+  },
+  {
+    "questionNumber": 13,
+    "source": "FGV - Exame CFC 2025",
+    "subject": "Teoria da Contabilidade",
+    "topic": "Estrutura Conceitual",
+    "subtopic": "Elementos das Demonstrações",
+    "difficulty": 1,
+    "statement": "FGV - EXAME CFC 2025 | TEORIA DA CONTABILIDADE\n\nDe acordo com a NBC TG Estrutura Conceitual, patrimônio líquido é a participação nos ativos da entidade após",
+    "options": [
+      "a dedução de seus passivos.",
+      "a dedução de suas despesas.",
+      "o acréscimo de suas receitas.",
+      "o acréscimo de seus passivos."
+    ],
+    "correctOption": "A",
+    "explanation": "Definição clássica da Estrutura Conceitual: PL = Ativo - Passivo (interesse residual)."
+  },
+  {
+    "questionNumber": 14,
+    "source": "FGV - Exame CFC 2025",
+    "subject": "Princípios de Contabilidade e Normas Brasileiras de Contabilidade",
+    "topic": "Estrutura Conceitual",
+    "subtopic": "Representação Fidedigna",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2025 | NORMAS BRASILEIRAS DE CONTABILIDADE\n\nSegundo a NBC TG ESTRUTURA CONCEITUAL, para a representação dos relatórios financeiros ser fidedigna ela precisa ser",
+    "options": [
+      "completa, neutra e isenta de erros.",
+      "confiável, tempestiva e com erros mínimos.",
+      "tempestiva, útil e comparável.",
+      "consistente, completa e compreensível."
+    ],
+    "correctOption": "A",
+    "explanation": "Para ser uma representação fidedigna perfeita, a informação deve ter três características: ser completa, neutra e isenta de erros."
+  },
+  {
+    "questionNumber": 15,
+    "source": "FGV - Exame CFC 2025",
+    "subject": "Princípios de Contabilidade e Normas Brasileiras de Contabilidade",
+    "topic": "NBC TG 26",
+    "subtopic": "Pressupostos Básicos",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2025 | NORMAS BRASILEIRAS DE CONTABILIDADE\n\nSegundo a NBC TG 26 (R5), a administração deve avaliar a capacidade de a entidade continuar em operação no futuro previsível, o que significa que as demonstrações devem ser elaboradas no pressuposto da",
+    "options": [
+      "continuidade, a menos que a administração tenha a intenção de liquidar a entidade ou cessar seus negócios.",
+      "competência, sendo os itens reconhecidos como ativos, passivos e PL, inclusive para o fluxo de caixa.",
+      "materialidade e agregação, aglutinando itens de natureza distinta mesmo que sejam materiais.",
+      "compensação de valores, devendo ativos e passivos serem compensados como regra geral."
+    ],
+    "correctOption": "A",
+    "explanation": "A continuidade é o pressuposto básico para a elaboração das demonstrações, exceto em casos de liquidação iminente."
+  },
+  {
+    "questionNumber": 16,
+    "source": "FGV - Exame CFC 2025",
+    "subject": "Princípios de Contabilidade e Normas Brasileiras de Contabilidade",
+    "topic": "Ativo Não Circulante Mantido para Venda",
+    "subtopic": "NBC TG 31",
+    "difficulty": 3,
+    "statement": "FGV - EXAME CFC 2025 | NORMAS BRASILEIRAS DE CONTABILIDADE\n\nSobre a classificação e mensuração de ativos não circulantes mantidos para a venda, de acordo com a NBC TG 31 (R4), analise: I. Ativos mantidos para a venda são realocados para o ativo circulante. II. Aplicam-se também a ativos destinados a serem distribuídos aos sócios. III. O ativo será mensurado pelo maior entre o seu valor contábil e o valor justo menos as despesas de venda. Está correto o que se afirma em",
+    "options": [
+      "I, somente.",
+      "I e II, somente.",
+      "I, II e III.",
+      "II, somente."
+    ],
+    "correctOption": "B",
+    "explanation": "O item III está incorreto pois a mensuração deve ser pelo MENOR valor entre o valor contábil e o valor justo líquido de despesas de venda (NBC TG 31, item 15)."
+  },
+  {
+    "questionNumber": 17,
+    "source": "FGV - Exame CFC 2025",
+    "subject": "Teoria da Contabilidade",
+    "topic": "Estrutura Conceitual",
+    "subtopic": "Elementos das Demonstrações",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2025 | TEORIA DA CONTABILIDADE\n\nA NBC TG ESTRUTURA CONCEITUAL descreve uma série de conceitos utilizados para a elaboração de relatórios financeiros para fins gerais.\nRelacione cada elemento a seguir com sua correta definição segundo a Estrutura Conceitual.\nElemento:\na. Despesa\nb. Patrimônio Líquido\nc. Receita\n\nDefinição:\nI. Aumentos nos ativos, ou reduções nos passivos, que resultam em aumento no patrimônio líquido.\nII. Reduções nos ativos, ou aumentos nos passivos, que resultam em reduções no patrimônio líquido.\nIII. Participação residual nos ativos da entidade após a dedução de todos os seus passivos.\n\nOs elementos a, b e c correspondem, respectivamente, às definições",
+    "options": [
+      "II – III – I.",
+      "I – III – II.",
+      "II – I – III.",
+      "I – II – III."
+    ],
+    "correctOption": "A",
+    "explanation": "A receita (c) corresponde ao item I (aumento no ativo ou redução no passivo que aumenta o PL). A despesa (a) corresponde ao item II (redução no ativo ou aumento no passivo que reduz o PL). O patrimônio líquido (b) é a participação residual (item III)."
+  },
+  {
+    "questionNumber": 18,
+    "source": "FGV - Exame CFC 2025",
+    "subject": "Contabilidade Geral",
+    "topic": "Provisões e Passivos Contingentes",
+    "subtopic": "Critérios de Reconhecimento",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2025 | CONTABILIDADE GERAL\n\nDe acordo com a NBC TG 25 (R2) - PROVISÕES, PASSIVOS CONTINGENTES E ATIVOS CONTINGENTES, provisão é um passivo de prazo incerto ou de valor incerto. Considere que a sociedade empresária Beta tenha recebido laudo de seu advogado sobre um provável pagamento de processo trabalhista, entretanto com mensuração ainda não confiável. Nesse caso, o seu reconhecimento nas demonstrações financeiras deve ser",
+    "options": [
+      "como apropriação por competência no balanço patrimonial.",
+      "como provisão trabalhista no balanço patrimonial.",
+      "não realizar reconhecimento de provisão trabalhista no balanço patrimonial e não divulgar em nota explicativa.",
+      "não realizar reconhecimento de provisão trabalhista no balanço patrimonial, mas divulgar em nota explicativa como passivo contingente."
+    ],
+    "correctOption": "D",
+    "explanation": "Para reconhecer uma provisão, a estimativa do valor deve ser confiável. Como a mensuração não é confiável, ela não é reconhecida no balanço, mas deve ser divulgada em notas explicativas como passivo contingente."
+  },
+  {
+    "questionNumber": 19,
+    "source": "FGV - Exame CFC 2025",
+    "subject": "Contabilidade Geral",
+    "topic": "Demonstração do Valor Adicionado (DVA)",
+    "subtopic": "Apresentação de Contas",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2025 | CONTABILIDADE GERAL\n\nDe acordo com a NBC TG 09 (R1) - DEMONSTRAÇÃO DO VALOR ADICIONADO, a referida Demonstração (DVA) está relacionada com informações econômicas e com a comunicação de elementos ambientais, sociais e de governança (ASG), e tem por finalidade evidenciar a riqueza criada pela entidade e sua distribuição, durante determinado período. Nesse sentido, considerando que a sociedade empresária “B” possui reversão de perdas estimadas com créditos de liquidação duvidosa, essa informação deve ser apresentada, em sua DVA, do seguinte modo:",
+    "options": [
+      "em remuneração de capitais próprios, na segunda parte da DVA.",
+      "em remuneração de capitais de terceiros, na segunda parte da DVA.",
+      "em valor adicionado recebido em transferência, na primeira parte da DVA.",
+      "em riqueza criada pela própria entidade, na primeira parte da DVA."
+    ],
+    "correctOption": "D",
+    "explanation": "A constituição e reversão de perdas estimadas (como a PECLD) afetam o cálculo da riqueza criada pela própria entidade, entrando na primeira parte da DVA (geralmente detalhadas como receitas ou despesas operacionais)."
+  },
+  {
+    "questionNumber": 20,
+    "source": "FGV - Exame CFC 2025",
+    "subject": "Contabilidade Geral",
+    "topic": "Demonstração do Valor Adicionado (DVA)",
+    "subtopic": "Distribuição da Riqueza",
+    "difficulty": 1,
+    "statement": "FGV - EXAME CFC 2025 | CONTABILIDADE GERAL\n\nA Demonstração do Valor Adicionado proporciona aos usuários das demonstrações contábeis informações relativas à riqueza criada pela entidade em determinado período e à forma como tais riquezas foram distribuídas. Na distribuição do valor adicionado, o total de “Remuneração de capitais próprios” deve ser igual",
+    "options": [
+      "às reservas de lucro reportadas no Balanço Patrimonial.",
+      "ao pagamento de dividendos reportado na Demonstração dos Fluxos de Caixa.",
+      "ao resultado líquido do exercício reportado na Demonstração do Resultado do Período.",
+      "à distribuição de dividendos reportada na Demonstração das Mutações do Patrimônio Líquido."
+    ],
+    "correctOption": "C",
+    "explanation": "Na DVA, o montante classificado como remuneração de capitais próprios abrange os lucros retidos, dividendos e juros sobre capital próprio gerados no período, o que reflete matematicamente o Resultado Líquido do Exercício (DRE)."
+  },
+  {
+    "questionNumber": 21,
+    "source": "FGV - Exame CFC 2025",
+    "subject": "Contabilidade Geral",
+    "topic": "Demonstração do Valor Adicionado (DVA)",
+    "subtopic": "Cálculo do Valor Adicionado Líquido",
+    "difficulty": 3,
+    "statement": "FGV - EXAME CFC 2025 | CONTABILIDADE GERAL\n\nUma loja que vende produtos de escritório apresentava os seguintes saldos em 31/12/2023:\n• Custo da mercadoria vendida: R$ 80.000,00\n• Despesa de depreciação dos ativos imobilizados: R$ 15.000,00\n• Perdas estimadas com crédito de liquidação duvidosa: R$ 6.000,00\n• Perdas por desvalorização dos ativos imobilizados: R$ 10.000,00\n• Receita de contrato com clientes: R$ 200.000,00\nAssinale a opção que indica o saldo do valor adicionado líquido produzido pela loja, apresentado em sua DVA.",
+    "options": [
+      "R$ 89.000,00.",
+      "R$ 114.000,00.",
+      "R$ 104.000,00.",
+      "R$ 194.000,00."
+    ],
+    "correctOption": "A",
+    "explanation": "Cálculo da DVA: Receitas (200k) - Insumos de Terceiros e Outras Despesas (CMV 80k + PECLD 6k) = VA Bruto (114k). Retenções = Depreciação (15k) + Desvalorização de Imobilizado (10k) = 25k. VA Líquido = 114k - 25k = R$ 89.000,00."
+  },
+  {
+    "questionNumber": 22,
+    "source": "FGV - Exame CFC 2025",
+    "subject": "Contabilidade Geral",
+    "topic": "Provisões e Passivos Contingentes",
+    "subtopic": "Divulgação",
+    "difficulty": 1,
+    "statement": "FGV - EXAME CFC 2025 | CONTABILIDADE GERAL\n\nDe acordo com a NBC TG 25 (R2) - PROVISÕES, PASSIVOS CONTINGENTES E ATIVOS CONTINGENTES, a entidade deve divulgar, em notas explicativas, para cada classe de passivo contingente na data do balanço, uma breve descrição da natureza do passivo contingente, a menos que a possibilidade de ocorrer qualquer desembolso na liquidação seja",
+    "options": [
+      "remota.",
+      "possível.",
+      "provável.",
+      "possível e provável."
+    ],
+    "correctOption": "A",
+    "explanation": "A norma exige a divulgação de passivos contingentes em Notas Explicativas (que normalmente têm risco de perda 'possível'). No entanto, se o risco for considerado 'remoto', a divulgação em notas explicativas não é requerida."
+  },
+  {
+    "questionNumber": 23,
+    "source": "FGV - Exame CFC 2025",
+    "subject": "Contabilidade Geral",
+    "topic": "Regime de Competência",
+    "subtopic": "Reconhecimento de Despesa",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2025 | CONTABILIDADE GERAL\n\nA Cia Yellow pagou R$ 20.000,00 à Cia Solar por um pacote de oito inserções em redes sociais, sendo quatro ao mês. O contrato e o pagamento ocorreram em 01/05/2024. As inserções foram realizadas em junho (4 inserções) e julho (4 inserções). O faturamento aumentou em agosto e setembro. De acordo com o Regime de Competência, a despesa com a divulgação deve ser reconhecida pela Cia Yellow do seguinte modo:",
+    "options": [
+      "R$ 20.000,00 em maio.",
+      "R$ 10.000,00 em junho e R$ 10.000,00 em julho.",
+      "R$ 10.000,00 em agosto e R$ 10.000,00 em setembro.",
+      "R$ 5.000,00 em cada um dos meses de junho a setembro."
+    ],
+    "correctOption": "B",
+    "explanation": "Pelo regime de competência, a despesa é reconhecida quando o serviço é efetivamente consumido/prestado. Como as inserções ocorreram em junho e julho (metade em cada mês), o reconhecimento será R$ 10.000,00 em junho e R$ 10.000,00 em julho, independentemente de quando geraram receitas adicionais."
+  },
+  {
+    "questionNumber": 24,
+    "source": "FGV - Exame CFC 2025",
+    "subject": "Contabilidade Geral",
+    "topic": "Ativo Imobilizado",
+    "subtopic": "Custo de Aquisição",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2025 | CONTABILIDADE GERAL\n\nUma sociedade empresária adquiriu aparelhos de informática por R$ 40.000,00. O frete normal era R$ 2.000,00, mas a empresa optou pelo frete aéreo de R$ 5.500,00. A instalação custou R$ 1.000,00 e testes de funcionamento R$ 2.000,00. O valor dos aparelhos de informática a serem registrados no ativo imobilizado da sociedade empresária é de",
+    "options": [
+      "R$ 43.000,00.",
+      "R$ 45.000,00.",
+      "R$ 46.500,00.",
+      "R$ 48.500,00."
+    ],
+    "correctOption": "D",
+    "explanation": "O custo de um item do ativo imobilizado compreende seu preço de compra e quaisquer custos diretamente atribuíveis para colocar o ativo no local e condição necessários. Compõem o custo: Valor (40.000) + Frete Incorrido (5.500) + Instalação (1.000) + Testes (2.000) = R$ 48.500,00."
+  },
+  {
+    "questionNumber": 25,
+    "source": "FGV - Exame CFC 2025",
+    "subject": "Contabilidade Geral",
+    "topic": "Provisões e Passivos Contingentes",
+    "subtopic": "Ativos Contingentes",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2025 | CONTABILIDADE GERAL\n\nA empresa de um artista processou um resort e um influenciador por quebra de privacidade, pedindo R$ 10.000,00 e R$ 15.000,00. Os advogados julgaram as chances de ganho como remota e possível, respectivamente. Com base no julgamento, a empresa deve apresentar, em suas demonstrações contábeis, um ativo contingente",
+    "options": [
+      "igual a zero.",
+      "de R$ 10.000,00.",
+      "de R$ 15.000,00.",
+      "de R$ 25.000,00."
+    ],
+    "correctOption": "A",
+    "explanation": "Segundo a NBC TG 25, ativos contingentes nunca são reconhecidos no balanço. Eles são apenas divulgados em Notas Explicativas se a entrada de benefícios econômicos for 'praticamente certa' ou 'provável'. Para chances 'possíveis' ou 'remotas', não se contabiliza nem se divulga nada. Logo, o valor é zero nas demonstrações."
+  },
+  {
+    "questionNumber": 26,
+    "source": "FGV - Exame CFC 2025",
+    "subject": "Contabilidade Geral",
+    "topic": "Regime de Competência",
+    "subtopic": "Despesas com Empregados",
+    "difficulty": 1,
+    "statement": "FGV - EXAME CFC 2025 | CONTABILIDADE GERAL\n\nA Cia Lua atua no setor de comércio de relógios e tem 20 empregados. Todos os anos, na primeira semana de janeiro, a empresa contrata uma equipe de médicos para ir ao escritório realizar exames de rotina em seus empregados.\nEm janeiro de 2025, os gastos com os médicos foram de R$ 6.000,00. Do valor, 20% são pagos pelos empregados, enquanto o restante é pago pela empresa. \nO impacto do atendimento médico na Demonstração do Resultado da Cia Lua em janeiro de 2025, de acordo com o Regime de Competência, foi de",
+    "options": [
+      "-R$ 400,00.",
+      "-R$ 500,00.",
+      "-R$ 4.800,00.",
+      "-R$ 6.000,00."
+    ],
+    "correctOption": "C",
+    "explanation": "A despesa da empresa é apenas a parcela que ela efetivamente suporta (80% do total). R$ 6.000,00 x 80% = R$ 4.800,00. Os 20% repassados aos empregados não transitam como despesa na DRE, mas sim como valores a recuperar/descontar da folha."
+  },
+  {
+    "questionNumber": 27,
+    "source": "FGV - Exame CFC 2025",
+    "subject": "Contabilidade Geral",
+    "topic": "Ativo Imobilizado",
+    "subtopic": "Custo com Desconto Incondicional",
+    "difficulty": 1,
+    "statement": "FGV - EXAME CFC 2025 | CONTABILIDADE GERAL\n\nUm hotel adquiriu um televisor por R$ 40.000,00. Pelo pagamento à vista (Pix), obteve uma redução de 5% sobre o preço original. Assinale a opção que indica a contrapartida da diminuição de R$ 38.000,00 na conta “Disponibilidades”, nas demonstrações contábeis do hotel.",
+    "options": [
+      "Ativo imobilizado de R$ 38.000,00.",
+      "Ativo imobilizado de R$ 40.000,00 e receita financeira de R$ 2.000,00.",
+      "Ativo imobilizado de R$ 40.000,00 e outras receitas de R$ 2.000,00.",
+      "Ativo imobilizado de R$ 40.000,00 e retificação do ativo imobilizado de R$ 2.000,00."
+    ],
+    "correctOption": "A",
+    "explanation": "Descontos comerciais (incondicionais) e abatimentos obtidos no ato da compra são deduzidos do custo de aquisição do ativo. Logo, o televisor é ativado pelo seu valor líquido efetivamente pago: R$ 38.000,00."
+  },
+{
+  "questionNumber": 28,
+  "source": "FGV - Exame CFC 2025",
+  "subject": "Contabilidade Geral",
+  "topic": "Balanço Patrimonial",
+  "subtopic": "Estrutura do Ativo Não Circulante",
+  "difficulty": 1,
+  "statement": "FGV - EXAME CFC 2025 | CONTABILIDADE GERAL\n\nUma empresa de doces e bolos possui em 31/12/X0 os seguintes saldos em seu Balanço Patrimonial:\n• Caixa e equivalentes de caixa: R$ 100.000,00;\n• Empréstimos a pagar de curto prazo: R$ 250.000,00;\n• Financiamentos a pagar de longo prazo: R$ 330.000,00;\n• Imobilizado: R$ 450.000,00;\n• Intangível: R$ 320.000,00;\n• Estoques: R$ 250.000,00;\n• Capital Social: R$ 540.000,00.\n\nCom base nesses saldos, o valor do ativo não circulante da empresa é",
+  "options": [
+    "R$ 770.000,00.",
+    "R$ 350.000,00.",
+    "R$ 1.020.000,00.",
+    "R$ 450.000,00."
+  ],
+  "correctOption": "A",
+  "explanation": "O Ativo Não Circulante é composto pelo Imobilizado (R$ 450.000,00) e pelo Intangível (R$ 320.000,00). Somando ambos, obtemos R$ 770.000,00. O Caixa e os Estoques compõem o Ativo Circulante."
+},
+  {
+    "questionNumber": 29,
+    "source": "FGV - Exame CFC 2025",
+    "subject": "Contabilidade Geral",
+    "topic": "Regime de Competência",
+    "subtopic": "Apropriação de Custo/Despesa",
+    "difficulty": 1,
+    "statement": "FGV - EXAME CFC 2025 | CONTABILIDADE GERAL\n\nA empresa ABC S.A. comprou materiais, em agosto de X1. O pagamento foi realizado em novembro de X1, e os materiais foram utilizados na prestação de serviços em setembro de X1. Esses materiais devem ser reconhecidos como despesa no mês de",
+    "options": [
+      "novembro de X1.",
+      "setembro de X1.",
+      "agosto de X1.",
+      "dezembro de X1."
+    ],
+    "correctOption": "B",
+    "explanation": "Pelo regime de competência, uma despesa ou custo deve ser reconhecida no período em que os recursos são consumidos para gerar receitas. Portanto, o reconhecimento ocorre no momento do uso (setembro de X1)."
+  },
+  {
+    "questionNumber": 30,
+    "source": "FGV - Exame CFC 2025",
+    "subject": "Contabilidade Geral",
+    "topic": "Balanço Patrimonial",
+    "subtopic": "Classificação de Contas",
+    "difficulty": 1,
+    "statement": "FGV - EXAME CFC 2025 | CONTABILIDADE GERAL\n\nRelacione as contas contábeis do balanço patrimonial com seus respectivos grupos:\n1. Empréstimos a pagar após 12 meses.\n2. Contas a receber em 5 meses.\n3. Contas a pagar em 3 meses.\n4. Imóveis para uso por 10 anos.\n\n( ) Ativo Circulante.\n( ) Ativo Não Circulante.\n( ) Passivo Circulante.\n( ) Passivo Não Circulante.\nA relação correta, na ordem apresentada, é",
+    "options": [
+      "4 – 2 – 1 – 3.",
+      "2 – 4 – 3 – 1.",
+      "3 – 1 – 2 – 4.",
+      "1 – 3 – 4 – 2."
+    ],
+    "correctOption": "B",
+    "explanation": "Contas a receber em 5 meses = Ativo Circulante (2); Imóveis de uso = Ativo Não Circulante (4); Contas a pagar em 3 meses = Passivo Circulante (3); Empréstimos após 12 meses = Passivo Não Circulante (1). Sequência: 2, 4, 3, 1."
+  },
+  {
+    "questionNumber": 31,
+    "source": "FGV - Exame CFC 2025",
+    "subject": "Contabilidade Geral",
+    "topic": "Patrimônio Líquido",
+    "subtopic": "Componentes da Lei 6.404/76",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2025 | CONTABILIDADE GERAL\n\nAssinale a opção que contempla apenas componentes do Patrimônio Líquido, descritos na Lei nº 6.404/76 e alterações posteriores.",
+    "options": [
+      "Capital Social – Investimentos – Ações em Tesouraria.",
+      "Capital Social – Dividendos Obrigatórios a Pagar – Ajustes de Avaliação Patrimonial.",
+      "Reservas de Capital – Reservas de Lucros – Ações em Tesouraria.",
+      "Ajustes de Avaliação Patrimonial – Capital Social – Debêntures."
+    ],
+    "correctOption": "C",
+    "explanation": "Ações em Tesouraria são contas retificadoras do Patrimônio Líquido. Reservas de Capital e Reservas de Lucros são contas credoras do PL. Investimentos são contas do Ativo Não Circulante. Dividendos a pagar e debêntures são contas do Passivo Exigível."
+  },
+  {
+    "questionNumber": 32,
+    "source": "FGV - Exame CFC 2025",
+    "subject": "Contabilidade Avançada",
+    "topic": "Demonstrações Consolidadas",
+    "subtopic": "Participação de Não Controladores",
+    "difficulty": 3,
+    "statement": "FGV - EXAME CFC 2025 | CONTABILIDADE AVANÇADA\n\nA investidora Alfa S.A. possui a seguinte participação societária:\nKappa (controlada): 90% (PL: R$ 1.000.000,00)\nSigma (controlada): 70% (PL: R$ 700.000,00)\nZeta (coligada): 25% (PL: R$ 600.000,00)\nDelta (sem influência): 15% (PL: R$ 900.000,00)\nO montante registrado na conta de participação de acionistas não controladores no balanço consolidado de Alfa S.A. deverá ser de",
+    "options": [
+      "R$ 100.000,00.",
+      "R$ 310.000,00.",
+      "R$ 760.000,00.",
+      "R$ 1.525.000,00."
+    ],
+    "correctOption": "B",
+    "explanation": "A consolidação é feita apenas para empresas controladas. A parcela de minoritários (não controladores) refere-se ao percentual não pertencente à Alfa: Em Kappa (10% de 1.000.000 = R$ 100.000) e em Sigma (30% de 700.000 = R$ 210.000). Total: R$ 310.000,00."
+  },
+  {
+    "questionNumber": 33,
+    "source": "FGV - Exame CFC 2025",
+    "subject": "Contabilidade Geral",
+    "topic": "Ativo Imobilizado",
+    "subtopic": "Custo Inicial",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2025 | CONTABILIDADE GERAL\n\nUma empresa adquiriu uma máquina e registrou: Preço de aquisição: R$ 500.000,00; Imposto de importação: R$ 50.000,00 (não recuperável); Preparação do local: R$ 100.000,00; Material para testes: R$ 50.000,00; Honorários dos técnicos dos testes: R$ 60.000,00; Vida útil estimada: 10 anos; Valor residual: R$ 100.000,00. O custo da máquina, ou seja, o valor contábil de registro inicial desse imobilizado, será de",
+    "options": [
+      "R$ 500.000,00.",
+      "R$ 550.000,00.",
+      "R$ 650.000,00.",
+      "R$ 760.000,00."
+    ],
+    "correctOption": "D",
+    "explanation": "Todos os gastos necessários para colocar o ativo em operação são ativados. O valor residual não diminui o custo inicial do bem; ele só deduz a base de cálculo para a depreciação. Logo, Custo = 500k + 50k + 100k + 50k + 60k = R$ 760.000,00."
+  },
+  {
+    "questionNumber": 34,
+    "source": "FGV - Exame CFC 2025",
+    "subject": "Contabilidade Geral",
+    "topic": "Depreciação",
+    "subtopic": "Revisão de Estimativas",
+    "difficulty": 3,
+    "statement": "FGV - EXAME CFC 2025 | CONTABILIDADE GERAL\n\nUma empresa adquiriu uma máquina em 01/01/2020 pelo custo de R$ 240.000,00. A vida útil foi estimada em 8 anos, sem valor residual, pelo método linear. Em 31/12/2024, a empresa reavaliou a vida útil para 10 anos (aumentando em 2 anos) e o valor residual passou a ser R$ 40.000,00. O valor anual da despesa de depreciação a partir das alterações ocorridas em 31/12/2024 deve ser de",
+    "options": [
+      "R$ 40.000,00.",
+      "R$ 30.000,00.",
+      "R$ 18.000,00.",
+      "R$ 10.000,00."
+    ],
+    "correctOption": "D",
+    "explanation": "Depreciação até 31/12/2024 (5 anos): 240.000 / 8 = 30.000 por ano x 5 anos = 150.000 acumulado. Valor contábil restante = R$ 90.000. Nova estimativa: vida útil total 10 anos, restam 5 anos de uso (pois já passaram 5). Novo valor residual = R$ 40.000. Base depreciável = 90.000 - 40.000 = 50.000. Despesa anual = 50.000 / 5 anos restantes = R$ 10.000,00."
+  },
+  {
+    "questionNumber": 35,
+    "source": "FGV - Exame CFC 2025",
+    "subject": "Contabilidade de Custos",
+    "topic": "Métodos de Custeio",
+    "subtopic": "Custeio Variável",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2025 | CONTABILIDADE DE CUSTOS\n\nA Indústria Cadeiras Maceió Ltda. produziu 30.000 cadeiras e não possuía estoque inicial. Vendeu 24.000 unidades a R$ 100,00 cada. Os custos variáveis totais somaram R$ 1.800.000,00. Os custos fixos totalizaram R$ 200.000,00 e as despesas fixas somaram R$ 100.000,00. Com base nessas informações, o lucro obtido com as vendas, aplicando o método de custeio variável, foi de",
+    "options": [
+      "R$ 660.000,00.",
+      "R$ 960.000,00.",
+      "R$ 700.000,00.",
+      "R$ 300.000,00."
+    ],
+    "correctOption": "A",
+    "explanation": "No Custeio Variável, apenas custos variáveis vão para o produto. Custo variável unitário = 1.800.000 / 30.000 = R$ 60/unidade. CMV Variável (24.000 vendidas) = 24.000 x R$ 60 = R$ 1.440.000. Receita = 24.000 x R$ 100 = R$ 2.400.000. Margem de Contribuição = 2.400.000 - 1.440.000 = R$ 960.000. Lucro = Margem de Contribuição - Custos Fixos - Despesas Fixas = 960.000 - 200.000 - 100.000 = R$ 660.000,00."
+  },
+  {
+    "questionNumber": 36,
+    "source": "FGV - Exame CFC 2025",
+    "subject": "Contabilidade de Custos",
+    "topic": "Classificação de Custos",
+    "subtopic": "Custos Fixos e Variáveis",
+    "difficulty": 1,
+    "statement": "FGV - EXAME CFC 2025 | CONTABILIDADE DE CUSTOS\n\nEm janeiro de 2024, uma fábrica que produz bolas de futebol incorreu nos seguintes gastos: aluguel do imóvel e das máquinas: R$ 30.000,00; embalagens indispensáveis ao produto final: R$ 2.000,00; matéria-prima: R$ 10.000,00; seguro do imóvel: R$ 5.000,00. Assinale a opção que indica os custos fixos da fábrica no mês.",
+    "options": [
+      "R$ 5.000,00.",
+      "R$ 30.000,00.",
+      "R$ 35.000,00.",
+      "R$ 45.000,00."
+    ],
+    "correctOption": "C",
+    "explanation": "Custos fixos são aqueles cujo valor total não se altera com o volume de produção no curto prazo. São eles: Aluguel (R$ 30.000) e Seguro do imóvel da fábrica (R$ 5.000). Total: R$ 35.000,00. Matéria-prima e embalagens são custos variáveis."
+  },
+  {
+    "questionNumber": 37,
+    "source": "FGV - Exame CFC 2025",
+    "subject": "Contabilidade de Custos",
+    "topic": "Terminologia",
+    "subtopic": "Departamentalização",
+    "difficulty": 1,
+    "statement": "FGV - EXAME CFC 2025 | CONTABILIDADE DE CUSTOS\n\nLeia o fragmento a seguir:\n“Departamento é a unidade _____ administrativa para a Contabilidade de Custos, representada, na maioria dos casos, por pessoas e máquinas, em que se desenvolvem atividades _____.”\nAssinale a opção cujos itens completam corretamente as lacunas do fragmento.",
+    "options": [
+      "padrão – heterogêneas",
+      "mínima – homogêneas",
+      "máxima – complementares",
+      "padrão – complementares"
+    ],
+    "correctOption": "B",
+    "explanation": "Conceitualmente, na contabilidade de custos, o departamento é a unidade 'mínima' administrativa (centro de custos) composta por pessoas e máquinas, onde se desenvolvem atividades 'homogêneas'."
+  },
+  {
+    "questionNumber": 38,
+    "source": "FGV - Exame CFC 2025",
+    "subject": "Contabilidade de Custos",
+    "topic": "Conceitos Básicos",
+    "subtopic": "Gasto, Custo, Despesa e Desembolso",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2025 | CONTABILIDADE DE CUSTOS\n\nEm relação ao tema, analise as afirmativas a seguir.\nI. Custo é um gasto diretamente relacionado a um bem ou serviço utilizado na produção de outros bens e serviços.\nII. Despesa é um gasto com bens ou serviços consumidos direta ou indiretamente para obtenção de receitas.\nIII. Investimento é um gasto que se tornou um item do patrimônio líquido em função da expectativa de geração futura de caixa para a entidade ou em função de sua vida útil.\nIV. Desembolso é um gasto que ocorre quando bens ou serviços são consumidos de forma anormal e/ou involuntária que afetam diretamente o resultado da entidade.\nEstão corretas as afirmativas",
+    "options": [
+      "III e IV, apenas.",
+      "I, II e III, apenas.",
+      "I e II, apenas.",
+      "II, III e IV, apenas."
+    ],
+    "correctOption": "C",
+    "explanation": "A afirmativa IV está incorreta porque a definição apresentada corresponde a 'perda', e não a 'desembolso'. Desembolso é o pagamento efetivo de um gasto, enquanto perda é o consumo anormal e/ou involuntário de bens ou serviços. Assim, estão corretas apenas as afirmativas I e II."  },
+{
+  "questionNumber": 39,
+  "source": "FGV - Exame CFC 2025",
+  "subject": "Contabilidade Gerencial",
+  "topic": "Análise Custo-Volume-Lucro",
+  "subtopic": "Ponto de Equilíbrio Contábil",
+  "difficulty": 2,
+  "statement": "FGV - EXAME CFC 2025 | CONTABILIDADE GERENCIAL\n\nEm 01/01/2024, uma loja de teclados apresentava os seguintes saldos em seu balanço patrimonial:\n• Disponibilidades: R$ 60.000,00;\n• Estoque: R$ 240.000,00;\n• Patrimônio Líquido: R$ 300.000,00.\nO estoque era composto por 400 unidades de teclado, sendo que cada uma era vendida por R$ 1.000,00.\nNo primeiro semestre de 2024, os gastos fixos, considerando a loja e o escritório, foram os seguintes:\n• Aluguel: R$ 36.000,00;\n• Depreciação: R$ 30.000,00;\n• Salários: R$ 60.000,00.\nAlém disso, foi paga, antecipadamente, uma despesa de R$ 4.000,00 relacionada ao segundo semestre do ano.\nO ponto de equilíbrio contábil da loja, em unidades, no primeiro semestre de 2024, foi de",
+  "options": [
+    "240.",
+    "300.",
+    "315.",
+    "375."
+  ],
+  "correctOption": "C",
+  "explanation": "Preço de Venda = R$ 1.000. Custo Variável Unitário = 240.000 / 400 = R$ 600. Margem de Contribuição Unitária (MCU) = 1.000 - 600 = R$ 400. Gastos Fixos do Semestre = 36.000 + 30.000 + 60.000 = R$ 126.000 (a despesa antecipada não entra na DRE do 1º semestre pelo regime de competência). PEC = Gastos Fixos / MCU = 126.000 / 400 = 315 unidades."
+},
+  {
+    "questionNumber": 40,
+    "source": "FGV - Exame CFC 2025",
+    "subject": "Contabilidade Gerencial",
+    "topic": "Preços de Transferência",
+    "subtopic": "Modelos Gerenciais",
+    "difficulty": 3,
+    "statement": "FGV - EXAME CFC 2025 | CONTABILIDADE GERENCIAL\n\nAcerca do Modelo de Determinação do Preço de Transferência, avalie as afirmativas a seguir.\nI. No Modelo de Preço Baseado em Custo Total Realizado (Full Cost), o bem é transferido pelo valor do somatório dos custos totais incorridos dividido pelo volume.\nII. No Modelo Baseado em Negociação entre os Gestores, o bem é transferido pelo preço vigente no mercado, que pode ser um preço médio.\nIII. No Modelo Baseado em Custo de Oportunidade, a premissa é refletir o valor do benefício possível na melhor alternativa econômica.\nEstá correto o que se afirma em",
+    "options": [
+      "I, apenas.",
+      "I e II, apenas.",
+      "I e III, apenas.",
+      "I, II e III."
+    ],
+    "correctOption": "C",
+    "explanation": "A afirmativa II está incorreta porque a transferência 'pelo preço vigente no mercado' caracteriza o modelo de Preço de Mercado, e não o de Negociação (no qual os gestores têm liberdade para barganhar um preço intermediário). As afirmativas I e III descrevem os modelos corretamente."
+  },
+{
+  "questionNumber": 41,
+  "source": "FGV - Exame CFC 2025",
+  "subject": "Contabilidade Gerencial",
+  "topic": "Análise de Demonstrações Contábeis",
+  "subtopic": "Índices de Liquidez",
+  "difficulty": 2,
+  "statement": "FGV - EXAME CFC 2025 / CONTABILIDADE GERENCIAL\n\nAnalise as contas do Balanço Patrimonial a seguir:\n\nO Índice de Liquidez Seca e o Índice de Liquidez Corrente são, respectivamente, iguais a",
+  "table": {
+    "headers": ["ATIVO", "2023", "PASSIVO", "2023"],
+    "rows": [
+      ["Caixa", "R$ 5.000,00", "Fornecedores", "R$ 15.000,00"],
+      ["Aplicações financeiras", "R$ 10.000,00", "Impostos a pagar", "R$ 5.000,00"],
+      ["Contas a receber", "R$ 15.000,00", "Empréstimos de curto prazo", "R$ 10.000,00"],
+      ["Estoques", "R$ 30.000,00", "Empréstimos de longo prazo", "R$ 20.000,00"],
+      ["Imobilizado", "R$ 10.000,00", "Patrimônio líquido", "R$ 80.000,00"],
+      ["Intangível", "R$ 50.000,00", "", ""],
+      ["Investimentos", "R$ 10.000,00", "", ""],
+      ["TOTAL", "R$ 130.000,00", "TOTAL", "R$ 130.000,00"]
+    ]
+  },
+  "options": [
+    "2,00 e 1,00.",
+    "1,00 e 2,00.",
+    "1,00 e 2,60.",
+    "2,00 e 0,75."
+  ],
+  "correctOption": "B",
+  "explanation": "Ativo Circulante (AC) = Caixa (5) + Aplicações (10) + Contas a receber (15) + Estoques (30) = 60.000. Passivo Circulante (PC) = Fornecedores (15) + Impostos a pagar (5) + Empréstimos de curto prazo (10) = 30.000. Liquidez Corrente = AC / PC = 60.000 / 30.000 = 2,00. Liquidez Seca = (AC - Estoques) / PC = (60.000 - 30.000) / 30.000 = 1,00. A ordem solicitada é Seca (1,00) e Corrente (2,00)."
+},
+  {
+    "questionNumber": 42,
+    "source": "FGV - Exame CFC 2025",
+    "subject": "Contabilidade Aplicada ao Setor Público",
+    "topic": "Orçamento Público",
+    "subtopic": "Princípios Orçamentários",
+    "difficulty": 1,
+    "statement": "FGV - EXAME CFC 2025 | CONTABILIDADE APLICADA AO SETOR PÚBLICO\n\nA Lei Orçamentária Anual de cada ente federado deverá conter todas as receitas e despesas de todos os Poderes, órgãos, entidades, fundos e fundações instituídas e mantidas pelo Poder Público. Esse princípio orçamentário é denominado",
+    "options": [
+      "Unidade.",
+      "Universalidade.",
+      "Exclusividade.",
+      "Orçamento Bruto."
+    ],
+    "correctOption": "B",
+    "explanation": "O princípio da Universalidade determina que o orçamento (LOA) deve conter TODAS as receitas e TODAS as despesas dos entes e poderes, para garantir o controle parlamentar sobre o total das finanças."
+  },
+  {
+    "questionNumber": 43,
+    "source": "FGV - Exame CFC 2025",
+    "subject": "Contabilidade Aplicada ao Setor Público",
+    "topic": "Estrutura Conceitual (NBC TSP)",
+    "subtopic": "Características Qualitativas",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2025 | CONTABILIDADE APLICADA AO SETOR PÚBLICO\n\nDe acordo com a NBC TSP ESTRUTURA CONCEITUAL, as informações financeiras e não financeiras são relevantes quando",
+    "options": [
+      "permitem que os usuários compreendam o seu significado.",
+      "retratam a substância da transação, a qual pode não corresponder, necessariamente, à sua forma jurídica.",
+      "são capazes de influenciar significativamente o cumprimento dos objetivos da elaboração e da divulgação da informação contábil.",
+      "estão disponíveis aos usuários a tempo de serem úteis para fins de prestação de contas, responsabilização e tomada de decisão."
+    ],
+    "correctOption": "C",
+    "explanation": "Segundo a Estrutura Conceitual, a informação é relevante quando tem a capacidade de influenciar as decisões dos usuários, auxiliando-os a avaliar eventos passados, presentes ou futuros, ou seja, auxiliando nos propósitos de responsabilização e tomada de decisão."
+  },
+  {
+    "questionNumber": 44,
+    "source": "FGV - Exame CFC 2025",
+    "subject": "Contabilidade Aplicada ao Setor Público",
+    "topic": "Estrutura Conceitual (NBC TSP)",
+    "subtopic": "Usuários dos RCPGs",
+    "difficulty": 3,
+    "statement": "FGV - EXAME CFC 2025 | CONTABILIDADE APLICADA AO SETOR PÚBLICO\n\nCom relação aos usuários dos Relatórios Contábeis de Propósito Geral (RCPGs), avalie (V/F):\n( ) Os RCPGs devem ser elaborados para usuários que detêm a prerrogativa de exigir que a entidade divulgue informações às suas necessidades específicas.\n( ) Os membros do Poder Legislativo são usuários primários dos RCPGs enquanto representantes dos interesses da sociedade.\n( ) Alguns usuários dos serviços que dependem dos RCPGs podem não ser cidadãos (ex: agências bilaterais).",
+    "options": [
+      "V – F – F.",
+      "V – F – V.",
+      "F – V – V.",
+      "V – V – F."
+    ],
+    "correctOption": "C",
+    "explanation": "A 1ª está falsa porque os RCPGs atendem às necessidades de usuários que NÃO detêm a prerrogativa de exigir relatórios sob medida (pois são de propósito *geral*). A 2ª e a 3ª estão corretas conforme o texto da NBC TSP Estrutura Conceitual."
+  },
+  {
+    "questionNumber": 45,
+    "source": "FGV - Exame CFC 2025",
+    "subject": "Controladoria",
+    "topic": "Avaliação de Desempenho",
+    "subtopic": "EVA (Economic Value Added)",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2025 | CONTROLADORIA\n\nEm 2022, uma entidade analisava o desempenho com base no Retorno sobre o Investimento (ROI). Em 2023, passou a avaliar com base no EVA (Valor Econômico Agregado). Uma vantagem dessa substituição é a incorporação, na avaliação,",
+    "options": [
+      "do custo de oportunidade.",
+      "das receitas operacionais.",
+      "das despesas operacionais.",
+      "das receitas financeiras."
+    ],
+    "correctOption": "A",
+    "explanation": "O EVA difere dos indicadores tradicionais baseados no lucro contábil porque deduz o custo do capital próprio (remuneração exigida pelos acionistas), ou seja, incorpora o custo de oportunidade de todo o capital investido."
+  },
+  {
+    "questionNumber": 46,
+    "source": "FGV - Exame CFC 2025",
+    "subject": "Controladoria",
+    "topic": "Planejamento e Controle",
+    "subtopic": "Planejamento Estratégico",
+    "difficulty": 3,
+    "statement": "FGV - EXAME CFC 2025 | CONTROLADORIA\n\n A Administração de uma empresa, na elaboração de seu plano estratégico, deve, na medida do possível, observar alguns aspectos de formalidade necessários dado a sua relevância e seu impacto nas operações da empresa. \n A respeito desse tema, avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. \n ( ) O Plano Estratégico deve ser executado pela Controladoria sob o comando da alta administração.\n( ) Uma vez elaborado e aprovado, o Plano Estratégico não deve ser alterado ou ajustado.\n( ) Planejamento Estratégico é a atividade que se ocupa da implementação do Plano e assegura o uso eficiente dos recursos.\n( ) A elaboração do Planejamento deve considerar que decisões são interdependentes, sendo desafio o ajustamento sistêmico.\nAs afirmativas são, respectivamente,",
+    "options": [
+      "F – V – V – F.",
+      "F – V – F – V.",
+      "V – F – F – V.",
+      "V – F – V – F."
+    ],
+    "correctOption": "C",
+    "explanation": "A 1ª é (V) num contexto onde a controladoria atua como coordenadora técnica, embora a execução envolva a todos. A 2ª é (F) porque planos são dinâmicos e devem ser ajustados. A 3ª é (F) pois a descrição se refere ao Controle Gerencial/Operacional, não à essência do Planejamento Estratégico. A 4ª é (V) pelo caráter sistêmico."
+  },
+  {
+    "questionNumber": 47,
+    "source": "FGV - Exame CFC 2025",
+    "subject": "Auditoria Contábil",
+    "topic": "NBC TA 620",
+    "subtopic": "Utilização do Trabalho de Especialistas",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2025 | AUDITORIA CONTÁBIL\n\nUma empresa de auditoria contratou o trabalho de um especialista de TI. Constatou-se que o trabalho era adequado para a auditoria. Com base na NBC TA 620, assinale a afirmativa correta acerca da responsabilidade do auditor ao emitir a sua opinião.",
+    "options": [
+      "O auditor tem sua responsabilidade dividida com o especialista em todo o trabalho.",
+      "O auditor é o único responsável por expressar opinião de auditoria, e essa responsabilidade não é reduzida pelo trabalho de especialista contratado.",
+      "O auditor é responsável pela parte contábil, e o especialista, pelo trabalho que fez.",
+      "O auditor, modificando sua opinião em virtude do trabalho do especialista, não terá nenhuma responsabilidade, sendo a responsabilidade transferida ao especialista."
+    ],
+    "correctOption": "B",
+    "explanation": "Conforme a NBC TA 620, o auditor é o único responsável pela opinião expressa no relatório de auditoria, e essa responsabilidade não é reduzida sob nenhuma hipótese pela utilização do trabalho do especialista."
+  },
+  {
+    "questionNumber": 48,
+    "source": "FGV - Exame CFC 2025",
+    "subject": "Auditoria Contábil",
+    "topic": "Relatório do Auditor Independente",
+    "subtopic": "Parágrafos de Ênfase",
+    "difficulty": 1,
+    "statement": "FGV - EXAME CFC 2025 | AUDITORIA CONTÁBIL\n\nNo exercício de 2024, uma sociedade foi incluída em um Plano de Refinanciamento de Impostos. O fato foi apropriadamente divulgado nas demonstrações contábeis. O auditor julgou que o assunto é de importância fundamental para o entendimento pelos usuários. Assim, o auditor independente incluirá, em seu relatório,",
+    "options": [
+      "uma ressalva.",
+      "um fato relevante.",
+      "um parágrafo de ênfase.",
+      "um parágrafo de outros assuntos."
+    ],
+    "correctOption": "C",
+    "explanation": "Quando há um assunto que está adequadamente apresentado/divulgado nas demonstrações e, segundo o julgamento do auditor, é de fundamental importância para o entendimento dos usuários, emite-se um 'Parágrafo de Ênfase'."
+  },
+  {
+    "questionNumber": 49,
+    "source": "FGV - Exame CFC 2025",
+    "subject": "Perícia Contábil",
+    "topic": "NBC TP 01",
+    "subtopic": "Laudo Pericial e Parecer",
+    "difficulty": 3,
+    "statement": "FGV - EXAME CFC 2025 | PERÍCIA CONTÁBIL\n\nJulgue as afirmativas (NBC TP 01 - R1):\nI. O perito nomeado apresenta laudo, e o assistente oferece parecer.\nII. O assistente não pode validar laudo elaborado por leigo/outra área, devendo oferecer o parecer contábil.\nIII. A responsabilidade do laudo é exclusiva do perito nomeado, não cabendo responsabilidade solidária por outros peritos assinantes.\nIV. As respostas aos quesitos devem ser objetivas, completas e não lacônicas.\nEstão corretas as afirmativas",
+    "options": [
+      "III e IV, apenas.",
+      "I e II, apenas.",
+      "I e III, apenas.",
+      "II e IV, apenas."
+    ],
+    "correctOption": "D",
+    "explanation": "A afirmativa I (em sentido estrito) erra ao impedir o trabalho conjunto (pois peritos podem assinar laudos em conjunto, assumindo solidariedade, o que também invalida a III). As afirmativas II (vedação à chancela de leigos) e IV (clareza nos quesitos) estão literalmente expressas na Norma."
+  },
+  {
+    "questionNumber": 50,
+    "source": "FGV - Exame CFC 2025",
+    "subject": "Perícia Contábil",
+    "topic": "NBC PP 01",
+    "subtopic": "Impedimento e Honorários",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2025 | PERÍCIA CONTÁBIL\n\nAnalise (V/F) (NBC PP 01):\n( ) Em casos de impedimento ou suspeição, o perito pode continuar se obtiver consentimento de todos.\n( ) É permitido ao perito usar documentos externos, desde que previamente acordado com as partes e o juiz.\n( ) A proposta de honorários deve considerar custos, tempo, relevância e risco envolvidos.\nAs afirmativas são, respectivamente,",
+    "options": [
+      "F – F – V.",
+      "V – F – F.",
+      "F – V – F.",
+      "V – V – V."
+    ],
+    "correctOption": "A",
+    "explanation": "A 1ª é falsa (se há impedimento/suspeição legal, ele deve se declarar impedido; não há 'acordo' que supere vício de suspeição). A 2ª é falsa (a busca de provas por diligências independe de acordo prévio com as partes, sendo prerrogativa do perito juntá-las aos autos). A 3ª é verdadeira (são os pilares da precificação dos honorários periciais)."
+  }
+]

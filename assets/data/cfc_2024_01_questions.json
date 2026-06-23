@@ -1,0 +1,855 @@
+[
+  {
+    "questionNumber": 1,
+    "source": "FGV - Exame CFC 2024.1",
+    "subject": "Língua Portuguesa Aplicada",
+    "topic": "Sintaxe",
+    "subtopic": "Ordem Direta",
+    "difficulty": 1,
+    "statement": "FGV - EXAME CFC 2024.1 | LÍNGUA PORTUGUESA\n\nQuando escrevemos, devemos procurar ser claros e uma das maneiras de conseguir clareza é produzir frases na ordem direta, ou seja, sujeito + verbo + complementos + adjuntos.\nAssinale a frase em que isso foi feito.",
+    "options": [
+      "Reservaremos nossas passagens para depois de amanhã.",
+      "As passeatas, quando repletas, indicam algum anseio popular.",
+      "No final do mês compraremos novos móveis para a sala.",
+      "Os turistas, apesar da insegurança, gostam da cidade."
+    ],
+    "correctOption": "A",
+    "explanation": "A alternativa A segue rigorosamente a ordem direta: Sujeito (oculto: Nós) + Verbo (reservaremos) + Objeto/Complemento (nossas passagens) + Adjunto (para depois de amanhã). As demais contêm adjuntos adverbiais intercalados ou deslocados para o início da frase."
+  },
+  {
+    "questionNumber": 2,
+    "source": "FGV - Exame CFC 2024.1",
+    "subject": "Língua Portuguesa Aplicada",
+    "topic": "Interpretação de Texto",
+    "subtopic": "Figuras de Linguagem",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2024.1 | LÍNGUA PORTUGUESA\n\nAssinale o pensamento que mostra oposição de termos.",
+    "options": [
+      "As pessoas a quem servimos de apoio é que nos dão firmeza na vida.",
+      "Podemos pretender ser o que queiramos; mas não é lícito fingir que somos o que não somos.",
+      "Somos criaturas tão instáveis que acabamos vivendo os sentimentos que fingimos.",
+      "A flor não nasceu para decorar uma casa, embora o morador pense o contrário."
+    ],
+    "correctOption": "B",
+    "explanation": "Na alternativa B, a oposição se constrói no antagonismo entre o 'ser' (que remete à verdade e essência) e o 'fingir' (que remete à aparência e falsidade)."
+  },
+  {
+    "questionNumber": 3,
+    "source": "FGV - Exame CFC 2024.1",
+    "subject": "Matemática Financeira e Estatística",
+    "topic": "Juros Simples e Compostos",
+    "subtopic": "Taxas Proporcionais e Equivalentes",
+    "difficulty": 3,
+    "statement": "FGV - EXAME CFC 2024.1 | MATEMÁTICA FINANCEIRA E ESTATÍSTICA\n\nEm relação a fundamentos de matemática financeira, avalie as afirmativas a seguir.\nI. O conceito de taxas proporcionais está interligado ao regime de juros compostos, ao passo que o conceito de taxas equivalentes está interligado ao regime de juros simples.\nII. Se a inflação do período analisado foi menor que zero, então a taxa real será maior que a taxa nominal.\nIII. Em uma mesma aplicação, se o período de capitalização for menor que uma unidade, o montante no regime de juros simples será maior que o montante no regime de juros compostos.\nEstá correto o que se afirma em",
+    "options": [
+      "I, apenas.",
+      "II e III, apenas.",
+      "I e II, apenas.",
+      "I, II e III."
+    ],
+    "correctOption": "B",
+    "explanation": "I é falsa: taxas proporcionais aplicam-se a Juros Simples, e taxas equivalentes a Juros Compostos. II é verdadeira: quando há deflação (inflação < 0), o poder de compra aumenta, tornando a taxa de ganho real superior à taxa nominal. III é verdadeira: para prazos fracionários (n < 1), a curva de Juros Simples (linear) passa por cima da curva de Juros Compostos (exponencial)."
+  },
+  {
+    "questionNumber": 4,
+    "source": "FGV - Exame CFC 2024.1",
+    "subject": "Matemática Financeira e Estatística",
+    "topic": "Estatística Descritiva",
+    "subtopic": "Medidas de Tendência e Dispersão",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2024.1 | MATEMÁTICA FINANCEIRA E ESTATÍSTICA\n\nEm relação a conceitos básicos de estatística, avalie se as afirmativas a seguir são falsas (F) ou verdadeiras (V).\nI. A moda é uma medida de tendência central que apresenta a possibilidade de ser aplicada às variáveis qualitativas.\nII. São exemplos de medida de dispersão a variância e o desvio-padrão, sendo a variância obtida pela raiz quadrada do desvio-padrão.\nIII. A média apresenta, em relação à mediana, a vantagem de não sofrer influência de valores extremos (outliers).\nIV. Se uma variável é representada por números, ela será, necessariamente, uma variável quantitativa.\nAs afirmativas são, respectivamente,",
+    "options": [
+      "F – F – V – V.",
+      "F – V – F – V.",
+      "V – F – V – F.",
+      "V – F – F – F."
+    ],
+    "correctOption": "D",
+    "explanation": "I (V): A moda indica o termo mais frequente e pode medir características não numéricas. II (F): O desvio-padrão é a raiz quadrada da variância, não o inverso. III (F): A média sofre muita influência de valores atípicos; a mediana que é a medida resistente a outliers. IV (F): Um número pode ser uma variável qualitativa nominal, como um CEP, uma matrícula ou o número de uma camisa de futebol."
+  },
+  {
+    "questionNumber": 5,
+    "source": "FGV - Exame CFC 2024.1",
+    "subject": "Noções de Direito e Legislação Aplicada",
+    "topic": "Direito Constitucional e Civil",
+    "subtopic": "Liberdade Associativa",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2024.1 | DIREITO E LEGISLAÇÃO APLICADA\n\nJoão recebeu comunicação da associação de moradores do Bairro Alfa informando que ele se encontrava em débito. Ao comparecer, João informou que jamais se associara. Foi-lhe informado que isto era irrelevante, já que as conquistas da associação geravam benefícios para João. À luz dessa narrativa, é correto afirmar que",
+    "options": [
+      "como é obrigatória a associação de João, o débito é devido, embora ele possa se desassociar a qualquer momento.",
+      "ainda que seja beneficiado pelos atos da associação, cabe a João decidir se irá se associar, ou não, logo, o débito é indevido.",
+      "caso a associação tenha sido criada com a autorização do Município, a associação de João é tida como obrigatória e o débito é devido.",
+      "como as associações não têm fins lucrativos, é vedada a cobrança de mensalidades, logo, o débito é indevido."
+    ],
+    "correctOption": "B",
+    "explanation": "De acordo com o inciso XX do Art. 5º da Constituição Federal, 'ninguém poderá ser compelido a associar-se ou a permanecer associado'. Assim, a adesão é estritamente voluntária e cobranças de mensalidades a não associados são indevidas."
+  },
+  {
+    "questionNumber": 6,
+    "source": "FGV - Exame CFC 2024.1",
+    "subject": "Noções de Direito e Legislação Aplicada",
+    "topic": "Direito Administrativo",
+    "subtopic": "Licitações e Contratos",
+    "difficulty": 1,
+    "statement": "FGV - EXAME CFC 2024.1 | DIREITO E LEGISLAÇÃO APLICADA\n\nA sociedade empresária Alfa almejava celebrar um contrato com o Estado Beta para fornecer móveis. Ao consultar um especialista, foi corretamente informado ao sócio-gerente que",
+    "options": [
+      "os contratos celebrados pelo Estado sempre seguem os mesmos parâmetros dos contratos de direito privado.",
+      "todo contrato celebrado pelo Estado Beta deve ser antecedido de licitação, logo, a sociedade somente poderia fornecer se fosse vencedora em licitação.",
+      "ressalvadas as exceções legais, eventual celebração de contrato administrativo com o Estado Beta exigiria que a sociedade empresária Alfa fosse vencedora em licitação.",
+      "em razão do princípio da eficiência, a realização de licitação é reservada às situações onde haja possibilidade de competição."
+    ],
+    "correctOption": "C",
+    "explanation": "No Direito Administrativo, a licitação é a regra geral. Contudo, há situações explícitas na lei que permitem a contratação direta mediante dispensa ou inexigibilidade (o que invalida o uso da palavra 'todo' na alternativa B)."
+  },
+  {
+    "questionNumber": 7,
+    "source": "FGV - Exame CFC 2024.1",
+    "subject": "Noções de Direito e Legislação Aplicada",
+    "topic": "Direito Previdenciário",
+    "subtopic": "Seguridade Social",
+    "difficulty": 1,
+    "statement": "FGV - EXAME CFC 2024.1 | DIREITO E LEGISLAÇÃO APLICADA\n\nAna trabalhava em um escritório de contabilidade, tendo sido questionada por Maria em relação aos pontos de aproximação e distanciamento entre os referenciais de previdência e assistência social, em especial na perspectiva do caráter contributivo ou não. Ana respondeu corretamente que",
+    "options": [
+      "ambas oferecem direitos prestacionais e têm caráter necessariamente contributivo.",
+      "a assistência social assegura benefícios independente de qualquer contribuição.",
+      "a assistência social se aproxima das características da previdência pública, mas se diferencia da previdência privada.",
+      "a assistência social é uma das formas de expressão da previdência social, seguindo as regras gerais desta última."
+    ],
+    "correctOption": "B",
+    "explanation": "No modelo de Seguridade Social brasileiro, a Assistência Social destina-se a quem dela necessitar, de forma não contributiva (independe de pagamento prévio). Já a Previdência Social exige caráter contributivo e filiação obrigatória."
+  },
+  {
+    "questionNumber": 8,
+    "source": "FGV - Exame CFC 2024.1",
+    "subject": "Legislação e Ética Profissional",
+    "topic": "Código de Ética Profissional do Contador",
+    "subtopic": "Transferência de Contrato",
+    "difficulty": 1,
+    "statement": "FGV - EXAME CFC 2024.1 | ÉTICA PROFISSIONAL\n\nDe acordo com o CÓDIGO DE ÉTICA PROFISSIONAL DO CONTADOR, em seu item 6 (letra b), o contador pode transferir o contrato de serviços a seu cargo a outro profissional, com a anuência, sempre por escrito, do",
+    "options": [
+      "cliente.",
+      "seu superior.",
+      "executivo central da entidade em que trabalha.",
+      "acionista majoritário."
+    ],
+    "correctOption": "A",
+    "explanation": "O Código de Ética (NBC PG 01) exige expressa anuência formal (por escrito) do cliente antes que o contador possa repassar ou transferir a execução de seus serviços a terceiros."
+  },
+  {
+    "questionNumber": 9,
+    "source": "FGV - Exame CFC 2024.1",
+    "subject": "Legislação e Ética Profissional",
+    "topic": "Código de Ética Profissional do Contador",
+    "subtopic": "Infrações e Sanções",
+    "difficulty": 1,
+    "statement": "FGV - EXAME CFC 2024.1 | ÉTICA PROFISSIONAL\n\nO Código de Ética Profissional do Contador prevê que, na aplicação das sanções éticas, pode ser considerada atenuante a",
+    "options": [
+      "ausência de punição ética anterior.",
+      "prestação de serviços irrelevantes à contabilidade.",
+      "aplicação de desarrimo.",
+      "ação desenvolvida contra prerrogativas profissionais."
+    ],
+    "correctOption": "A",
+    "explanation": "A primariedade, ou seja, o fato de o profissional não ter registro de punições éticas anteriores, funciona como elemento formal para a atenuação das penalidades aplicadas pelas instâncias julgadoras do CFC/CRC."
+  },
+  {
+    "questionNumber": 10,
+    "source": "FGV - Exame CFC 2024.1",
+    "subject": "Legislação e Ética Profissional",
+    "topic": "Código de Ética Profissional do Contador",
+    "subtopic": "Deveres e Proibições",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2024.1 | ÉTICA PROFISSIONAL\n\nDe acordo com o Código de Ética Profissional, o contador pode praticar os seguintes atos, à exceção de um. Assinale-o.",
+    "options": [
+      "Publicar trabalho, científico ou técnico, assinado e sob sua responsabilidade.",
+      "Transferir o contrato de serviços a seu cargo a outro profissional, com a anuência do cliente, sempre por escrito.",
+      "Transferir integralmente a execução dos serviços a seu cargo a outro profissional, mantendo como sua a responsabilidade técnica.",
+      "Indicar, em qualquer modalidade ou veículo de comunicação, títulos, especializações e serviços oferecidos (se autorizado)."
+    ],
+    "correctOption": "C",
+    "explanation": "É considerado infração ética atuar como 'testa de ferro', ou seja, transferir de forma integral a execução do trabalho para terceiros e, ainda assim, colocar a sua própria assinatura ou registro como se houvesse exercido controle contábil e técnico sobre a atividade."
+  },
+  {
+    "questionNumber": 11,
+    "source": "FGV - Exame CFC 2024.1",
+    "subject": "Teoria da Contabilidade",
+    "topic": "Ativo Imobilizado (NBC TG 27)",
+    "subtopic": "Custos Atribuíveis",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2024.1 | TEORIA DA CONTABILIDADE\n\nSão considerados custos diretamente atribuíveis ao Ativo Imobilizado para sua mensuração no reconhecimento inicial pelo custo histórico, os listados a seguir, à exceção de um. Assinale-o.",
+    "options": [
+      "Custos de abertura de nova instalação.",
+      "Honorários profissionais.",
+      "Custos de frete e manuseio.",
+      "Custos de preparação do local."
+    ],
+    "correctOption": "A",
+    "explanation": "Conforme disposto na NBC TG 27, os gastos relacionados à introdução de novo produto e à abertura de novas instalações/filiais NÃO fazem parte do custo de aquisição do Imobilizado e devem ser contabilizados como despesa no resultado."
+  },
+  {
+    "questionNumber": 12,
+    "source": "FGV - Exame CFC 2024.1",
+    "subject": "Teoria da Contabilidade",
+    "topic": "Estrutura Conceitual",
+    "subtopic": "Incerteza e Estimativas",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2024.1 | TEORIA DA CONTABILIDADE\n\nUma entidade deseja reconhecer um ativo em seu balanço patrimonial. A sua mensuração envolve estimativas que estão sujeitas a incertezas. Nesse caso, a entidade",
+    "options": [
+      "não deve reconhecer nem divulgar o ativo, uma vez que não há objetividade em sua mensuração.",
+      "deve reconhecer o ativo sem mencionar a existência de estimativas, uma vez que estas foram elaboradas com zelo e são, portanto, confiáveis.",
+      "não deve reconhecer o ativo, mas evidenciá-lo em notas explicativas, uma vez que não há espaço para incertezas nas demonstrações contábeis elaboradas.",
+      "deve reconhecer o ativo e descrever e explicar as estimativas de forma clara e precisa, uma vez que o uso de estimativas razoáveis é parte essencial da elaboração de informações financeiras."
+    ],
+    "correctOption": "D",
+    "explanation": "De acordo com a Estrutura Conceitual, a incerteza inerente ao processo não impede o reconhecimento de elementos contábeis. O uso de estimativas justas é natural e aceitável, desde que as bases do cálculo sejam reveladas em Notas Explicativas."
+  },
+  {
+    "questionNumber": 13,
+    "source": "FGV - Exame CFC 2024.1",
+    "subject": "Teoria da Contabilidade",
+    "topic": "Estrutura Conceitual",
+    "subtopic": "Desreconhecimento",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2024.1 | TEORIA DA CONTABILIDADE\n\nEm 2023, uma entidade desreconheceu um ativo de seu balanço patrimonial. Assinale a opção que indica uma possível causa para o desreconhecimento.",
+    "options": [
+      "A entidade decidiu utilizar um terreno para finalidade diferente.",
+      "A entidade perdeu o controle de um imóvel, por meio de decisão judicial.",
+      "A entidade renegociou o prazo de recebimento de seus clientes, que estavam em situação financeira difícil.",
+      "A entidade constatou que as suas máquinas poderiam ser utilizadas por tempo maior do que a vida útil prevista."
+    ],
+    "correctOption": "B",
+    "explanation": "O Desreconhecimento contábil é o ato de baixar o ativo do balanço, o que só ocorre quando o controle é perdido. Alterações de prazo (C), de finalidade (A) ou revisão de vida útil (D) geram apenas reclassificações ou atualizações, mas o bem ainda pertence à empresa."
+  },
+  {
+    "questionNumber": 14,
+    "source": "FGV - Exame CFC 2024.1",
+    "subject": "Teoria da Contabilidade",
+    "topic": "Estrutura Conceitual",
+    "subtopic": "Manutenção de Capital",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2024.1 | TEORIA DA CONTABILIDADE\n\nDe acordo com o conceito de manutenção de capital financeiro, o lucro é auferido somente se o montante financeiro dos ativos líquidos no final do período exceder o montante no início do período, após excluir",
+    "options": [
+      "compra e venda de ativos fixos durante o período.",
+      "distribuições para, e contribuições de, sócios durante o período.",
+      "reconhecimento contábil de receitas e de despesas durante o período.",
+      "recebimento de receitas e pagamentos de despesas durante o período."
+    ],
+    "correctOption": "B",
+    "explanation": "Neste conceito econômico (Manutenção de Capital Financeiro), lucro significa um acréscimo de riqueza (aumento do PL). Porém, qualquer variação originada diretamente pelos donos da empresa (novo aporte de capital ou distribuição de dividendos) deve ser expurgada da análise."
+  },
+  {
+    "questionNumber": 15,
+    "source": "FGV - Exame CFC 2024.1",
+    "subject": "Teoria da Contabilidade",
+    "topic": "Redução ao Valor Recuperável",
+    "subtopic": "Impairment (NBC TG 01)",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2024.1 | TEORIA DA CONTABILIDADE\n\nUma empresa apresentava um valor líquido contábil de R$400.000, correspondente a uma máquina. A empresa realizou o teste de recuperabilidade (impairment) e obteve: Valor em uso: R$380.000; Valor justo líquido da despesa de venda: R$390.000. Com base nas informações apresentadas, o valor recuperável dessa máquina é",
+    "options": [
+      "R$400.000",
+      "R$390.000",
+      "R$380.000",
+      "R$500.000"
+    ],
+    "correctOption": "B",
+    "explanation": "A regra principal da NBC TG 01 determina que o Valor Recuperável será sempre o MAIOR montante obtido na comparação entre o Valor em Uso (R$ 380 mil) e o Valor Justo Líquido (R$ 390 mil). Desta forma, o teto para comparação contra o saldo contábil atual é de R$ 390.000."
+  },
+  {
+    "questionNumber": 16,
+    "source": "FGV - Exame CFC 2024.1",
+    "subject": "Teoria da Contabilidade",
+    "topic": "Propriedade para Investimento (NBC TG 28)",
+    "subtopic": "Mensuração a Valor Justo",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2024.1 | TEORIA DA CONTABILIDADE\n\nA entidade tem um imóvel para renda avaliada no balanço pelo valor justo. O valor contábil era R$ 1.000. No final do exercício, o valor de mercado (valor justo) do imóvel era R$ 1.120. Caso a entidade vendesse o imóvel, teria que pagar R$ 50 para um corretor. O valor justo desse imóvel no encerramento deve ser de",
+    "options": [
+      "R$1.070",
+      "R$1.000",
+      "R$1.170",
+      "R$1.120"
+    ],
+    "correctOption": "D",
+    "explanation": "Na mensuração pelo Valor Justo prevista na NBC TG 28 e NBC TG 46, os custos relacionados a uma futura negociação (corretagem) não são deduzidos da precificação no balanço. Tais custos de venda apenas são abatidos no cálculo do Valor Recuperável para fins de impairment."
+  },
+  {
+    "questionNumber": 17,
+    "source": "FGV - Exame CFC 2024.1",
+    "subject": "Teoria da Contabilidade",
+    "topic": "Informações por Segmento (NBC TG 22)",
+    "subtopic": "Agregação",
+    "difficulty": 3,
+    "statement": "FGV - EXAME CFC 2024.1 | TEORIA DA CONTABILIDADE\n\nDe acordo com o CPC22, dois ou mais segmentos operacionais podem ser agregados em um único segmento se a agregação for compatível com o princípio desta norma e tiverem características econômicas semelhantes em relação a cada um dos seguintes aspectos, à exceção de um. Assinale-o.",
+    "options": [
+      "Natureza dos processos de produção ou de distribuição.",
+      "Tipo ou a categoria de clientes dos seus produtos e serviços.",
+      "Resultados em termos absolutos iguais.",
+      "Se aplicável, a natureza do ambiente regulatório."
+    ],
+    "correctOption": "C",
+    "explanation": "A norma dita que os segmentos devem ter as mesmas margens e rentabilidade em longo prazo e perfis de risco equivalentes (produtos, clientes, leis). Resultados absolutos exatamente iguais (o valor final do lucro em si) não é um critério e nem é exigido para a agregação."
+  },
+  {
+    "questionNumber": 18,
+    "source": "FGV - Exame CFC 2024.1",
+    "subject": "Normas Brasileiras de Contabilidade",
+    "topic": "NBC TG",
+    "subtopic": "Convergência Internacional",
+    "difficulty": 1,
+    "statement": "FGV - EXAME CFC 2024.1 | NORMAS BRASILEIRAS DE CONTABILIDADE\n\nEm relação à estruturação das Normas Brasileiras de Contabilidade Técnicas (NBC TG), analise as afirmações:\nI. São convergentes com as normas internacionais emitidas pelo IASB.\nII. São convergentes com as normas norte-americanas emitidas pelo FASB.\nIII. São editadas por necessidades locais, sem equivalentes internacionais.\nDe acordo com a Resolução CFC 1.328/11, as NBC TG são relacionadas ao que se afirma em",
+    "options": [
+      "I, somente.",
+      "I e II, somente.",
+      "I e III, somente.",
+      "II e III, somente."
+    ],
+    "correctOption": "A",
+    "explanation": "A estrutura contábil adotada no Brasil pelo CPC/CFC é um espelhamento direto dos padrões de Relatórios Financeiros Internacionais (IFRS) criados unicamente pelo conselho IASB (Europa), não havendo convergência de base com o conselho FASB dos EUA."
+  },
+  {
+    "questionNumber": 19,
+    "source": "FGV - Exame CFC 2024.1",
+    "subject": "Teoria da Contabilidade",
+    "topic": "Estrutura Conceitual",
+    "subtopic": "Usuários da Informação",
+    "difficulty": 1,
+    "statement": "FGV - EXAME CFC 2024.1 | TEORIA DA CONTABILIDADE\n\nDe acordo com a NBC TG Estrutura Conceitual, os principais usuários aos quais se destinam os relatórios financeiros para fins gerais são representados por",
+    "options": [
+      "empregados, clientes e fornecedores.",
+      "detentores de participação societária e interessados em adquiri-la.",
+      "população em geral, impactada direta e indiretamente pelos relatórios.",
+      "investidores, credores por empréstimos e outros credores, existentes e potenciais."
+    ],
+    "correctOption": "D",
+    "explanation": "A atual revisão da Estrutura Conceitual determina inequivocamente que os 'usuários primários' - cujo interesse pauta a elaboração das DFs de propósito geral - são os investidores atuais/potenciais e agentes de crédito e financiamento."
+  },
+  {
+    "questionNumber": 20,
+    "source": "FGV - Exame CFC 2024.1",
+    "subject": "Contabilidade Geral",
+    "topic": "Estoques",
+    "subtopic": "Custo Médio Ponderado",
+    "difficulty": 3,
+    "statement": "FGV - EXAME CFC 2024.1 | CONTABILIDADE GERAL\n\nEm 01/01/2024, o estoque formado por 10 bonecas era de R$500.\nFatos do mês:\n• 05/01: compra de 20 un. por R$62 cada.\n• 12/01: venda de 12 un. por R$90 cada.\n• 17/01: compra de 15 un. por R$69 cada.\n• 25/01: venda de 18 un. por R$100 cada.\nAssinale o valor do estoque final, utilizando o método do Custo Médio Ponderado Móvel.",
+    "options": [
+      "R$376,30.",
+      "R$758,33.",
+      "R$925,00.",
+      "R$945,00."
+    ],
+    "correctOption": "D",
+    "explanation": "1º: Saldo base = 500 (10x R$50). 2º: Entram 20u a 1.240. Novo saldo é 30u (500+1240=1740). Custo médio: 1740/30 = 58/unid. 3º: Saem 12u, sobram 18u (18x58 = 1044). 4º: Entram 15u a 1035. Novo saldo é 33u (1044+1035=2079). Custo médio novo: 2079/33 = 63/unid. 5º: Venda de 18u, ficando 15 unidades a R$ 63/cada = R$ 945,00 em estoque."
+  },
+  {
+    "questionNumber": 21,
+    "source": "FGV - Exame CFC 2024.1",
+    "subject": "Contabilidade Geral",
+    "topic": "Ativo Imobilizado",
+    "subtopic": "Classificação",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2024.1 | CONTABILIDADE GERAL\n\nUma joalheria apresenta três imóveis. O primeiro (vendas) avaliado por R$900.000. O segundo, alugado a terceiros, avaliado por R$700.000. E o terceiro (escritório administrativo), por R$500.000. Considerando apenas esses fatos, assinale a opção que indica o saldo do ativo imobilizado.",
+    "options": [
+      "R$500.000.",
+      "R$900.000.",
+      "R$1.400.000.",
+      "R$2.100.000."
+    ],
+    "correctOption": "C",
+    "explanation": "Pela NBC TG 27, classifica-se como Ativo Imobilizado o que é utilizado pela empresa na sua atividade-fim (produção e administração). Imóveis de loja e escritório = 900k + 500k = R$ 1.400.000. O imóvel destinado a obter aluguéis é reclassificado como 'Propriedade para Investimento' (NBC TG 28)."
+  },
+  {
+    "questionNumber": 22,
+    "source": "FGV - Exame CFC 2024.1",
+    "subject": "Contabilidade Geral",
+    "topic": "Balanço Patrimonial",
+    "subtopic": "Ativo Circulante",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2024.1 | CONTABILIDADE GERAL\n\nEm 31/12/2023, a Cia Lua apresentava:\n- Aplicações financeiras p/ 720 dias: R$ 70.000\n- Clientes p/ 380 dias: R$ 60.000\n- Disponibilidades: R$ 50.000\n- Estoques venda 180 dias: R$ 40.000\n- PECLD: R$ 6.000\n- Perdas de estoque: R$ 8.000.\nAssinale o saldo do Ativo Circulante.",
+    "options": [
+      "R$76.000.",
+      "R$82.000.",
+      "R$90.000.",
+      "R$136.000."
+    ],
+    "correctOption": "B",
+    "explanation": "Consideram-se no Ativo Circulante direitos e bens realizáveis até o fim do exercício social seguinte (curto prazo/até 1 ano). Ficam no AC: Disponibilidades (50.000) e o Estoque deduzido de sua perda (40.000 - 8.000 = 32.000). Total: 82.000. Prazos de 720 e 380 dias (com a respectiva PECLD deduzida ali) irão compor o Realizável a Longo Prazo."
+  },
+  {
+    "questionNumber": 23,
+    "source": "FGV - Exame CFC 2024.1",
+    "subject": "Contabilidade Geral",
+    "topic": "Apresentação das Demonstrações",
+    "subtopic": "Estrutura da DRE",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2024.1 | CONTABILIDADE GERAL\n\nDe acordo com a NBC TG 26 (R5), a demonstração do resultado do período deve incluir as rubricas a seguir, com exceção de uma. Assinale-a.",
+    "options": [
+      "Custos de financiamento.",
+      "Distribuição do resultado do período.",
+      "Parcela dos resultados de empresas investidas reconhecida por meio da equivalência patrimonial.",
+      "Ganhos e perdas decorrentes do desreconhecimento de ativos financeiros."
+    ],
+    "correctOption": "B",
+    "explanation": "Os atos de 'Distribuição do resultado do período' (como o pagamento de dividendos e as retenções para reservas) são transferências pós-lucro. Eles compõem a DLPA e a DMPL, e não a estrutura da Demonstração de Resultado do Exercício."
+  },
+  {
+    "questionNumber": 24,
+    "source": "FGV - Exame CFC 2024.1",
+    "subject": "Teoria da Contabilidade",
+    "topic": "Demonstração do Resultado Abrangente",
+    "subtopic": "Conceito de DRA",
+    "difficulty": 1,
+    "statement": "FGV - EXAME CFC 2024.1 | TEORIA DA CONTABILIDADE\n\nLeia o fragmento: 'Resultado abrangente é a mutação que ocorre no _____ durante um período que resulta de transações e outros eventos que não sejam derivados de transações com os sócios na sua qualidade de proprietários.'\nAssinale a opção que completa corretamente a lacuna.",
+    "options": [
+      "ativo",
+      "passivo",
+      "resultado",
+      "patrimônio líquido"
+    ],
+    "correctOption": "D",
+    "explanation": "A NBC TG 26 conceitua Resultado Abrangente como sendo a variação ocorrida no Patrimônio Líquido que não possui relação com negociações entre a empresa e os sócios (aportes ou dividendos)."
+  },
+  {
+    "questionNumber": 25,
+    "source": "FGV - Exame CFC 2024.1",
+    "subject": "Contabilidade Geral",
+    "topic": "Demonstração dos Fluxos de Caixa",
+    "subtopic": "Método Indireto",
+    "difficulty": 1,
+    "statement": "FGV - EXAME CFC 2024.1 | CONTABILIDADE GERAL\n\nUma empresa elabora a sua Demonstração dos Fluxos de Caixa de acordo com o método indireto. Para o cálculo do lucro ajustado, a empresa deve adicionar ao lucro líquido, como ajuste, a despesa de",
+    "options": [
+      "aluguel de imóveis.",
+      "salários de empregados.",
+      "salários de mão de obra terceirizada.",
+      "depreciação dos ativos imobilizados."
+    ],
+    "correctOption": "D",
+    "explanation": "No método indireto da DFC, as contas contábeis que reduzem o lucro mas não configuram um pagamento financeiro que afeta o saldo bancário devem ser reincorporadas (somadas de volta). A depreciação é o exemplo primário desse tipo de ajuste."
+  },
+  {
+    "questionNumber": 26,
+    "source": "FGV - Exame CFC 2024.1",
+    "subject": "Contabilidade Geral",
+    "topic": "Demonstração do Valor Adicionado",
+    "subtopic": "Transferências Recebidas",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2024.1 | CONTABILIDADE GERAL\n\nEmpresa apresentou as seguintes receitas: Prestação de serviços: R$ 200.000; Venda de imobilizado: R$ 120.000; Equivalência Patrimonial: R$ 50.000; Financeiras: R$ 30.000. Assinale o valor adicionado recebido em transferência de acordo com a DVA da empresa.",
+    "options": [
+      "R$50.000.",
+      "R$80.000.",
+      "R$200.000.",
+      "R$320.000."
+    ],
+    "correctOption": "B",
+    "explanation": "O agrupamento de 'Valor adicionado recebido em transferência' na DVA abriga riquezas geradas por agentes externos e repassadas à empresa. Entram nesta aba os Resultados de Equivalência (50k) e as Receitas Financeiras (30k). Totalizando 80.000."
+  },
+  {
+    "questionNumber": 27,
+    "source": "FGV - Exame CFC 2024.1",
+    "subject": "Contabilidade Avançada",
+    "topic": "Demonstrações Consolidadas",
+    "subtopic": "Participação de Não Controladores",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2024.1 | CONTABILIDADE AVANÇADA\n\nA Cia A é controladora da Cia B mediante participação societária equivalente a 90% do capital social da Cia B. No balanço patrimonial, a participação dos não controladores deve ser apresentada",
+    "options": [
+      "no passivo, no balanço patrimonial consolidado.",
+      "no passivo, no balanço patrimonial individual da Cia A.",
+      "no patrimônio líquido, no balanço patrimonial individual da Cia A.",
+      "no patrimônio líquido, no balanço patrimonial consolidado."
+    ],
+    "correctOption": "D",
+    "explanation": "Conforme a NBC TG 36, o capital referente aos sócios minoritários (acionistas não controladores) nas subsidiárias não representa uma 'dívida' para ficar no Passivo. Esse valor deve ser mantido dentro do Patrimônio Líquido, mas com destaque, apenas no Balanço Consolidado."
+  },
+  {
+    "questionNumber": 28,
+    "source": "FGV - Exame CFC 2024.1",
+    "subject": "Contabilidade Avançada",
+    "topic": "Demonstrações Consolidadas",
+    "subtopic": "Lucro Intercompanhia",
+    "difficulty": 3,
+    "statement": "FGV - EXAME CFC 2024.1 | CONTABILIDADE AVANÇADA\n\nAs Cias Alfa e Beta apresentavam os seguintes balanços em 31/12/2023:\n\nCia Alfa:\n- Caixa: R$ 650.000\n- Terrenos: R$ 250.000\n- Investimentos (Cia Beta): R$ 400.000\nTotal Ativo: R$ 1.300.000 | Capital Social: R$ 1.300.000\n\nCia Beta:\n- Caixa: R$ 400.000\nTotal Ativo: R$ 400.000 | Capital Social: R$ 400.000\n\nEm 10/01/2024, a Cia Beta adquiriu terreno que pertencia à Cia Alfa, por R$ 280.000, à vista.\nAssinale a opção que indica os valores de mensuração do terreno, em 31/01/2024, no balanço patrimonial individual da Cia Beta e no balanço patrimonial consolidado, respectivamente.",
+    "options": [
+      "R$250.000 e R$250.000.",
+      "R$250.000 e R$280.000.",
+      "R$280.000 e R$250.000.",
+      "R$280.000 e R$280.000."
+    ],
+    "correctOption": "C",
+    "explanation": "No livro individual de quem comprou (Beta), registra-se a transação normal pelo valor que custou (R$ 280.000). Porém, no processo de Consolidação de grupo econômico, transações internas e seus lucros (30k de margem de Alfa) não são reconhecidos até serem realizados perante terceiros externos, retornando o saldo de ativos ao seu custo histórico pré-operação (R$ 250.000)."
+  },
+  {
+    "questionNumber": 29,
+    "source": "FGV - Exame CFC 2024.1",
+    "subject": "Contabilidade Avançada",
+    "topic": "Moeda Estrangeira (NBC TG 02)",
+    "subtopic": "Taxa de Fechamento",
+    "difficulty": 1,
+    "statement": "FGV - EXAME CFC 2024.1 | CONTABILIDADE AVANÇADA\n\nUma sociedade empresária apresenta em seu balanço patrimonial itens monetários em moeda estrangeira. De acordo com a NBC TG 02 (R3) - Efeitos das Mudanças nas Taxas de Câmbio, esses itens devem ser convertidos utilizando-se a taxa de câmbio",
+    "options": [
+      "média anual.",
+      "de fechamento.",
+      "vigente na data da transação.",
+      "estimada para a data de vencimento de tais itens monetários."
+    ],
+    "correctOption": "B",
+    "explanation": "Ao finalizar a elaboração das demonstrações financeiras no final do período, a NBC TG 02 estabelece que os saldos de itens monetários atrelados à moeda externa sejam todos retificados com base na taxa de câmbio vista no momento do fechamento daquele exercício."
+  },
+{
+    "questionNumber": 30,
+    "source": "Exame de Suficiência CFC",
+    "subject": "Contabilidade Geral",
+    "topic": "Provisões e Passivos Contingentes",
+    "subtopic": "NBC TG 25",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2024.1 | CONTABILIDADE GERAL\n\nEm janeiro de 2024, Joana adquiriu ingresso para um show musical que aconteceria em 11/02/2024.\nO show estava agendado para começar às 18 horas, mas só teve início às 22 horas. Joana precisou sair às 21 horas, de modo\nque não assistiu ao show.\nPor conta do atraso, Joana entrou na justiça contra os organizadores do show, pedindo a devolução do preço do ingresso, que\nhavia custado R$400, e uma indenização por danos morais, de R$1.000.\nOs advogados dos organizadores do show julgaram que a necessidade de pagamento decorrente da perda da causa por danos\nmorais era possível, enquanto a perda da causa pela devolução do preço do ingresso, era provável.\nAssinale a opção que indica o valor da provisão reconhecida pelos organizadores do show, devido à causa de Joana.",
+    "options": [
+      "(A) Zero.",
+      "(B) R$400.",
+      "(C) R$1.000.",
+      "(D) R$1.400."
+    ],
+    "correctOption": "B",
+    "explanation": "De acordo com a NBC TG 25, uma provisão deve ser reconhecida apenas quando a saída de recursos for PROVÁVEL. Para eventos POSSÍVEIS, a entidade apenas divulga em notas explicativas como passivo contingente. Como apenas a devolução do ingresso (R$ 400) é provável, esse é o valor da provisão."
+  },
+  {
+    "questionNumber": 31,
+    "source": "Exame de Suficiência CFC",
+    "subject": "Contabilidade Geral",
+    "topic": "Balanço Patrimonial",
+    "subtopic": "Lei 6.404/76",
+    "difficulty": 1,
+    "statement": "FGV - EXAME CFC 2024.1 | CONTABILIDADE GERAL\n\nEm relação aos ativos, no Balanço Patrimonial de uma entidade, assinale a afirmativa correta, de acordo com a Lei no 6.404/76\ne alterações.\n(A) No intangível estão as participações permanentes em outras sociedades e os direitos de qualquer natureza, não\nclassificáveis no ativo circulante.\n(B) No imobilizado estão os direitos que tenham por objeto bens incorpóreos destinados à manutenção da companhia ou\nexercidos com essa finalidade.\n(C) Em investimentos estão os direitos que tenham por objeto bens corpóreos destinados à manutenção das atividades da\nentidade ou exercidos com essa finalidade.\n(D) No circulante estão as disponibilidades, os direitos realizáveis no curso do exercício social subsequente e as aplicações de\nrecursos em despesas do exercício seguinte.",
+    "options": [
+      "(A) No intangível estão as participações permanentes em outras sociedades e os direitos de qualquer natureza, não classificáveis no ativo circulante.",
+      "(B) No imobilizado estão os direitos que tenham por objeto bens incorpóreos destinados à manutenção da companhia ou exercidos com essa finalidade.",
+      "(C) Em investimentos estão os direitos que tenham por objeto bens corpóreos destinados à manutenção das atividades da entidade ou exercidos com essa finalidade.",
+      "(D) No circulante estão as disponibilidades, os direitos realizáveis no curso do exercício social subsequente e as aplicações de recursos em despesas do exercício seguinte."
+    ],
+    "correctOption": "D",
+    "explanation": "A alternativa D está correta segundo o Art. 179 da Lei 6.404/76. As demais estão incorretas pois: participações permanentes são Investimentos (não intangível); bens incorpóreos são Intangíveis (não imobilizado); e bens corpóreos de manutenção são Imobilizado (não investimentos)."
+  },
+  {
+    "questionNumber": 32,
+    "source": "Exame de Suficiência CFC",
+    "subject": "Contabilidade Geral",
+    "topic": "Patrimônio Líquido",
+    "subtopic": "Capital Social",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2024.1 | CONTABILIDADE GERAL\n\nUma sociedade empresária apresentava os seguintes saldos relacionados ao capital social em 31/12/2023:\nCapital autorizado: ............................................................................ R$500.000;\nCapital a integralizar:........................................................................... R$40.000;\nCapital a subscrever: ............................................................................R$80.000.\nAssinale a opção que indica o capital social realizado da sociedade empresária em 31/12/2023.",
+    "options": [
+      "(A) R$380.000.",
+      "(B) R$420.000.",
+      "(C) R$460.000.",
+      "(D) R$540.000."
+    ],
+    "correctOption": "A",
+    "explanation": "Cálculo: Capital Autorizado (500k) (-) Capital a Subscrever (80k) = Capital Subscrito (420k). Em seguida: Capital Subscrito (420k) (-) Capital a Integralizar (40k) = Capital Realizado (380k)."
+  },
+  {
+    "questionNumber": 33,
+    "source": "Exame de Suficiência CFC",
+    "subject": "Contabilidade Geral",
+    "topic": "Contas",
+    "subtopic": "Natureza das Contas",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2024.1 | CONTABILIDADE GERAL\n\nEm relação às contas apresentadas no balanço patrimonial de uma entidade, avalie se as seguintes contas são de natureza\ndevedora:\nI. Adiantamento a sócio.\nII. Receitas antecipadas.\nIII. Ações em tesouraria.\nSão, de fato, contas de natureza devedora",
+    "options": [
+      "(A) I, II e III.",
+      "(B) I e II, somente.",
+      "(C) I e III, somente.",
+      "(D) II e III, somente."
+    ],
+    "correctOption": "C",
+    "explanation": "I. Adiantamento a sócio: Ativo (Direito), natureza devedora. II. Receitas antecipadas: Passivo (Obrigação de fazer), natureza credora. III. Ações em tesouraria: Retificadora do PL, portanto possui natureza contrária ao PL (que é credor), logo é de natureza devedora."
+  },
+  {
+    "questionNumber": 34,
+    "source": "Exame de Suficiência CFC",
+    "subject": "Contabilidade Geral",
+    "topic": "Regime de Competência",
+    "subtopic": "Receitas",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2024.1 | CONTABILIDADE GERAL\n\nEm 01/01/2024, Clara matriculou seus filhos em aulas de natação, por meio de pacote semestral de R$4.200, pagos à vista.\nClara acordou com a escola de natação que seus filhos não frequentariam as aulas no mês de abril, de modo que o pacote teria\nvalidade até 31/07/2024. As crianças iniciaram as aulas em 01/01.\nAssinale a opção que indica a receita contabilizada pela escola de natação em janeiro de 2024, de acordo com o Regime de\nCompetência.",
+    "options": [
+      "(A) Zero.",
+      "(B) R$600.",
+      "(C) R$700.",
+      "(D) R$4.200."
+    ],
+    "correctOption": "C",
+    "explanation": "O pacote cobre 6 meses de aula (Jan, Fev, Mar, Mai, Jun, Jul), pois em Abril não haverá aula. Pelo regime de competência, a receita deve ser apropriada conforme a prestação do serviço: R$ 4.200 / 6 meses = R$ 700 por mês de aula."
+  },
+  {
+    "questionNumber": 35,
+    "source": "Exame de Suficiência CFC",
+    "subject": "Contabilidade Geral",
+    "topic": "NBC TG 46",
+    "subtopic": "Valor Justo",
+    "difficulty": 1,
+    "statement": "FGV - EXAME CFC 2024.1 | CONTABILIDADE GERAL\n\nDe acordo com a NBC TG 46 (R2) – Mensuração do Valor Justo, a mensuração do valor justo presume que o ativo ou o passivo\né trocado em uma transação não forçada entre participantes do mercado para a venda do ativo ou a transferência do passivo\nna data de mensuração nas condições atuais de mercado.\nNa ausência de mercado principal, a mensuração do valor justo presume que a transação para a venda do ativo ocorre no\nmercado",
+    "options": [
+      "(A) mais vantajoso.",
+      "(B) mais próximo geograficamente.",
+      "(C) onde estão situados os principais competidores.",
+      "(D) onde está localizada a mão de obra relacionada à produção."
+    ],
+    "correctOption": "A",
+    "explanation": "Conforme a NBC TG 46, a mensuração do valor justo deve considerar o mercado principal para o ativo ou passivo. Na ausência desse mercado principal, a entidade deve utilizar o mercado mais vantajoso."
+  },
+  {
+    "questionNumber": 36,
+    "source": "Exame de Suficiência CFC",
+    "subject": "Contabilidade Geral",
+    "topic": "Ativo Intangível",
+    "subtopic": "Amortização e Recuperabilidade",
+    "difficulty": 3,
+    "statement": "FGV - EXAME CFC 2024.1 | CONTABILIDADE GERAL\n\nEm 01/01/2022, a Editora XYZ adquiriu, por R$540.000, os direitos autorais de um livro por seis anos, a partir dessa data.\nEm 31/12/2022, a Editora estimou que o valor recuperável dos direitos, a partir dessa data, era de R$470.000.\nAssinale a opção que indica a amortização acumulada dos direitos autorais em 31/12/2023, antes da realização do teste de\nrecuperabilidade, considerando que a editora segue as normas contábeis de contabilidade brasileiras.",
+    "options": [
+      "(A) R$94.000.",
+      "(B) R$180.000.",
+      "(C) R$184.000.",
+      "(D) R$188.000."
+    ],
+    "correctOption": "B",
+    "explanation": "1) Amortização 2022: 540k / 6 anos = 90k. Valor contábil em 31/12/22 = 450k. 2) Teste de Recuperabilidade: Valor recuperável (470k) é maior que o contábil (450k), logo não há perda. 3) Amortização 2023: continua sendo 90k sobre o valor original. 4) Amortização acumulada: 90k (2022) + 90k (2023) = 180k."
+  },
+  {
+    "questionNumber": 37,
+    "source": "Exame de Suficiência CFC",
+    "subject": "Contabilidade de Custos",
+    "topic": "Conceitos e Nomenclatura",
+    "subtopic": "Gastos",
+    "difficulty": 1,
+    "statement": "FGV - EXAME CFC 2024.1 | CONTABILIDADE DE CUSTOS\n\nRelacione os tipos de gastos a seguir elencados com seus respectivos conceitos.\n1. Custo\n2. Despesa\n3. Investimento\n( )Gasto ativado em função de sua vida útil ou de benefícios atribuíveis a períodos futuros.\n( )Gasto relativo ao consumo de recursos utilizados na produção de outros bens ou serviços.\n( )Gasto relativo a bem ou serviço consumido direta ou indiretamente para obtenção de receitas, manutenção da entidade e\nremuneração do capital de terceiros.\nAssinale a opção que mostra a relação correta, na ordem apresentada.",
+    "options": [
+      "(A) 1 – 3 – 2.",
+      "(B) 2 – 1 – 3.",
+      "(C) 3 – 1 – 2.",
+      "(D) 3 – 2 – 1."
+    ],
+    "correctOption": "C",
+    "explanation": "A sequência correta é: (3) Investimento é o gasto ativado; (1) Custo é o gasto na produção; (2) Despesa é o gasto para obtenção de receita/manutenção administrativa."
+  },
+  {
+    "questionNumber": 38,
+    "source": "Exame de Suficiência CFC",
+    "subject": "Contabilidade de Custos",
+    "topic": "Análise Custo-Volume-Lucro",
+    "subtopic": "Ponto de Equilíbrio Financeiro",
+    "difficulty": 3,
+    "statement": "FGV - EXAME CFC 2024.1 | CONTABILIDADE DE CUSTOS\n\nUm estúdio de pilates oferece apenas aulas individuais. Todas as suas operações são realizadas à vista. O preço da hora-aula é\nde R$200. Já o custo variável por aula referente ao pagamento dos instrutores é de R$120. Além disso, o estúdio paga,\nmensalmente, o salário da secretária e o do contador que são, respectivamente, de R$3.000 e R$6.000. Já a depreciação mensal\ndos aparelhos utilizados é de R$400. O estúdio ainda incorre e paga a despesa mensal de aluguel, que é de R$5.000.\nO ponto de equilíbrio financeiro do estúdio, em número de aulas, é:",
+    "options": [
+      "(A) 113.",
+      "(B) 118.",
+      "(C) 175.",
+      "(D) 180."
+    ],
+    "correctOption": "C",
+    "explanation": "Margem de Contribuição = 200 - 120 = 80. Custos Fixos totais = 3.000 + 6.000 + 400 + 5.000 = 14.400. No Ponto de Equilíbrio FINANCEIRO, excluímos gastos não desembolsáveis (Depreciação de 400). Custos Fixos Desembolsáveis = 14.000. PEF = 14.000 / 80 = 175 aulas."
+  },
+  {
+    "questionNumber": 39,
+    "source": "Exame de Suficiência CFC",
+    "subject": "Contabilidade de Custos",
+    "topic": "Análise Custo-Volume-Lucro",
+    "subtopic": "Margem de Segurança",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2024.1 | CONTABILIDADE DE CUSTOS\n\nUma relojoaria vende um determinado tipo de relógio por R$800 cada. Além disso, o seu ponto de equilíbrio é de 400 unidades\nde relógio.\nEm maio de 2024, a receita apurada pela loja foi de R$500.000.\nA margem de segurança da relojoaria em maio de 2024 foi de",
+    "options": [
+      "(A) 36,00%.",
+      "(B) 43,75%.",
+      "(C) 56,25%.",
+      "(D) 64,00%."
+    ],
+    "correctOption": "A",
+    "explanation": "1) Receita no Ponto de Equilíbrio: 400 unid x 800 = 320.000. 2) Margem de Segurança em valor: 500.000 - 320.000 = 180.000. 3) Margem de Segurança %: 180.000 / 500.000 = 0,36 (ou 36%)."
+  },
+  {
+    "questionNumber": 40,
+    "source": "Exame de Suficiência CFC",
+    "subject": "Análise de Demonstrações",
+    "topic": "Indicadores de Endividamento",
+    "subtopic": "Endividamento Geral",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2024.1 | Análise de Demonstrações\n\nEm 31/12/2023, o passivo de uma sociedade empresária era de R$400.000, já o seu patrimônio líquido era de R$600.000.\nO indicador de endividamento geral da sociedade empresária na data era:",
+    "options": [
+      "(A) 0,33.",
+      "(B) 0,40.",
+      "(C) 0,60.",
+      "(D) 0,67."
+    ],
+    "correctOption": "B",
+    "explanation": "Ativo Total = Passivo + PL = 400.000 + 600.000 = 1.000.000. O Índice de Endividamento Geral é calculado por Passivo Total / Ativo Total. Logo: 400.000 / 1.000.000 = 0,40."
+  },
+  {
+    "questionNumber": 41,
+    "source": "Exame de Suficiência CFC",
+    "subject": "Contabilidade de Custos",
+    "topic": "Classificação de Gastos",
+    "subtopic": "Custo Perdido (Sunk Cost)",
+    "difficulty": 1,
+    "statement": "FGV - EXAME CFC 2024.1 | CONTABILIDADE DE CUSTOS\n\nEm janeiro de 2024, Camila estava planejando viajar a Paris, em junho. Em janeiro, Camila pagou antecipadamente os passeios\ne a hospedagem, que custaram R$2.000 e R$4.000, respectivamente. Os valores não eram reembolsáveis.\nEm maio de 2024, Camila tentou comprar a sua passagem, que estava custando R$20.000. O valor era muito mais caro do que\no esperado por ela. Deste modo, Camila desistiu de viajar.\nAssinale a opção que indica o valor classificado como “custo perdido”, na situação.",
+    "options": [
+      "(A) Zero.",
+      "(B) R$6.000.",
+      "(C) R$20.000.",
+      "(D) R$26.000."
+    ],
+    "correctOption": "B",
+    "explanation": "Custo Perdido (Sunk Cost) refere-se a gastos que já ocorreram e não podem ser recuperados, independentemente de decisões futuras. Como Camila já pagou R$ 6.000 (2k + 4k) e eles não são reembolsáveis, esse valor é um custo perdido após a desistência."
+  },
+  {
+    "questionNumber": 42,
+    "source": "Exame de Suficiência CFC",
+    "subject": "Contabilidade Geral",
+    "topic": "Análise Financeira",
+    "subtopic": "Ciclo Financeiro",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2024.1 | CONTABILIDADE GERAL\n\nUm supermercado apresenta os seguintes prazos médios:\n• de estocagem: 4 dias.\n• de recebimento de clientes: 20 dias.\n• de pagamento a fornecedores: 30 dias.\nO ciclo financeiro do supermercado é favorável em",
+    "options": [
+      "(A) 6 dias.",
+      "(B) 10 dias.",
+      "(C) 14 dias.",
+      "(D) 24 dias."
+    ],
+    "correctOption": "A",
+    "explanation": "O Ciclo Operacional é a soma do Prazo Médio de Estocagem (4) + Prazo Médio de Recebimento (20) = 24 dias. O Ciclo Financeiro é o Ciclo Operacional (24) (-) Prazo Médio de Pagamento (30) = -6 dias. Um ciclo negativo significa que a empresa recebe antes de pagar, sendo 'favorável' em 6 dias."
+  },
+  {
+    "questionNumber": 43,
+    "source": "Exame de Suficiência CFC",
+    "subject": "Contabilidade Aplicada ao Setor Público",
+    "topic": "Variações Patrimoniais",
+    "subtopic": "NBC TSP 01 / MCASP",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2024.1 | Contabilidade Aplicada ao Setor Público\n\nUm ente público realizou o reconhecimento, a título de doação, de três imóveis para funcionamento de cinco unidades de\nsaúde pública. Após enquadrar o reconhecimento da transação como uma “Receita sem Contraprestação”, a contabilidade\nprocedeu: (1) a verificação dos benefícios econômicos futuros e potencial de serviços associados ao ativo; e (2) a mensuração\ndo valor justo dos imóveis em conformidade com as características qualitativas e observância das restrições da informação\ncontábil.\nDe acordo com a NBC TSP 01 – Receita sem Contraprestação e com o Manual de Contabilidade Aplicado ao Setor Público\n(MCASP), a contrapartida, no patrimônio público, do reconhecimento dos imóveis no ativo deverá ser classificada como",
+    "options": [
+      "(A) variação patrimonial aumentativa (VPA).",
+      "(B) variação patrimonial diminutiva (VPD).",
+      "(C) receita de doação.",
+      "(D) receita de capital."
+    ],
+    "correctOption": "A",
+    "explanation": "No setor público, o reconhecimento de um ativo (imóvel) recebido por doação sem que haja uma contraprestação direta resulta em um aumento do patrimônio líquido, sendo contabilizado como uma Variação Patrimonial Aumentativa (VPA), conforme o MCASP."
+  },
+  {
+    "questionNumber": 44,
+    "source": "Exame de Suficiência CFC",
+    "subject": "Contabilidade Aplicada ao Setor Público",
+    "topic": "Ativo Imobilizado",
+    "subtopic": "Redução ao Valor Recuperável",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2024.1 | Contabilidade Aplicada ao Setor Público\n\nApos um incêndio que comprometeu permanentemente três andares do imóvel em que funciona a sede administrativa, um\nente público observou que a perda dos benefícios econômicos futuros ou potencial de serviços do ativo superava o\nreconhecimento sistemático da depreciação lançada mensalmente.\nEm cumprimento ao Manual de Contabilidade Aplicado ao Setor Público (MCASP) e às Norma Brasileira de Contabilidade\nAplicada ao Setor Público (NBC TSP), o procedimento contábil para representação do fenômeno nas atuais condições ocorrerá\npor meio de",
+    "options": [
+      "(A) depreciação.",
+      "(B) amortização.",
+      "(C) exaustão.",
+      "(D) redução ao valor recuperável."
+    ],
+    "correctOption": "D",
+    "explanation": "Quando ocorre um evento (como um incêndio) que indica que o valor contábil de um ativo supera seu valor recuperável (perda inesperada de benefícios futuros), deve-se realizar o teste e o reconhecimento da 'redução ao valor recuperável' (impairment), pois a depreciação comum apenas cobre o desgaste sistemático esperado."
+  },
+  {
+    "questionNumber": 45,
+    "source": "Exame de Suficiência CFC",
+    "subject": "Contabilidade Aplicada ao Setor Público",
+    "topic": "Provisões e Passivos Contingentes",
+    "subtopic": "NBC TSP 03",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2024.1 | Contabilidade Aplicada ao Setor Público\n\nNo mês de março de 2024, um grupo de mães acionou uma creche do setor público na Justiça, por não oferecer as refeições\napropriadas. As mães pediam o recebimento de R$100.000 a título de indenização.\nOs advogados contratados pela creche estimaram que a saída de recursos era provável, uma vez que uma causa semelhante\nfoi perdida pela creche no ano anterior. Em 2023, a creche precisou pagar R$80.000 às mães. No entanto, por ser uma causa\nrecorrente, os advogados estimaram que desta vez o desembolso necessário seria de R$90.000.\nAssinale a opção que indica a provisão para contingências da creche, relacionada à causa.",
+    "options": [
+      "(A) Zero.",
+      "(B) R$80.000.",
+      "(C) R$90.000.",
+      "(D) R$100.000."
+    ],
+    "correctOption": "C",
+    "explanation": "A provisão deve ser reconhecida quando a perda é PROVÁVEL e o valor pode ser estimado com confiabilidade. A norma orienta que a provisão seja feita pela 'melhor estimativa' do desembolso exigido. Embora o pedido fosse de 100k, a estimativa técnica dos advogados baseada no histórico é de R$ 90.000."
+  },
+  {
+    "questionNumber": 46,
+    "source": "Exame de Suficiência CFC",
+    "subject": "Contabilidade Geral",
+    "topic": "Governança Corporativa",
+    "subtopic": "Compliance",
+    "difficulty": 1,
+    "statement": "FGV - EXAME CFC 2024.1 | CONTABILIDADE GERAL\n\nEm relação à estrutura de compliance de uma empresa, avalie se as seguintes afirmativas estão corretas.\nI. Visa à redução de riscos.\nII. Sua adoção melhora a transparência do negócio.\nIII. Preserva os controles éticos e de sustentabilidade corporativa.\nEstá correto o que se afirma em",
+    "options": [
+      "(A) I e II, somente.",
+      "(B) I e III, somente.",
+      "(C) II e III, somente.",
+      "(D) I, II e III."
+    ],
+    "correctOption": "D",
+    "explanation": "O compliance (conformidade) abrange todas as afirmativas: I) Identifica e mitiga riscos legais e operacionais; II) Melhora a prestação de contas e transparência; III) Garante que a empresa siga padrões éticos e regulatórios de sustentabilidade."
+  },
+  {
+    "questionNumber": 47,
+    "source": "Exame de Suficiência CFC",
+    "subject": "Auditoria Contábil",
+    "topic": "Conceitos Básicos",
+    "subtopic": "NBC TA 200",
+    "difficulty": 1,
+    "statement": "FGV - EXAME CFC 2024.1 | CONTABILIDADE GERAL\n\nCom relação à auditoria de demonstrações contábeis, avalie se afirmativas a seguir são verdadeiras (V) ou falsas (F).\n( )O objetivo da auditoria é aumentar o grau de confiança nas demonstrações contábeis por parte dos usuários.\n( )O objetivo da auditoria é alcançado mediante a expressão de uma opinião pelo auditor sobre se as demonstrações\ncontábeis foram elaboradas, em todos os aspectos relevantes, em conformidade com uma estrutura de relatório financeiro\naplicável.\n( )As demonstrações contábeis sujeitas à auditoria são as da entidade, elaboradas pela sua administração, com supervisão\ngeral dos responsáveis pela governança.\nAs afirmativas são, respectivamente,",
+    "options": [
+      "(A) V – V – V.",
+      "(B) V – F – V.",
+      "(C) F – V – V.",
+      "(D) V – V – F."
+    ],
+    "correctOption": "A",
+    "explanation": "Todas as afirmativas refletem os princípios fundamentais da NBC TA 200. A auditoria visa aumentar a confiança (1), através da opinião do auditor (2) sobre demonstrações que são de responsabilidade da administração e governança (3)."
+  },
+  {
+    "questionNumber": 48,
+    "source": "Exame de Suficiência CFC",
+    "subject": "Auditoria Contábil",
+    "topic": "Relatório do Auditor",
+    "subtopic": "Opinião Modificada",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2024.1 | Auditoria Contábil\n\nAo realizar a auditoria independente de uma sociedade empresária, o auditor verificou que não seria possível a obtenção de\nevidência apropriada e suficiente de auditoria para fundamentar a sua opinião. No entanto, concluiu que os possíveis efeitos\nde distorções não detectadas sobre as demonstrações contábeis poderiam ser relevantes, mas não generalizados.\nNesse caso, o auditor deve expressar uma opinião",
+    "options": [
+      "(A) adversa.",
+      "(B) sem ressalva.",
+      "(C) com ressalva.",
+      "(D) com abstenção."
+    ],
+    "correctOption": "C",
+    "explanation": "Segundo a NBC TA 705, quando o auditor não consegue evidência suficiente, mas conclui que os possíveis efeitos são RELEVANTES, MAS NÃO GENERALIZADOS, a opinião deve ser 'Com Ressalva'. Se fossem generalizados, seria 'Abstenção de Opinião'."
+  },
+  {
+    "questionNumber": 49,
+    "source": "Exame de Suficiência CFC",
+    "subject": "Perícia Contábil",
+    "topic": "Normas Profissionais",
+    "subtopic": "NBC TP 01 / NBC PP 01",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2024.1 | Perícia Contábil\n\nDe acordo com a NBC TP 01 (R1) e NBC PP 01 (R1), avalie as afirmativas a seguir.\nI. Quando se tratar de laudo pericial contábil assinado por peritos em conjunto, há responsabilidade solidária sobre o referido\ndocumento.\nII. A legislação penal determina responsabilidades e penalidades para o profissional que exerce a função de perito, as quais\nconsistem em multa, indenização e inabilitação.\nIII. A perícia judicial é exercida sob a tutela do Poder Judiciário, ao passo que a perícia extrajudicial é exercida sob a tutela do\nPoder Executivo ou do Poder Legislativo.\nIV. O planejamento deve ser revisado e atualizado sempre que fatos novos surjam no decorrer da perícia.\nEstão corretas apenas as afirmativas",
+    "options": [
+      "(A) II e III.",
+      "(B) I e IV.",
+      "(C) I, III e IV.",
+      "(D) II, III e IV."
+    ],
+    "correctOption": "B",
+    "explanation": "I) Correta: NBC TP 01 prevê solidariedade em laudos conjuntos. IV) Correta: O planejamento é dinâmico. II) Incorreta: Multa, indenização e inabilitação são sanções previstas principalmente no CPC (Cível) e normas profissionais. III) Incorreta: Perícia extrajudicial é aquela realizada fora do estado, por acordo entre partes, não necessariamente sob tutela do Executivo/Legislativo."
+  },
+  {
+    "questionNumber": 50,
+    "source": "Exame de Suficiência CFC",
+    "subject": "Perícia Contábil",
+    "topic": "Habilitação Profissional",
+    "subtopic": "CNPC e EQT",
+    "difficulty": 2,
+    "statement": "FGV - EXAME CFC 2024.1 | Perícia Contábil\n\nEm relação à perícia contábil, avalie as afirmativas a seguir.\nI. O laudo pericial contábil e o parecer pericial contábil devem ser elaborados somente por contador ou pessoa jurídica, se a\nlei assim permitir, que estejam devidamente registrados e habilitados.\nII. O perito deve comprovar sua habilitação por intermédio de Certidão de Regularidade Profissional emitida pelos Conselhos\nRegionais de Contabilidade ou do Cadastro Nacional de Peritos Contábeis do CFC.\nIII. A aprovação no Exame de Qualificação Técnica (EQT) para perito contábil assegura ao contador o registro no Cadastro\nNacional de Peritos Contábeis (CNPC) do Conselho Federal de Contabilidade (CFC). Este exame tem por objetivo aferir o\nnível de conhecimento e a competência técnico-profissional necessários ao contador que pretende atuar na atividade de\nperícia contábil.\nEstá correto o que se afirma em",
+    "options": [
+      "(A) I e II, apenas.",
+      "(B) I e III, apenas.",
+      "(C) II e III, apenas.",
+      "(D) I, II e III."
+    ],
+    "correctOption": "D",
+    "explanation": "Todas estão corretas: I) A perícia é prerrogativa de Contador (Bacharel); II) A regularidade é comprovada via CRC ou CNPC; III) O EQT é de fato o requisito para ingresso no Cadastro Nacional de Peritos Contábeis (CNPC)."
+  }
+
+
+
+]
